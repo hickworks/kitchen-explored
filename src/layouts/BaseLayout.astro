@@ -1,0 +1,82 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Kitchen product comparisons and reviews.' } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+const categories = [
+  { label: 'Blenders', slug: 'blenders' },
+  { label: 'Cookware', slug: 'cookware' },
+  { label: 'Faucets', slug: 'faucet' },
+  { label: 'Ovens', slug: 'ovens' },
+  { label: 'Knives', slug: 'knives' },
+  { label: 'Pressure Cookers', slug: 'pressure-cooker' },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title} | Kitchen Explored</title>
+  </head>
+  <body class="bg-white text-gray-800 antialiased">
+
+    <header class="bg-navy text-white">
+      <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-3">
+          <img
+            src="/kitchen-explored-logo-dark.svg"
+            alt="Kitchen Explored"
+            class="h-10 w-auto"
+          />
+        </a>
+        <nav class="hidden md:flex items-center gap-6 text-sm font-medium">
+          {categories.map(cat => (
+            <a
+              href={`/category/${cat.slug}/`}
+              class="hover:text-orange-start transition-colors"
+            >
+              {cat.label}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="bg-navy text-white mt-16">
+      <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row gap-6 justify-between text-sm">
+        <div>
+          <img
+            src="/kitchen-explored-logo-dark.svg"
+            alt="Kitchen Explored"
+            class="h-8 w-auto mb-3"
+          />
+          <p class="text-white/60">Honest kitchen product comparisons.</p>
+        </div>
+        <nav class="flex flex-col gap-2 text-white/80">
+          <a href="/about/" class="hover:text-white transition-colors">About Us</a>
+          <a href="/contact/" class="hover:text-white transition-colors">Contact</a>
+          <a href="/privacy-policy/" class="hover:text-white transition-colors">Privacy Policy</a>
+        </nav>
+      </div>
+      <div class="border-t border-white/10 text-center text-xs text-white/40 py-4">
+        &copy; {new Date().getFullYear()} Kitchen Explored. All rights reserved.
+      </div>
+    </footer>
+
+  </body>
+</html>

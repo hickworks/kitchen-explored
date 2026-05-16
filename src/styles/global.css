@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-navy: #062451;
+  --color-orange-start: #f78745;
+  --color-orange-end: #f85026;
+}
