@@ -9,7 +9,7 @@ Move off an expensive, unreliable shared WordPress host onto a fast, free static
 ## Tech Stack
 
 - **Framework**: Astro (static output)
-- **Hosting**: Cloudflare Pages (free tier, global CDN, auto-deploy from GitHub)
+- **Hosting**: Vercel (free tier, auto-deploy from GitHub on push to `main`)
 - **Styling**: Tailwind CSS
 - **Content**: Markdown / MDX with Astro Content Collections
 - **Design**: Pencil (.pen file) for mockups → `kitchenexplored.pen`
@@ -69,8 +69,22 @@ The Pencil app must be running in VS Code before MCP tools can connect to it.
 WordPress XML export → convert to Markdown using `wordpress-export-to-markdown`.
 Exported content goes in `src/content/posts/`.
 
+## Design Reference
+
+**Inspiration**: [Glide Blog](https://www.glideapps.com/blog)
+
+Key aesthetic principles to borrow:
+- **Generous whitespace** — substantial breathing room between all content blocks
+- **Minimal elevation** — cards feel flat or near-flat; shadows are subtle, never dramatic
+- **Slightly rounded corners** — present but restrained (~8px default); not pill-shaped
+- **Neutral-first palette** — whites and light grays dominate; color used as accent only
+- **Editorial clarity** — large, confident headings; clean typographic hierarchy
+- **Imagery as anchor** — consistently sized hero/card images; no decorative clutter
+
+The overall mood is: trustworthy, editorial, modern — not flashy.
+
 ## Deployment
 
-Push to `main` → Cloudflare Pages auto-builds and deploys.
+Push to `main` → Vercel auto-builds and deploys.
 Build command: `npm run build`
 Output directory: `dist`
