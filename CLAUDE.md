@@ -83,6 +83,60 @@ Key aesthetic principles to borrow:
 
 The overall mood is: trustworthy, editorial, modern — not flashy.
 
+## Atomic Design System Checklist
+
+Work through these in order. Check off each item as it is completed in `kitchenexplored.pen`.
+
+### Tokens (complete ✓)
+- [x] Color primitives (brand + Paprika scale + Midnight Navy scale + Neutral scale)
+- [x] Typography (Inter, major third ×1.25, base 16px, weights)
+- [x] Border radius scale
+- [x] Elevation / shadow scale
+- [x] Spacing scale (base-8)
+- [x] Motion / duration tokens
+
+### Atoms
+- [ ] **Button** — primary, secondary, ghost, icon; SM / MD / LG sizes
+- [ ] Text styles — semantic roles: H1–H4, body, caption, label, overline
+- [ ] Input field — text, search
+- [ ] Badge / Category tag
+- [ ] Icon (Lucide or Phosphor set)
+- [ ] Avatar
+- [ ] Divider
+- [ ] Image frame (aspect ratio containers: 16:9, 4:3, 1:1)
+- [ ] Skeleton loader
+
+### Molecules
+- [ ] Search bar (input + icon button)
+- [ ] Post meta row (avatar + author + date + read time)
+- [ ] Breadcrumb
+- [ ] Pagination
+- [ ] Score / verdict display
+- [ ] Form field (label + input + helper text)
+- [ ] Nav link (with active / hover states)
+- [ ] Social share row
+
+### Organisms
+- [ ] **Post card** — most critical; used 180+ times across every page
+- [ ] Featured post card — larger hero variant
+- [ ] Post grid (3-col card layout)
+- [ ] Header / Nav (logo + category links + search)
+- [ ] Footer
+- [ ] Hero banner (home page)
+- [ ] Category filter bar
+- [ ] **Comparison table** — the heart of every article
+- [ ] Verdict / winner box (recommendation callout)
+- [ ] Article header (category tag + title + meta + hero image)
+- [ ] Table of contents (sticky sidebar)
+- [ ] Related posts strip
+- [ ] CTA / Newsletter signup
+
+### Templates
+- [ ] Home page layout
+- [ ] Category archive page layout
+- [ ] Article / post page layout
+- [ ] About page layout
+
 ## Deployment
 
 Push to `main` → Vercel auto-builds and deploys.
