@@ -1,0 +1,47 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+  featured?: boolean;
+}
+
+const { post, featured = false } = Astro.props;
+const { title, description, pubDate, category, image, imageAlt } = post.data;
+
+const categoryLabel = category.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const dateStr = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+const readTime = Math.max(1, Math.ceil((post.body ?? '').split(/\s+/).length / 200));
+---
+
+<a
+  href={`/posts/${post.id}/`}
+  class:list={[
+    'group block rounded-xl overflow-hidden border border-gray-100 bg-white transition-shadow hover:shadow-md',
+    featured && 'h-full',
+  ]}
+>
+  <div class:list={['bg-gray-100 overflow-hidden', featured ? 'aspect-[16/9]' : 'aspect-video']}>
+    {image
+      ? <img src={image} alt={imageAlt ?? title} class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300" loading="lazy" />
+      : <div class="w-full h-full bg-gray-200" />
+    }
+  </div>
+  <div class:list={['flex flex-col', featured ? 'p-6 gap-3' : 'p-5 gap-2']}>
+    <span class="text-xs font-semibold uppercase tracking-wide text-orange-start">{categoryLabel}</span>
+    <h3 class:list={['font-bold text-gray-900 group-hover:text-navy transition-colors leading-snug line-clamp-2', featured ? 'text-xl' : 'text-base']}>
+      {title}
+    </h3>
+    {description && (
+      <p class="text-sm text-gray-500 line-clamp-2">{description}</p>
+    )}
+    <div class="flex items-center gap-1.5 text-xs text-gray-400 mt-auto pt-1">
+      <div class="w-5 h-5 rounded-full bg-navy text-white flex items-center justify-center shrink-0" style="font-size:9px;font-weight:700">MH</div>
+      <span>Matt Hickman</span>
+      <span class="text-gray-200">·</span>
+      <time datetime={pubDate.toISOString()}>{dateStr}</time>
+      <span class="text-gray-200">·</span>
+      <span>{readTime} min read</span>
+    </div>
+  </div>
+</a>

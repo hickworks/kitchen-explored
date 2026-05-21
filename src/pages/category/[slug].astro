@@ -1,10 +1,11 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const categories = ['blenders', 'cookware', 'faucet', 'ovens', 'knives', 'pressure-cooker'];
-  return categories.map(slug => ({ params: { slug } }));
+  const slugs = ['blenders', 'cookware', 'faucet', 'ovens', 'knives', 'pressure-cooker'];
+  return slugs.map(slug => ({ params: { slug } }));
 }
 
 const { slug } = Astro.params;
@@ -14,28 +15,72 @@ const posts = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const label = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
+const categories = [
+  { label: 'Blenders', slug: 'blenders' },
+  { label: 'Cookware', slug: 'cookware' },
+  { label: 'Faucets', slug: 'faucet' },
+  { label: 'Ovens', slug: 'ovens' },
+  { label: 'Knives', slug: 'knives' },
+  { label: 'Pressure Cookers', slug: 'pressure-cooker' },
+];
 ---
 
-<BaseLayout title={label} description={`${label} product comparisons and reviews.`}>
-  <div class="max-w-6xl mx-auto px-4 py-12">
-    <h1 class="text-3xl font-bold text-navy mb-8">{label}</h1>
+<BaseLayout
+  title={label}
+  description={`${label} product comparisons and reviews.`}
+  activeCategory={slug}
+>
 
-    {posts.length > 0 ? (
-      <div class="grid md:grid-cols-3 gap-6">
-        {posts.map(post => (
-          <a href={`/posts/${post.id}/`} class="group block rounded-xl border border-gray-100 hover:shadow-md transition-shadow overflow-hidden">
-            {post.data.image && (
-              <img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} class="w-full h-40 object-cover" />
-            )}
-            <div class="p-4">
-              <h2 class="font-bold group-hover:text-navy transition-colors">{post.data.title}</h2>
-              {post.data.description && <p class="text-sm text-gray-500 mt-1 line-clamp-2">{post.data.description}</p>}
-            </div>
+  <!-- Category header -->
+  <div class="border-b border-gray-100 bg-white">
+    <div class="max-w-[1104px] mx-auto px-6 py-10">
+      <nav class="flex items-center gap-1.5 text-sm text-gray-400 mb-4">
+        <a href="/" class="hover:text-navy transition-colors">Home</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg>
+        <span class="text-gray-700 font-medium">{label}</span>
+      </nav>
+      <h1 class="text-4xl font-bold text-navy">{label}</h1>
+      {posts.length > 0 && (
+        <p class="mt-2 text-sm text-gray-400">{posts.length} comparison{posts.length !== 1 ? 's' : ''}</p>
+      )}
+    </div>
+  </div>
+
+  <!-- Filter bar -->
+  <div class="border-b border-gray-100 bg-white sticky top-0 z-10">
+    <div class="max-w-[1104px] mx-auto px-6 h-[72px] flex items-center gap-6">
+      <span class="text-sm font-medium text-gray-500 whitespace-nowrap shrink-0">Browse by category</span>
+      <div class="flex items-center gap-1 overflow-x-auto">
+        {categories.map(cat => (
+          <a
+            href={`/category/${cat.slug}/`}
+            class:list={[
+              'px-3 py-1.5 rounded-md text-sm whitespace-nowrap transition-colors',
+              cat.slug === slug
+                ? 'bg-navy text-white font-semibold'
+                : 'text-gray-600 hover:text-navy hover:bg-gray-50',
+            ]}
+          >
+            {cat.label}
           </a>
         ))}
       </div>
+    </div>
+  </div>
+
+  <!-- Post grid -->
+  <div class="max-w-[1104px] mx-auto px-6 py-12">
+    {posts.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {posts.map(post => <PostCard post={post} />)}
+      </div>
     ) : (
-      <p class="text-gray-400">No posts in this category yet.</p>
+      <div class="py-24 text-center">
+        <p class="text-gray-400 text-lg">No comparisons in this category yet.</p>
+        <p class="text-gray-300 text-sm mt-2">Check back soon.</p>
+      </div>
     )}
   </div>
+
 </BaseLayout>

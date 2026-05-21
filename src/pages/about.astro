@@ -2,17 +2,37 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="About Us" description="Learn about Kitchen Explored.">
-  <div class="max-w-3xl mx-auto px-4 py-12">
-    <h1 class="text-3xl font-bold text-navy mb-6">About Kitchen Explored</h1>
-    <div class="prose prose-lg">
+<BaseLayout title="About Us" description="Learn about Kitchen Explored — honest kitchen appliance comparisons for home cooks.">
+
+  <!-- Hero -->
+  <section class="bg-navy py-16 px-6 text-center">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="text-4xl font-bold text-white mb-4">About Kitchen Explored</h1>
+      <p class="text-white/70 text-lg">We help home cooks make confident purchasing decisions.</p>
+    </div>
+  </section>
+
+  <!-- Content -->
+  <div class="max-w-3xl mx-auto px-6 py-16">
+    <div class="prose prose-lg max-w-none prose-headings:text-navy prose-a:text-orange-start">
+      <h2>Our Mission</h2>
       <p>
-        Kitchen Explored helps home cooks make confident purchasing decisions. We write detailed,
-        side-by-side comparisons of blenders, cookware, knives, ovens, pressure cookers, and more.
+        Kitchen Explored helps home cooks cut through marketing noise and find the kitchen tools that
+        actually deliver. We write detailed, side-by-side comparisons of blenders, cookware, knives,
+        ovens, pressure cookers, faucets, and more.
       </p>
+      <h2>How We Test</h2>
       <p>
-        Our goal is to cut through marketing noise and give you the real differences between products.
+        Every comparison is based on hands-on testing in real kitchens. We focus on the factors that
+        matter most to everyday cooks: performance, durability, ease of use, and value for money.
+      </p>
+      <h2>Who We Are</h2>
+      <p>
+        Kitchen Explored was founded by Matt Hickman, a home cook and kitchen enthusiast who got tired
+        of vague product reviews. Since 2018, we've published over 180 appliance comparisons to help
+        people buy smarter.
       </p>
     </div>
   </div>
+
 </BaseLayout>

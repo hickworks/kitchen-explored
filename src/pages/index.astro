@@ -1,68 +1,193 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('posts');
-const featured = allPosts.filter(p => p.data.featured).slice(0, 3);
-const latest = allPosts
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 9);
+const sorted = [...allPosts].sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const heroPost = sorted.find(p => p.data.featured) ?? sorted[0];
+const listPosts = sorted.filter(p => p !== heroPost).slice(0, 4);
+
+const byCategory = (slug: string) => sorted.filter(p => p.data.category === slug);
+
+const sections = [
+  { label: 'Blenders',          slug: 'blenders',        posts: byCategory('blenders') },
+  { label: 'Cookware',          slug: 'cookware',         posts: byCategory('cookware') },
+  { label: 'Knives',            slug: 'knives',           posts: byCategory('knives') },
+  { label: 'Ovens',             slug: 'ovens',            posts: byCategory('ovens') },
+  { label: 'Faucets',           slug: 'faucet',           posts: byCategory('faucet') },
+  { label: 'Pressure Cookers',  slug: 'pressure-cooker',  posts: byCategory('pressure-cooker') },
+].filter(s => s.posts.length > 0);
+
+const categories = [
+  { label: 'Blenders', slug: 'blenders' },
+  { label: 'Cookware', slug: 'cookware' },
+  { label: 'Faucets', slug: 'faucet' },
+  { label: 'Ovens', slug: 'ovens' },
+  { label: 'Knives', slug: 'knives' },
+  { label: 'Pressure Cookers', slug: 'pressure-cooker' },
+];
+
+const toLabel = (slug: string) => slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const toDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
 ---
 
 <BaseLayout title="Home" description="Kitchen product comparisons and reviews — blenders, cookware, knives, ovens, and more.">
 
-  <!-- Hero -->
-  <section class="bg-navy text-white py-20 px-4 text-center">
-    <h1 class="text-4xl md:text-5xl font-bold mb-4">Find Your Perfect Kitchen Tool</h1>
-    <p class="text-white/70 text-lg max-w-xl mx-auto">
-      Side-by-side comparisons to help you shop smarter.
-    </p>
+  <!-- Site Hero -->
+  <section class="bg-navy py-20 px-6 text-center">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="text-4xl md:text-5xl font-bold text-white mb-4 leading-tight">
+        Every Kitchen Appliance, Compared.
+      </h1>
+      <p class="text-white/70 text-lg mb-8">
+        Side-by-side comparisons to help you shop smarter.
+      </p>
+      <div class="flex gap-3 max-w-md mx-auto">
+        <input
+          type="search"
+          placeholder="Search comparisons…"
+          class="flex-1 px-4 h-11 rounded-lg border border-white/20 bg-white/10 text-white placeholder:text-white/50 text-sm focus:outline-none focus:border-white/40"
+        />
+        <button class="h-11 px-5 rounded-lg text-white font-semibold text-sm whitespace-nowrap" style="background:linear-gradient(135deg,#f78745,#f85026)">
+          Subscribe
+        </button>
+      </div>
+    </div>
   </section>
 
-  <div class="max-w-6xl mx-auto px-4 py-12">
+  {sorted.length > 0 && (
+    <>
+      <!-- Blog Hero -->
+      <section class="py-16 border-b border-gray-100">
+        <div class="max-w-[1104px] mx-auto px-6">
+          <div class="flex flex-col lg:flex-row gap-12 items-start">
 
-    {featured.length > 0 && (
-      <section class="mb-14">
-        <h2 class="text-2xl font-bold text-navy mb-6">Featured</h2>
-        <div class="grid md:grid-cols-3 gap-6">
-          {featured.map(post => (
-            <a href={`/posts/${post.id}/`} class="group block rounded-xl border border-gray-100 hover:shadow-md transition-shadow overflow-hidden">
-              {post.data.image && (
-                <img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} class="w-full h-44 object-cover" />
-              )}
-              <div class="p-4">
-                <span class="text-xs font-semibold uppercase tracking-wide text-orange-start">{post.data.category}</span>
-                <h3 class="font-bold mt-1 group-hover:text-navy transition-colors">{post.data.title}</h3>
-                {post.data.description && <p class="text-sm text-gray-500 mt-1 line-clamp-2">{post.data.description}</p>}
+            <!-- Featured post -->
+            {heroPost && (
+              <div class="flex-1 min-w-0">
+                <a href={`/posts/${heroPost.id}/`} class="group block rounded-xl overflow-hidden border border-gray-100 hover:shadow-md transition-shadow bg-white">
+                  <div class="aspect-video bg-gray-100 overflow-hidden">
+                    {heroPost.data.image
+                      ? <img src={heroPost.data.image} alt={heroPost.data.imageAlt ?? heroPost.data.title} class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300" />
+                      : <div class="w-full h-full bg-gray-200" />
+                    }
+                  </div>
+                  <div class="p-6">
+                    <span class="text-xs font-semibold uppercase tracking-wide text-orange-start">{toLabel(heroPost.data.category)}</span>
+                    <h2 class="mt-2 text-2xl font-bold text-gray-900 group-hover:text-navy transition-colors leading-snug">{heroPost.data.title}</h2>
+                    {heroPost.data.description && <p class="mt-2 text-gray-500 text-sm line-clamp-2">{heroPost.data.description}</p>}
+                    <div class="mt-4 flex items-center gap-1.5 text-xs text-gray-400">
+                      <div class="w-5 h-5 rounded-full bg-navy text-white flex items-center justify-center shrink-0" style="font-size:9px;font-weight:700">MH</div>
+                      <span>Matt Hickman</span>
+                      <span class="text-gray-200">·</span>
+                      <time datetime={heroPost.data.pubDate.toISOString()}>{toDate(heroPost.data.pubDate)}</time>
+                    </div>
+                    <p class="mt-4 text-sm font-semibold text-orange-start">Read the comparison →</p>
+                  </div>
+                </a>
               </div>
-            </a>
-          ))}
+            )}
+
+            <!-- Post list -->
+            {listPosts.length > 0 && (
+              <div class="w-full lg:w-[400px] shrink-0">
+                <div class="divide-y divide-gray-100">
+                  {listPosts.map(post => (
+                    <a href={`/posts/${post.id}/`} class="group flex gap-4 py-4 rounded transition-colors hover:bg-gray-50 -mx-3 px-3">
+                      <div class="flex-1 min-w-0">
+                        <span class="text-xs font-semibold uppercase tracking-wide text-orange-start">{toLabel(post.data.category)}</span>
+                        <h3 class="mt-0.5 text-sm font-semibold text-gray-900 group-hover:text-navy transition-colors line-clamp-2 leading-snug">{post.data.title}</h3>
+                        <p class="mt-1 text-xs text-gray-400">{toDate(post.data.pubDate)}</p>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+
+          </div>
         </div>
       </section>
-    )}
 
-    {latest.length > 0 && (
-      <section>
-        <h2 class="text-2xl font-bold text-navy mb-6">Latest Comparisons</h2>
-        <div class="grid md:grid-cols-3 gap-6">
-          {latest.map(post => (
-            <a href={`/posts/${post.id}/`} class="group block rounded-xl border border-gray-100 hover:shadow-md transition-shadow overflow-hidden">
-              {post.data.image && (
-                <img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} class="w-full h-40 object-cover" />
-              )}
-              <div class="p-4">
-                <span class="text-xs font-semibold uppercase tracking-wide text-orange-start">{post.data.category}</span>
-                <h3 class="font-bold mt-1 group-hover:text-navy transition-colors">{post.data.title}</h3>
-              </div>
-            </a>
-          ))}
+      <!-- Filter bar -->
+      <div class="border-b border-gray-100 bg-white sticky top-0 z-10">
+        <div class="max-w-[1104px] mx-auto px-6 h-[72px] flex items-center gap-6">
+          <span class="text-sm font-medium text-gray-500 whitespace-nowrap shrink-0">Browse by category</span>
+          <div class="flex items-center gap-1 overflow-x-auto">
+            {categories.map(cat => (
+              <a href={`/category/${cat.slug}/`} class="px-3 py-1.5 rounded-md text-sm text-gray-600 hover:text-navy hover:bg-gray-50 whitespace-nowrap transition-colors">
+                {cat.label}
+              </a>
+            ))}
+          </div>
         </div>
-      </section>
-    )}
+      </div>
 
-    {allPosts.length === 0 && (
-      <p class="text-gray-400 text-center py-20">Content coming soon.</p>
-    )}
+      <!-- Category sections -->
+      {sections.map((section, i) => (
+        <section class:list={['py-16 border-b border-gray-100', i % 2 === 1 && 'bg-gray-50']}>
+          <div class="max-w-[1104px] mx-auto px-6">
 
-  </div>
+            <!-- Section header -->
+            <div class="flex items-end justify-between mb-8">
+              <div>
+                <h2 class="text-3xl md:text-[40px] font-bold text-navy leading-none">{section.label}</h2>
+                <p class="mt-2 text-sm text-gray-400">
+                  {section.posts.length} comparison{section.posts.length !== 1 ? 's' : ''}
+                </p>
+              </div>
+              <a href={`/category/${section.slug}/`} class="text-sm font-semibold text-orange-start hover:underline whitespace-nowrap">
+                Read More →
+              </a>
+            </div>
+
+            {section.posts.length === 1 ? (
+              <div class="max-w-sm">
+                <PostCard post={section.posts[0]} />
+              </div>
+            ) : section.posts.length === 2 ? (
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                {section.posts.slice(0, 2).map(post => <PostCard post={post} />)}
+              </div>
+            ) : (
+              <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {section.posts.slice(0, 3).map(post => <PostCard post={post} />)}
+              </div>
+            )}
+
+          </div>
+        </section>
+      ))}
+    </>
+  )}
+
+  {sorted.length === 0 && (
+    <section class="py-32 text-center text-gray-400">
+      <p class="text-lg">Content coming soon.</p>
+    </section>
+  )}
+
+  <!-- CTA Newsletter -->
+  <section class="py-16 bg-white">
+    <div class="max-w-[680px] mx-auto px-6">
+      <div class="rounded-2xl bg-navy p-12 text-center">
+        <h2 class="text-3xl font-bold text-white mb-3">Stay in the loop.</h2>
+        <p class="text-white/70 text-base mb-6">Get our latest kitchen product comparisons delivered to your inbox.</p>
+        <div class="flex gap-3 max-w-sm mx-auto">
+          <input
+            type="email"
+            placeholder="Email address"
+            class="flex-1 px-4 h-11 rounded-lg border border-white/20 bg-white/10 text-white placeholder:text-white/50 text-sm focus:outline-none focus:border-white/40"
+          />
+          <button class="h-11 px-5 rounded-lg text-white font-semibold text-sm whitespace-nowrap" style="background:linear-gradient(135deg,#f78745,#f85026)">
+            Subscribe
+          </button>
+        </div>
+        <p class="mt-3 text-xs text-white/40">No spam. Unsubscribe any time.</p>
+      </div>
+    </div>
+  </section>
+
 </BaseLayout>
