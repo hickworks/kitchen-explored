@@ -96,46 +96,46 @@ Work through these in order. Check off each item as it is completed in `kitchene
 - [x] Motion / duration tokens
 
 ### Atoms
-- [ ] **Button** — primary, secondary, ghost, icon; SM / MD / LG sizes
-- [ ] Text styles — semantic roles: H1–H4, body, caption, label, overline
-- [ ] Input field — text, search
-- [ ] Badge / Category tag
-- [ ] Icon (Lucide or Phosphor set)
-- [ ] Avatar
-- [ ] Divider
-- [ ] Image frame (aspect ratio containers: 16:9, 4:3, 1:1)
-- [ ] Skeleton loader
+- [x] **Button** — primary, secondary, ghost, icon; SM / MD / LG sizes
+- [x] Text styles — semantic roles: H1–H4, body, caption, label, overline
+- [x] Input field — text, search
+- [x] Badge / Category tag
+- [x] Icon (Lucide or Phosphor set)
+- [x] Avatar
+- [x] Divider
+- [x] Image frame (aspect ratio containers: 16:9, 4:3, 1:1)
+- [x] Skeleton loader
 
 ### Molecules
-- [ ] Search bar (input + icon button)
-- [ ] Post meta row (avatar + author + date + read time)
-- [ ] Breadcrumb
-- [ ] Pagination
-- [ ] Score / verdict display
-- [ ] Form field (label + input + helper text)
-- [ ] Nav link (with active / hover states)
-- [ ] Social share row
+- [x] Search bar (input + icon button)
+- [x] Post meta row (avatar + author + date + read time)
+- [x] Breadcrumb
+- [x] Pagination
+- [x] Score / verdict display
+- [x] Form field (label + input + helper text)
+- [x] Nav link (with active / hover states)
+- [x] Social share row
 
 ### Organisms
-- [ ] **Post card** — most critical; used 180+ times across every page
-- [ ] Featured post card — larger hero variant
-- [ ] Post grid (3-col card layout)
-- [ ] Header / Nav (logo + category links + search)
-- [ ] Footer
-- [ ] Hero banner (home page)
-- [ ] Category filter bar
-- [ ] **Comparison table** — the heart of every article
-- [ ] Verdict / winner box (recommendation callout)
-- [ ] Article header (category tag + title + meta + hero image)
-- [ ] Table of contents (sticky sidebar)
-- [ ] Related posts strip
-- [ ] CTA / Newsletter signup
+- [x] **Post card** — most critical; used 180+ times across every page
+- [x] Featured post card — larger hero variant
+- [x] Post grid (3-col card layout)
+- [x] Header / Nav (logo + category links + search)
+- [x] Footer
+- [x] Hero banner (home page)
+- [x] Category filter bar
+- [x] **Comparison table** — the heart of every article
+- [x] Verdict / winner box (recommendation callout)
+- [x] Article header (category tag + title + meta + hero image)
+- [x] Table of contents (sticky sidebar)
+- [x] Related posts strip
+- [x] CTA / Newsletter signup
 
 ### Templates
-- [ ] Home page layout
-- [ ] Category archive page layout
-- [ ] Article / post page layout
-- [ ] About page layout
+- [x] Home page layout
+- [x] Category archive page layout
+- [x] Article / post page layout
+- [x] About page layout
 
 ## Deployment
 
