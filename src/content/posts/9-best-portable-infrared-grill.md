@@ -232,7 +232,7 @@ The grill also allows you to either disposable propane canisters or LPG/ CNG sys
 
 * * *
 
-## [2\. BIG HORN OUTDOORS Portable Infrared Broiler Propane Gas Grill](http://kitchenexplored.com/wp-content/uploads/2023/07/BIG-HORN-OUTDOORS-Portable-Infrared-Broiler-Propane-Gas-Grill.jpg)
+## [2\. BIG HORN OUTDOORS Portable Infrared Broiler Propane Gas Grill](/uploads/2023/07/BIG-HORN-OUTDOORS-Portable-Infrared-Broiler-Propane-Gas-Grill.jpg)
 
 **Special features**: Portable
 
