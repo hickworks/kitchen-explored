@@ -3,6 +3,8 @@ title: "How to shred cabbage in food processor?"
 pubDate: 2023-07-04
 category: blenders
 featured: false
+image: "/uploads/2023/07/71or5NOIy5L._AC_SL1500_-e1688416754197.jpg"
+imageAlt: "How to shred cabbage in food processor?"
 ---
 
 ## How do you shred vegetables in a food processor?

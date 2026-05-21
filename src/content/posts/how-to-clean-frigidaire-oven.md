@@ -3,6 +3,8 @@ title: "How to clean Frigidaire oven?"
 pubDate: 2023-07-15
 category: ovens
 featured: false
+image: "/uploads/2023/07/Frigidaire-oven-1-e1689440872121.jpg"
+imageAlt: "How to clean Frigidaire oven?"
 ---
 
 ## How to clean a Frigidaire oven?

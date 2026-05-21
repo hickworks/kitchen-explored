@@ -3,6 +3,8 @@ title: "Vitamix V1200 vs 5200"
 pubDate: 2023-07-02
 category: blenders
 featured: false
+image: "/uploads/2023/07/Vitamix-V1200-vs-5200-scaled-e1688310233397.jpg"
+imageAlt: "Vitamix V1200 vs 5200"
 ---
 
 ## Vitamix 5200 vs V1200

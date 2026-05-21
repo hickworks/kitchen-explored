@@ -1,0 +1,60 @@
+---
+export interface Cell {
+  text: string;
+  href?: string;
+  isButton?: boolean;
+}
+
+interface Props {
+  headers: string[];
+  rows: Cell[][];
+}
+
+const { headers, rows } = Astro.props;
+---
+
+<div class="my-8 overflow-x-auto rounded-xl border border-gray-100 shadow-sm">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr>
+        {headers.map(h => (
+          <th class="px-4 py-3 text-left font-semibold text-white text-xs uppercase tracking-wide" style="background:#062451">
+            {h}
+          </th>
+        ))}
+      </tr>
+    </thead>
+    <tbody>
+      {rows.map((row, ri) => (
+        <tr class:list={[ri % 2 === 0 ? 'bg-white' : 'bg-gray-50', 'border-t border-gray-100']}>
+          {row.map(cell => (
+            <td class="px-4 py-3 align-middle">
+              {cell.isButton && cell.href ? (
+                <a
+                  href={cell.href}
+                  target="_blank"
+                  rel="noopener nofollow noreferrer"
+                  class="inline-block px-4 py-1.5 rounded-lg text-white font-semibold text-xs whitespace-nowrap"
+                  style="background:linear-gradient(135deg,#f78745,#f85026)"
+                >
+                  {cell.text}
+                </a>
+              ) : cell.href ? (
+                <a
+                  href={cell.href}
+                  target="_blank"
+                  rel="noopener nofollow noreferrer"
+                  class="font-medium text-navy hover:underline"
+                >
+                  {cell.text}
+                </a>
+              ) : (
+                <span class="text-gray-700">{cell.text}</span>
+              )}
+            </td>
+          ))}
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

@@ -3,6 +3,8 @@ title: "What blenders do Starbucks use?"
 pubDate: 2022-11-08
 category: blenders
 featured: false
+image: "/uploads/2022/11/vitamix-36019-2-e1667923064142.jpg"
+imageAlt: "What blenders do Starbucks use?"
 ---
 
 ## What blenders do Starbucks use?

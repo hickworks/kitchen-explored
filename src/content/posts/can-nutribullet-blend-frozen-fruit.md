@@ -3,6 +3,8 @@ title: "Can Nutribullet Blend Frozen Fruit?"
 pubDate: 2022-11-18
 category: blenders
 featured: false
+image: "/uploads/2022/11/NutriBullet-Pro-e1668715187170.jpg"
+imageAlt: "Can Nutribullet Blend Frozen Fruit?"
 ---
 
 ## Can the nutribullet blend frozen fruit?

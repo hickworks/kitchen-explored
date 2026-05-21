@@ -3,6 +3,8 @@ title: "Corelle vs Porcelain"
 pubDate: 2023-02-03
 category: cookware
 featured: false
+image: "/uploads/2023/02/Corelle-vs-Porcelain--e1675376983506.jpg"
+imageAlt: "Corelle vs Porcelain"
 ---
 
 ## Corelle vs Porcelain: Which dinnerware is the best for your home?

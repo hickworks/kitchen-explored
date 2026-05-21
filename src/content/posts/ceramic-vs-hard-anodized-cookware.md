@@ -3,6 +3,8 @@ title: "Ceramic vs Hard Anodized Cookware"
 pubDate: 2023-05-27
 category: cookware
 featured: false
+image: "/uploads/2023/05/323-e1685176348711.jpg"
+imageAlt: "Ceramic vs Hard Anodized Cookware"
 ---
 
 ## Hard anodized vs ceramic cookware

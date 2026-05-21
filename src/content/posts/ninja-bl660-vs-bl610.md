@@ -3,6 +3,8 @@ title: "Ninja BL660 vs BL610"
 pubDate: 2022-12-23
 category: blenders
 featured: false
+image: "/uploads/2022/12/Ninja-BL660-3.jpg"
+imageAlt: "Ninja BL660 vs BL610"
 ---
 
 ## What is the difference between the Ninja BL660 vs BL610.

@@ -3,6 +3,8 @@ title: "All Clad 4112 vs 41126 Fry Pan"
 pubDate: 2023-02-08
 category: cookware
 featured: false
+image: "/uploads/2023/02/All-Clad-4112-2.jpg"
+imageAlt: "All Clad 4112 vs 41126 Fry Pan"
 ---
 
 ## All Clad 41126 Vs 4112 Fry Pan

@@ -3,6 +3,8 @@ title: "Best scout carry knives"
 pubDate: 2023-04-16
 category: cookware
 featured: false
+image: "/uploads/2023/04/OERLA-TAC-WS-0018-e1681605699775.jpg"
+imageAlt: "Best scout carry knives"
 ---
 
 ## What is scout carry for a knife?

@@ -3,6 +3,8 @@ title: "When is the best time to remodel kitchen?"
 pubDate: 2023-05-15
 category: faucet
 featured: false
+image: "/uploads/2023/05/sink-e1684135457867.jpg"
+imageAlt: "When is the best time to remodel kitchen?"
 ---
 
 ## When is the best time to remodel kitchen?

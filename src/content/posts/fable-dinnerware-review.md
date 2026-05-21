@@ -3,6 +3,8 @@ title: "<strong>Fable Dinnerware Review</strong>"
 pubDate: 2023-04-03
 category: cookware
 featured: false
+image: "/uploads/2023/04/fable-dinnerware-3.jpg"
+imageAlt: "<strong>Fable Dinnerware Review</strong>"
 ---
 
 ## What is fable dinnerware?

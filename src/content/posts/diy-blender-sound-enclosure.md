@@ -3,6 +3,8 @@ title: "DIY Blender sound enclosure"
 pubDate: 2022-11-25
 category: blenders
 featured: false
+image: "/uploads/2022/11/DIY-Blender-sound-enclosure-1.jpg"
+imageAlt: "DIY Blender sound enclosure"
 ---
 
 ## Diy sound enclosure box for blender

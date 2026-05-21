@@ -3,6 +3,8 @@ title: "How to check water pressure without a gauge?"
 pubDate: 2023-05-26
 category: faucet
 featured: false
+image: "/uploads/2023/05/water-pressure-gauge-e1685098228765.jpg"
+imageAlt: "How to check water pressure without a gauge?"
 ---
 
 ## Introduction to the importance of monitoring water pressure.

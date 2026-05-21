@@ -3,6 +3,8 @@ title: "Vitamix A2500 vs E320"
 pubDate: 2023-07-03
 category: blenders
 featured: false
+image: "/uploads/2023/07/Vitamix-A2500-vs-E320.jpg"
+imageAlt: "Vitamix A2500 vs E320"
 ---
 
 ## Vitamix E320 vs A2500

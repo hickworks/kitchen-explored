@@ -3,6 +3,8 @@ title: "Different types of juicers"
 pubDate: 2022-12-20
 category: blenders
 featured: false
+image: "/uploads/2022/12/citrus-juicer-e1671547504481.jpg"
+imageAlt: "Different types of juicers"
 ---
 
 ## What are the different types of juicers?

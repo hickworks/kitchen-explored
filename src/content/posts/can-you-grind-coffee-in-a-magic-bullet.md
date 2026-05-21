@@ -3,6 +3,8 @@ title: "Can You Grind Coffee in a Magic Bullet?"
 pubDate: 2023-02-03
 category: blenders
 featured: false
+image: "/uploads/2023/02/Magic-bullet-blender-e1675373801208.jpg"
+imageAlt: "Can You Grind Coffee in a Magic Bullet?"
 ---
 
 ## Can You Make Coffee in A Magic Bullet? Here's What You Need to Know.

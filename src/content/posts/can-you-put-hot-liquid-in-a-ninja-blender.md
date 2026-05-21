@@ -3,6 +3,8 @@ title: "Can You Put Hot Liquid in A Ninja Blender?"
 pubDate: 2022-11-29
 category: blenders
 featured: false
+image: "/uploads/2022/11/Ninja-NJ601AMZ-1-e1669718192988.jpg"
+imageAlt: "Can You Put Hot Liquid in A Ninja Blender?"
 ---
 
 ## Can you blend hot liquids in a blender?

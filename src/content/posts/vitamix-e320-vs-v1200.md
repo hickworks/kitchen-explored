@@ -3,6 +3,8 @@ title: "Vitamix e320 vs v1200"
 pubDate: 2023-01-17
 category: blenders
 featured: false
+image: "/uploads/2023/01/Vitamix-e320-vs-v1200-e1673901383314.jpg"
+imageAlt: "Vitamix e320 vs v1200"
 ---
 
 ## Vitamix e320 vs v1200, which one is worth the price?

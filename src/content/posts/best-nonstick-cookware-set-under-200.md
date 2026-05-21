@@ -3,6 +3,8 @@ title: "Best nonstick cookware set under $200"
 pubDate: 2023-04-15
 category: cookware
 featured: false
+image: "/uploads/2023/04/GreenLife-Soft-Grip-Diamond-Healthy-Ceramic-Nonstick-e1681545168422.jpg"
+imageAlt: "Best nonstick cookware set under $200"
 ---
 
 ## 10 Best nonstick cookware set under $200

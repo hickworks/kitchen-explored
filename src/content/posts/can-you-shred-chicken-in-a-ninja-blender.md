@@ -3,6 +3,8 @@ title: "CAN YOU SHRED CHICKEN IN A NINJA BLENDER?"
 pubDate: 2022-11-19
 category: blenders
 featured: false
+image: "/uploads/2022/11/Ninja-Blender-e1668849558340.jpg"
+imageAlt: "CAN YOU SHRED CHICKEN IN A NINJA BLENDER?"
 ---
 
 Are you looking for the best way to shred chicken? Do you want to know if you can use a Ninja Blender for this task? In this article, I am going to share everything you need to know about Ninja Shredders and how they can help with cooking tasks like shredding chicken.

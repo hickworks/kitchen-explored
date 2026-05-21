@@ -3,6 +3,8 @@ title: "Best front flipper knives"
 pubDate: 2023-04-13
 category: cookware
 featured: false
+image: "/uploads/2023/04/KATSU-Camping-Pocket-Folding-Japanese-Knife.jpg"
+imageAlt: "Best front flipper knives"
 ---
 
 ## Front flipping knives

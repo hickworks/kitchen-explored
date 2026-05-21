@@ -3,6 +3,8 @@ title: "IS PYROCERAM TOXIC"
 pubDate: 2023-02-02
 category: cookware
 featured: false
+image: "/uploads/2023/02/IS-PYROCERAM-TOXIC.jpg"
+imageAlt: "IS PYROCERAM TOXIC"
 ---
 
 ## **IS PYROCERAM TOXIC**

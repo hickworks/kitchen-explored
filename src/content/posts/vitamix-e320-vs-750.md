@@ -3,6 +3,8 @@ title: "Vitamix E320 vs 750"
 pubDate: 2023-01-20
 category: blenders
 featured: false
+image: "/uploads/2023/01/Vitamix-E320-vs-750-e1694634173651.jpg"
+imageAlt: "Vitamix E320 vs 750"
 ---
 
 ## Vitamix 750 vs E320, Similarities and differences.

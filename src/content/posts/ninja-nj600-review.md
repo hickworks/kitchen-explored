@@ -3,6 +3,8 @@ title: "Ninja nj600 review"
 pubDate: 2022-11-09
 category: blenders
 featured: false
+image: "/uploads/2022/11/Ninja-nj600-2-e1670021108453.jpg"
+imageAlt: "Ninja nj600 review"
 ---
 
 ## Ninja nj600 review, Introduction

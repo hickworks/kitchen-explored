@@ -3,6 +3,8 @@ title: "Ninja BL700"
 pubDate: 2022-11-08
 category: blenders
 featured: false
+image: "/uploads/2022/11/Ninja-Bl700-Review-e1667943681719.jpg"
+imageAlt: "Ninja BL700"
 ---
 
 ## **Ninja Bl700 Review: A Powerful and Efficient Professional blender**

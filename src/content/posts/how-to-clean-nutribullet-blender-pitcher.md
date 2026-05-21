@@ -3,6 +3,8 @@ title: "How to clean nutribullet blender pitcher?"
 pubDate: 2022-11-29
 category: blenders
 featured: false
+image: "/uploads/2022/11/blender-4.jpg"
+imageAlt: "How to clean nutribullet blender pitcher?"
 ---
 
 ## How To Clean a Nutribullet Blender Pitcher?

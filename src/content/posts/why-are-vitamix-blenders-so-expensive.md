@@ -3,6 +3,8 @@ title: "Why are Vitamix blenders so expensive?"
 pubDate: 2022-11-08
 category: blenders
 featured: false
+image: "/uploads/2022/11/VItamix-A2300-e1667917651914.jpg"
+imageAlt: "Why are Vitamix blenders so expensive?"
 ---
 
 ## Vitamix Blenders

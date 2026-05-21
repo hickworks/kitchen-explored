@@ -3,6 +3,8 @@ title: "Ninja BL910 vs BL770"
 pubDate: 2023-01-15
 category: blenders
 featured: false
+image: "/uploads/2023/01/Ninja-BL910-vs-BL770-e1673744528300.jpg"
+imageAlt: "Ninja BL910 vs BL770"
 ---
 
 ## Ninja BL910 vs BL770, which one should you buy?

@@ -3,6 +3,8 @@ title: "All clad D5 VS D7"
 pubDate: 2023-02-06
 category: cookware
 featured: false
+image: "/uploads/2023/02/All-clad-D5-VS-D7-e1675634343936.jpg"
+imageAlt: "All clad D5 VS D7"
 ---
 
 ## **What is the difference between all clad d5 and d7?**

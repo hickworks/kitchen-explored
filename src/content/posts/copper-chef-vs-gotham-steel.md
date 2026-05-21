@@ -3,6 +3,8 @@ title: "Copper Chef vs Gotham Steel"
 pubDate: 2023-05-26
 category: cookware
 featured: false
+image: "/uploads/2023/05/Gotham-vs-copper-chef-1-scaled-e1685118557546.jpg"
+imageAlt: "Copper Chef vs Gotham Steel"
 ---
 
 ## Which is better copper chef vs gotham steel?

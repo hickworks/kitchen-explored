@@ -3,6 +3,8 @@ title: "IS CORELLE AIR FRYER SAFE?"
 pubDate: 2023-02-02
 category: cookware
 featured: false
+image: "/uploads/2023/02/1.jpg"
+imageAlt: "IS CORELLE AIR FRYER SAFE?"
 ---
 
 ## IS CORELLE AIR FRYER SAFE?

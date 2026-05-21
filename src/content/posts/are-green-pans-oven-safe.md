@@ -3,6 +3,8 @@ title: "<strong>Are green pans oven safe?</strong>"
 pubDate: 2023-03-21
 category: ovens
 featured: false
+image: "/uploads/2023/03/green-pans-e1679352533988.jpg"
+imageAlt: "<strong>Are green pans oven safe?</strong>"
 ---
 
 ## **Is the green pan oven safe?**

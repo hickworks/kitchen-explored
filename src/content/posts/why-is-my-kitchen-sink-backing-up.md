@@ -3,6 +3,8 @@ title: "Why is my kitchen sink backing up?"
 pubDate: 2023-05-26
 category: faucet
 featured: false
+image: "/uploads/2023/05/sink12-e1685066862883.jpg"
+imageAlt: "Why is my kitchen sink backing up?"
 ---
 
 ## Why is my kitchen sink backing up?

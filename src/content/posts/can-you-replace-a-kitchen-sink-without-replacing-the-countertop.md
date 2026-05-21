@@ -3,6 +3,8 @@ title: "Can you replace a kitchen sink without replacing the countertop?"
 pubDate: 2023-05-26
 category: faucet
 featured: false
+image: "/uploads/2023/05/61l9mmYVK1L._AC_SL1200_-1-e1685101575989.jpg"
+imageAlt: "Can you replace a kitchen sink without replacing the countertop?"
 ---
 
 ## Can you replace a kitchen sink without replacing the countertop?

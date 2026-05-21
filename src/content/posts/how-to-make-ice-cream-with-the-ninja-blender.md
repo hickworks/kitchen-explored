@@ -3,6 +3,8 @@ title: "How to make ice cream with the Ninja blender?"
 pubDate: 2023-05-26
 category: blenders
 featured: false
+image: "/uploads/2023/05/ice-cream-e1685068182316.jpg"
+imageAlt: "How to make ice cream with the Ninja blender?"
 ---
 
 ## How to make ice cream with the Ninja blender?

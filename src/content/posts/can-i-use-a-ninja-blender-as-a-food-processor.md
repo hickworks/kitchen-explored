@@ -3,6 +3,8 @@ title: "Can I use a ninja blender as a food processor?"
 pubDate: 2022-12-13
 category: blenders
 featured: false
+image: "/uploads/2022/12/Ninja-master-prep-QB1004.jpg"
+imageAlt: "Can I use a ninja blender as a food processor?"
 ---
 
 ## Can a ninja blender be used as a food processor?

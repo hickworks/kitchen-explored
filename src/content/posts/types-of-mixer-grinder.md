@@ -3,6 +3,8 @@ title: "Types of mixer grinder"
 pubDate: 2022-12-24
 category: blenders
 featured: false
+image: "/uploads/2022/12/Stand-mixers-e1671874814395.jpg"
+imageAlt: "Types of mixer grinder"
 ---
 
 ## Types of mixer grinder

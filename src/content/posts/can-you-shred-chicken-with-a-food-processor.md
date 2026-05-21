@@ -3,6 +3,8 @@ title: "Can you shred chicken with a food processor?"
 pubDate: 2022-12-20
 category: blenders
 featured: false
+image: "/uploads/2022/12/Shredded-Chicken-300x274.jpg"
+imageAlt: "Can you shred chicken with a food processor?"
 ---
 
 ## Can you shred chicken with a food processor**?**

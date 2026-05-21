@@ -3,6 +3,8 @@ title: "Can you make hummus in a ninja blender?"
 pubDate: 2022-11-29
 category: blenders
 featured: false
+image: "/uploads/2022/11/Humus-e1669717103256.jpg"
+imageAlt: "Can you make hummus in a ninja blender?"
 ---
 
 ## Can you make hummus in a ninja blender?

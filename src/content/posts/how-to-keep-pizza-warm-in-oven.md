@@ -3,6 +3,8 @@ title: "How to keep pizza warm in oven?"
 pubDate: 2023-07-15
 category: ovens
 featured: false
+image: "/uploads/2023/07/61AEyZtBZpL._AC_SL1500_-e1689438920469.jpg"
+imageAlt: "How to keep pizza warm in oven?"
 ---
 
 ## How to keep pizza warm in the oven?

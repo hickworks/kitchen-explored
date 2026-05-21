@@ -3,6 +3,8 @@ title: "Blender made in USA"
 pubDate: 2022-12-24
 category: blenders
 featured: false
+image: "/uploads/2022/12/ninja-blender-e1671866711477.jpg"
+imageAlt: "Blender made in USA"
 ---
 
 ## MADE IN USA BLENDER

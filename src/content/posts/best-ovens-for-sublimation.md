@@ -3,6 +3,8 @@ title: "Best ovens for sublimation"
 pubDate: 2023-07-13
 category: ovens
 featured: false
+image: "/uploads/2023/07/Elite-Gourmet-ETO-4510M.jpg"
+imageAlt: "Best ovens for sublimation"
 ---
 
 ## What convection oven is best for sublimation?

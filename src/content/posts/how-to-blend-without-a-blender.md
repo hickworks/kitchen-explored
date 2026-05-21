@@ -3,6 +3,8 @@ title: "How to Blend Without a Blender?"
 pubDate: 2022-11-25
 category: blenders
 featured: false
+image: "/uploads/2022/11/knife-e1669384327107.jpg"
+imageAlt: "How to Blend Without a Blender?"
 ---
 
 ## How to blend without a blender?

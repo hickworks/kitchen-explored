@@ -3,6 +3,8 @@ title: "Can you grind cinnamon sticks in a blender?"
 pubDate: 2022-12-24
 category: blenders
 featured: false
+image: "/uploads/2022/12/sticks-1.jpg"
+imageAlt: "Can you grind cinnamon sticks in a blender?"
 ---
 
 ## Can you grind cinnamon sticks in a blender?

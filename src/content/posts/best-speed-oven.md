@@ -3,6 +3,8 @@ title: "Best speed oven"
 pubDate: 2023-07-16
 category: ovens
 featured: false
+image: "/uploads/2023/07/Breville-Smart-Oven-1.jpg"
+imageAlt: "Best speed oven"
 ---
 
 ## Best speed cook ovens

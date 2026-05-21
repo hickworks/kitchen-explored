@@ -3,6 +3,8 @@ title: "Can Nutribullet grind Coffee?"
 pubDate: 2023-01-10
 category: blenders
 featured: false
+image: "/uploads/2023/01/Nutribullet-pro-900-2-e1673303323698.jpg"
+imageAlt: "Can Nutribullet grind Coffee?"
 ---
 
 ## Can you grind Coffee in a Nutribullet? Everything you need to know.

@@ -3,6 +3,8 @@ title: "How to vent a kitchen sink under a window?"
 pubDate: 2023-05-16
 category: faucet
 featured: false
+image: "/uploads/2023/05/1-1-e1684230557668.jpg"
+imageAlt: "How to vent a kitchen sink under a window?"
 ---
 
 ## How to vent a kitchen sink under a window?

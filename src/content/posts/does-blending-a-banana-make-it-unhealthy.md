@@ -3,6 +3,8 @@ title: "Does blending a banana make it unhealthy?"
 pubDate: 2023-05-26
 category: blenders
 featured: false
+image: "/uploads/2023/05/1-4-scaled-e1685099840579.jpg"
+imageAlt: "Does blending a banana make it unhealthy?"
 ---
 
 ## Does blending a banana make it unhealthy?

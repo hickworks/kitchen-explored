@@ -3,6 +3,8 @@ title: "Vitamix ascent vs Venturist"
 pubDate: 2022-12-02
 category: blenders
 featured: false
+image: "/uploads/2022/12/Ascent-300x177.jpg"
+imageAlt: "Vitamix ascent vs Venturist"
 ---
 
 ## Venturist vs ascent

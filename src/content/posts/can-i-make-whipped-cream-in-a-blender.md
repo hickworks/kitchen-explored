@@ -3,6 +3,8 @@ title: "Can I make whipped cream in a blender?"
 pubDate: 2023-02-10
 category: blenders
 featured: false
+image: "/uploads/2023/02/whipped-cream-e1676032670986.jpg"
+imageAlt: "Can I make whipped cream in a blender?"
 ---
 
 ## Can You Make Whipped Cream in A Blender? The Surprising Answer Revealed.

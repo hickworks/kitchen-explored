@@ -3,6 +3,8 @@ title: "<strong>BEST NON TOXIC FLATWARE</strong>"
 pubDate: 2023-04-06
 category: cookware
 featured: false
+image: "/uploads/2023/04/BEST-NON-TOXIC-FLATWARE-e1680731905928.jpg"
+imageAlt: "<strong>BEST NON TOXIC FLATWARE</strong>"
 ---
 
 ## Non Toxic Stainless Steel Flatware

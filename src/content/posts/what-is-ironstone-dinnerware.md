@@ -3,6 +3,8 @@ title: "<strong>Ironstone dinnerware</strong>"
 pubDate: 2023-04-03
 category: cookware
 featured: false
+image: "/uploads/2023/04/Ironstone-dinnerware.jpg"
+imageAlt: "<strong>Ironstone dinnerware</strong>"
 ---
 
 ## What is ironstone dinnerware?

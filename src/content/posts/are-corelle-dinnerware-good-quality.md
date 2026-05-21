@@ -3,6 +3,8 @@ title: "Are corelle dinnerware good quality?"
 pubDate: 2023-04-02
 category: cookware
 featured: false
+image: "/uploads/2023/04/Are-corelle-dinnerware-good-quality-3-e1680455873765.jpg"
+imageAlt: "Are corelle dinnerware good quality?"
 ---
 
 ## Introduction
