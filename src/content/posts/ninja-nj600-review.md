@@ -26,7 +26,7 @@ The Ninja NJ600 also has a large pulp bin, which enables you to make large batch
 
 The Ninja Nj600 is an excellent immersion blender and is an extremely versatile kitchen appliance. The blender comes with a two-year warranty, so you can be sure that it will stand up to regular use and you will be able to be assisted incase the instrument develops any problems.
 
-**[Related Article: Ninja BN701 vs BL610](/posts/ninja-bn701-vs-bl610/)**
+**[Related Article: Ninja BN701 Review](/posts/ninja-bn701-review-2/)**
 
 ## Features and Specifications
 
