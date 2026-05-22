@@ -135,13 +135,35 @@ const categories = [
     </div>
 
     <script>
+      const GA_ID = 'G-KHTGMWGKTP';
+
+      function loadGA() {
+        if ((window as any).__gaLoaded) return;
+        (window as any).__gaLoaded = true;
+        const s = document.createElement('script');
+        s.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
+        s.async = true;
+        document.head.appendChild(s);
+        (window as any).dataLayer = (window as any).dataLayer || [];
+        function gtag(...args: any[]) { (window as any).dataLayer.push(args); }
+        gtag('js', new Date());
+        gtag('config', GA_ID);
+        (window as any).gtag = gtag;
+      }
+
       const banner = document.getElementById('cookie-banner')!;
       const consent = localStorage.getItem('cookie-consent');
-      if (!consent) banner.style.display = 'block';
+
+      if (consent === 'accepted') {
+        loadGA();
+      } else if (!consent) {
+        banner.style.display = 'block';
+      }
 
       document.getElementById('cookie-accept')?.addEventListener('click', () => {
         localStorage.setItem('cookie-consent', 'accepted');
         banner.style.display = 'none';
+        loadGA();
       });
       document.getElementById('cookie-decline')?.addEventListener('click', () => {
         localStorage.setItem('cookie-consent', 'declined');
