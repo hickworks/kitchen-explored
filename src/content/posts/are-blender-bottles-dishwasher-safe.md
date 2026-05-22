@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/06/Are-blender-bottl-e1685648708274.jpg"
 imageAlt: "Are blender bottles dishwasher safe?"
+description: "Would you like to know whether blender bottles are dishwasher safe? If you are a person who loves protein shakes, smoothies and any other drink, am pretty…"
 ---
 
 ## Is blender bottle dishwasher safe?

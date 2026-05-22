@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/03/Gotham-Steel-Nonstick-e1679348120270.jpg"
 imageAlt: "Are Gotham steel pans oven safe?"
+description: "Would you like to know whether you can put Gotham steel pans in an oven? Non-stick pans are becoming very popular on the market due to their efficiency as…"
 ---
 
 ## Are Gotham steel pans oven safe?

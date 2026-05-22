@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/02/1.jpg"
 imageAlt: "IS CORELLE AIR FRYER SAFE?"
+description: "If you're one of the many people looking to get an air fryer that won't leave your food and kitchen smelling like fried food, then you may be considering…"
 ---
 
 ## IS CORELLE AIR FRYER SAFE?

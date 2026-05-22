@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/fable-dinnerware-3.jpg"
 imageAlt: "<strong>Fable Dinnerware Review</strong>"
+description: "This article has first-hand information regarding the fable dinnerware from personal experience as well as research from trusted sources. Reading through…"
 ---
 
 ## What is fable dinnerware?

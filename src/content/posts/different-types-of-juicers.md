@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/citrus-juicer-e1671547504481.jpg"
 imageAlt: "Different types of juicers"
+description: "A centrifugal juicer is a type of juicer that is equipped with a high-spinning blade that has the ability to extract juice from fruits as well as…"
 ---
 
 ## What are the different types of juicers?

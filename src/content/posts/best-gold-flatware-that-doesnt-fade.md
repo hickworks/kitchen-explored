@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/Gold-Silverware-Set-e1681757529755.jpg"
 imageAlt: "Best gold flatware that doesn't fade"
+description: "Would you like to know the best gold flatware that doesn’t fade? If yes, then you are reading the right article. In this guide, we have discussed and also…"
 ---
 
 ## Gold flatware that doesn't fade

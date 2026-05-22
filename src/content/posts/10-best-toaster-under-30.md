@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/07/Hamilton-Beach-2-Slice-Extra-Wide-Slot-Toaster-e1690159925140.jpg"
 imageAlt: "10 Best toaster under $30"
+description: "Would you like to know the best toaster under $30? If yes, then you are reading the right article. In this guide, we are going to discuss the most…"
 ---
 
 ## Best toaster under 30

@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/Vitamix-5200-e1668205061838.jpg"
 imageAlt: "Do all Vitamix blenders make hot soup?"
+description: "Vitamix is one of the most used blenders in the whole world. Vitamix are known for building high quality and powerful blenders that have the capabilities…"
 ---
 
 ## Which Vitamix Is the Best for Making Soup?

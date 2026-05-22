@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/07/61AEyZtBZpL._AC_SL1500_-e1689438920469.jpg"
 imageAlt: "How to keep pizza warm in oven?"
+description: "Would you like to know how to keep your pizza warm in an oven? Pizza is one of the most popular delicious meals and it can be a bit hard to retain its…"
 ---
 
 ## How to keep pizza warm in the oven?

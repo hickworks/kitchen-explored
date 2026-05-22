@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/05/All-Clad-MC2-1-scaled-e1685271977795.jpg"
 imageAlt: "All Clad MC2 Vs D5"
+description: "Are you looking for the best cookware that can enhance your cooking operations? If yes then you are in the right place. Today we will be comparing the All…"
 ---
 
 **All Clad MC2 vs D5**

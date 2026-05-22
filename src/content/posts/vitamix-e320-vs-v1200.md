@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/01/Vitamix-e320-vs-v1200-e1673901383314.jpg"
 imageAlt: "Vitamix e320 vs v1200"
+description: "What is the difference between Vitamix E320 vs V1200? Vitamix blenders are a popular brand on the market due to their high performance as well as…"
 ---
 
 ## Vitamix e320 vs v1200, which one is worth the price?

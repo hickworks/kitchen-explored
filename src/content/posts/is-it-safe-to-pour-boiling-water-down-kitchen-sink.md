@@ -5,6 +5,7 @@ category: faucet
 featured: false
 image: "/uploads/2023/05/sink1.jpg"
 imageAlt: "Is it safe to pour boiling water down kitchen sink?"
+description: "Would you like to know whether it is safe to pour boiling water down kitchen sink? If yes, then you are at the right place because this guide has all the…"
 ---
 
 ## Can you pour boiling water down the sink?

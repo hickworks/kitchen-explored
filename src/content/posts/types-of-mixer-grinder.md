@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/Stand-mixers-e1671874814395.jpg"
 imageAlt: "Types of mixer grinder"
+description: "The kitchen is one place where everyone spends a lot of time. After all, it's where we prepare food for ourselves and our loved ones. Mixer grinders are…"
 ---
 
 ## Types of mixer grinder

@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/06/Grater-e1686002133258.jpg"
 imageAlt: "How to puree without a blender?"
+description: "Blenders have become an essential appliance in the kitchen for pureeing fruits, vegetables and more. Blenders can also be used for blending ingredients…"
 ---
 
 ## How to make puree without a blender.

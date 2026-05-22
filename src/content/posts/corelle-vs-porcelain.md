@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/02/Corelle-vs-Porcelain--e1675376983506.jpg"
 imageAlt: "Corelle vs Porcelain"
+description: "Would you like to know the difference between Corelle and Porcelain? If yes, you are in the right place because this article has discussed everything you…"
 ---
 
 ## Corelle vs Porcelain: Which dinnerware is the best for your home?

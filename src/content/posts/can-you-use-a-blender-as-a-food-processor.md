@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/01/food-processor-vs-blender-e1673305244861.png"
 imageAlt: "Can You Use a Blender as A Food Processor?"
+description: "Would you like to know whether you can use a blender as a food processor? You don't have to worry anymore because this guide has the right and accurate…"
 ---
 
 ## Can You Use a Blender as A Food Processor?

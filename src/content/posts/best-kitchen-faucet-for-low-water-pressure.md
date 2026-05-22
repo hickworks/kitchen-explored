@@ -5,6 +5,7 @@ category: faucet
 featured: false
 image: "/uploads/2023/04/OWOFAN-Kitchen-Faucet-1.jpg"
 imageAlt: "Best kitchen faucet for low water pressure"
+description: "Would you like to know the best faucet for low pressure? If you are that person who experiences low water pressure, then you know how frustrating it can be…"
 ---
 
 ## What is the best kitchen faucet for low water pressure?

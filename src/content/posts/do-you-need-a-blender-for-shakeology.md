@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/Mortar-and-pestle-e1668207185617.jpg"
 imageAlt: "Do You Need a Blender for Shakeology?"
+description: "You may be wondering whether you need a blender for your Shakeology or not. This article will explain when you may need a blender to mix your Shakeology…"
 ---
 
 ## Do You Need a Blender for Shakeology?

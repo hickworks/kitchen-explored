@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/07/Traeger-Grills-Signature-Blend-100-e1689536371280.jpg"
 imageAlt: "Best pellets for pizza oven"
+description: "What are the best wood pellets for pizza oven? If you are a pizza enthusiast, then you are aware that achieving a perfect pizza requires the right…"
 ---
 
 ## Best wood pellets for pizza oven

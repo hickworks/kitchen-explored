@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/03/a2300-scaled-e1679523775758.jpg"
 imageAlt: "Vitamix v1200 vs A2300"
+description: "Are you looking for a high-quality blender on the market? We are very sure that you have come across the Vitamix brand. This brand is popular for…"
 ---
 
 ## Vitamix v1200 vs a2300

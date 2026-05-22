@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/vitamix-blender-4-e1669374999756.jpg"
 imageAlt: "Can you grind meat in a Vitamix?"
+description: "Today, we will discuss the Vitamix, they are powerful blenders that have been on the market for a long time. They are suitable for creating smoothies,…"
 ---
 
 ## Can you grind meat in a Vitamix blender?

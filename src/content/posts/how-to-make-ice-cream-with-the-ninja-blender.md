@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/05/ice-cream-e1685068182316.jpg"
 imageAlt: "How to make ice cream with the Ninja blender?"
+description: "Would you like to know how to make ice cream with the Ninja Blender? You should get ready as we discuss some of the best ways of making mouthwatering ice…"
 ---
 
 ## How to make ice cream with the Ninja blender?

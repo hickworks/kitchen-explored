@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/Ninja-BL660-3.jpg"
 imageAlt: "Ninja BL660 vs BL610"
+description: "Would you like to know the difference between the Ninja BL660 and the Ninja 610? These 2 blenders are great and they have more similarities than…"
 ---
 
 ## What is the difference between the Ninja BL660 vs BL610.

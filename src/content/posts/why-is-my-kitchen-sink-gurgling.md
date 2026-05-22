@@ -5,6 +5,7 @@ category: faucet
 featured: false
 image: "/uploads/2023/07/71lWIu0Sz9L._AC_SL1500_-e1688411739948.jpg"
 imageAlt: "Why is my kitchen sink gurgling?"
+description: "Today we will be discussing a common household problem and also provide a number of solutions to get rid of the problem. I know it can be an irritating…"
 ---
 
 ## Why is my kitchen sink drain gurgling?

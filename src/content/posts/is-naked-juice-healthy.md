@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/Naked-Juice-3-e1668713695386.jpg"
 imageAlt: "Is naked juice healthy?"
+description: "Would you like to know whether naked juice is healthy? If yes, then you are reading the right article because we have answered this question. This is a…"
 ---
 
 ## Is naked juice healthy?

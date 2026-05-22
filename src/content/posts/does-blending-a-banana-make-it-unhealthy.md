@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/05/1-4-scaled-e1685099840579.jpg"
 imageAlt: "Does blending a banana make it unhealthy?"
+description: "Would you like to know whether blending a banana is unhealthy? If yes, then you are reading the right article that will help you get the right answer. We…"
 ---
 
 ## Does blending a banana make it unhealthy?

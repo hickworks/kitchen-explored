@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/07/Vitamix-A2500-vs-E320.jpg"
 imageAlt: "Vitamix A2500 vs E320"
+description: "Nowadays a blender has become an essential kitchen appliance and choosing the right one can have a great impact on your blends. In this article, we will go…"
 ---
 
 ## Vitamix E320 vs A2500

@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/03/green-pans-e1679352533988.jpg"
 imageAlt: "<strong>Are green pans oven safe?</strong>"
+description: "Would you like to know whether green pans go in the oven? If yes, then you are reading the right article because we have the right answer to this question.…"
 ---
 
 ## **Is the green pan oven safe?**

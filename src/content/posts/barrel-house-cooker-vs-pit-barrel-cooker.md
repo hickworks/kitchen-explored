@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/05/1-7-scaled-e1685190675984.jpg"
 imageAlt: "Barrel House Cooker vs Pit Barrel Cooker"
+description: "Would you like to know the difference between the barrel House and Pit Cooker? If yes, then you are in the right place because this is a comprehensive…"
 ---
 
 ## Pit barrel cooker vs barrel house cooker

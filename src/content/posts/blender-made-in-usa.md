@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/ninja-blender-e1671866711477.jpg"
 imageAlt: "Blender made in USA"
+description: "Hello blender enthusiasts! Today we will be going through some of the blenders that are made in the U.S. Many people believe that blenders made in the U.S…"
 ---
 
 ## MADE IN USA BLENDER

@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/02/All-Clad-4112-2.jpg"
 imageAlt: "All Clad 4112 vs 41126 Fry Pan"
+description: "This 2 All Clad pans have a lot of similarities than differences. This makes it a bit difficult for some people to identify the differences between the…"
 ---
 
 ## All Clad 41126 Vs 4112 Fry Pan

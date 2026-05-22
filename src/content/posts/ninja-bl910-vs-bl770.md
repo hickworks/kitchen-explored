@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/01/Ninja-BL910-vs-BL770-e1673744528300.jpg"
 imageAlt: "Ninja BL910 vs BL770"
+description: "What is the difference between the Ninja BL910 vs BL770? The Ninja BL910 and the Ninja BL770 are popular blenders on the market due to their performance as…"
 ---
 
 ## Ninja BL910 vs BL770, which one should you buy?

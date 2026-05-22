@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/02/IS-PYROCERAM-TOXIC.jpg"
 imageAlt: "IS PYROCERAM TOXIC"
+description: "What is pyroceram? Pyroceram is a glass ceramic material that has become popular in recent years due to its advantages over other materials. It's…"
 ---
 
 ## **IS PYROCERAM TOXIC**

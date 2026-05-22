@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/VItamix-A2300-e1667917651914.jpg"
 imageAlt: "Why are Vitamix blenders so expensive?"
+description: "Vitamix blenders can seem like a luxury to some folks, because they are more expensive than other brands. If you want to know why they are so expensive,…"
 ---
 
 ## Vitamix Blenders

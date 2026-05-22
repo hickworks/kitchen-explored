@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/01/Ninja-BL910-1-e1683157324379.jpg"
 imageAlt: "Why is my ninja blender blinking red?"
+description: "Would you like to know why your blender is blinking red? If you own a blender, we are very sure that you have realized that sometimes your blender blinks…"
 ---
 
 ## What does blinking red light mean on Ninja?

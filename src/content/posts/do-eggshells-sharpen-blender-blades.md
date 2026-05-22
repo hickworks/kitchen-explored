@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/egg-shell-1.jpg"
 imageAlt: "Do eggshells sharpen blender blades?"
+description: "Did you know that eggshells sharpen blender blades? This article explores the idea of using eggshells to help sharpen a blender blade. The article also…"
 ---
 
 ## Do eggshells sharpen blender blades?

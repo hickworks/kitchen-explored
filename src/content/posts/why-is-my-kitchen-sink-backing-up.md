@@ -5,6 +5,7 @@ category: faucet
 featured: false
 image: "/uploads/2023/05/sink12-e1685066862883.jpg"
 imageAlt: "Why is my kitchen sink backing up?"
+description: "Would you like to know why your kitchen sink is backing up? If yes, then you are in reading the right guide. The sink backing up is a common problem that…"
 ---
 
 ## Why is my kitchen sink backing up?

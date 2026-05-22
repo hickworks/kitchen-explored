@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/07/Frigidaire-oven-1-e1689440872121.jpg"
 imageAlt: "How to clean Frigidaire oven?"
+description: "Would you like to know how to clean Frigidaire oven? Keeping an oven clean does not only maintain its appearance but also ensures that the oven operates at…"
 ---
 
 ## How to clean a Frigidaire oven?

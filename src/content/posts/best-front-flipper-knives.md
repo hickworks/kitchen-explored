@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/KATSU-Camping-Pocket-Folding-Japanese-Knife.jpg"
 imageAlt: "Best front flipper knives"
+description: "Would you like to know the best front flipper knives? If yes, then you are reading the right article. Front flipper knives are very popular because of…"
 ---
 
 ## Front flipping knives

@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/OERLA-TAC-WS-0018-e1681605699775.jpg"
 imageAlt: "Best scout carry knives"
+description: "Would you like to own one of the best scout carry knives? If yes, then this blog is for you because we have listed the best scout carry knives available on…"
 ---
 
 ## What is scout carry for a knife?

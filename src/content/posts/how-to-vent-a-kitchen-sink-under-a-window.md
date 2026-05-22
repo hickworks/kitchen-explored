@@ -5,6 +5,7 @@ category: faucet
 featured: false
 image: "/uploads/2023/05/1-1-e1684230557668.jpg"
 imageAlt: "How to vent a kitchen sink under a window?"
+description: "Would you like to know how to vent a kitchen sink under a window? If you are planning to install a kitchen sink under a winder, it is very important to…"
 ---
 
 ## How to vent a kitchen sink under a window?

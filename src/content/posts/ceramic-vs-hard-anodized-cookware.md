@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/05/323-e1685176348711.jpg"
 imageAlt: "Ceramic vs Hard Anodized Cookware"
+description: "Would you like to know the difference between Ceramic vs Anodized cookware? If yes, then you are in the right place because this guide has all the…"
 ---
 
 ## Hard anodized vs ceramic cookware

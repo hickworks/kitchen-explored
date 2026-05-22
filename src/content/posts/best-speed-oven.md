@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/07/Breville-Smart-Oven-1.jpg"
 imageAlt: "Best speed oven"
+description: "Days are gone when you would spend so much time in your kitchen and even end up achieving uninspiring meals. With the upgrade in technology, speed ovens…"
 ---
 
 ## Best speed cook ovens

@@ -5,6 +5,7 @@ category: ovens
 featured: false
 image: "/uploads/2023/07/EaZy-MealZ-Crisping-Basket-Tray-Set-e1689510678715.jpg"
 imageAlt: "Best air fryer tray for oven"
+description: "Would you like to know the best air fryer tray for oven? If yes then you are reading the right guide. Air frying is very popular because it has the ability…"
 ---
 
 ## Best air fryer tray for convection oven

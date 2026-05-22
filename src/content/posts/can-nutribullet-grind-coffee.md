@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2023/01/Nutribullet-pro-900-2-e1673303323698.jpg"
 imageAlt: "Can Nutribullet grind Coffee?"
+description: "Many people wonder if it is possible to grind coffee using a Nutribullet and don’t get the right answer. You don’t have to worry anymore because this…"
 ---
 
 ## Can you grind Coffee in a Nutribullet? Everything you need to know.

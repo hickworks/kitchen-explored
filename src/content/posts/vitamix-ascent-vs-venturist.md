@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/Ascent-300x177.jpg"
 imageAlt: "Vitamix ascent vs Venturist"
+description: "When it comes to high end blenders, there are two clear leaders in the market: Vitamix and Venturist. Both brands offer top of the line products that are…"
 ---
 
 ## Venturist vs ascent

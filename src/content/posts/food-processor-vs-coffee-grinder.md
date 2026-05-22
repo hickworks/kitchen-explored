@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/coffee-grinder-2-e1669382624485.jpg"
 imageAlt: "Food processor vs Coffee grinder"
+description: "This question has caused a lot of debate for a long time. Some people say that a food processor is great for creating coffee while others say a grinder is…"
 ---
 
 ## What's Better for Making Coffee: A Food Processor or Coffee Grinder?

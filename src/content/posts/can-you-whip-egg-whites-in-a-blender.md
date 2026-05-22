@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/egg-whites-1-e1669060744866.jpg"
 imageAlt: "Can you Whip Egg Whites in a Blender?"
+description: "Would you like to know whether you can whip egg whites in a blender? If yes, then you are reading the right guide because we have the right answer to this…"
 ---
 
 ## Can You Whip Egg Whites in A Blender?

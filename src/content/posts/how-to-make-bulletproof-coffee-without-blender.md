@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/Bullet-proof-coffee-1-e1669726983519.jpg"
 imageAlt: "How To Make Bulletproof Coffee without Blender?"
+description: "A bulletproof coffee is a mixture of coffee, coconut oil and butter. A bulletproof coffee is a perfect way for anyone to start his or her morning. The…"
 ---
 
 ## How To Make Bulletproof Coffee without Blender?

@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/Vitamix-A3500-e1668717147919.jpg"
 imageAlt: "Can You Grind Coffee Beans in a Vitamix?"
+description: "This is a question that has caused a lot of debate for a long time because some people say that the Vitamix blades can grind beans while others say it…"
 ---
 
 ## Can You Grind Coffee Beans in a Vitamix?

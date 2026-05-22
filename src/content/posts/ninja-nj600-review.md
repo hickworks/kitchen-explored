@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/Ninja-nj600-2-e1670021108453.jpg"
 imageAlt: "Ninja nj600 review"
+description: "Would you like to know more about the Ninja NJ600? If yes, you are in the right place because this article has the preview, pros and cons regarding the…"
 ---
 
 ## Ninja nj600 review, Introduction

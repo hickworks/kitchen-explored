@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/Demeyere-vs-All-Clad-scaled-e1681433801818.jpg"
 imageAlt: "Demeyere vs All Clad"
+description: "Would you like to know the difference between Demeyere and All Clad? If yes, then you are in the right place because this guide has reviewed each cookware,…"
 ---
 
 ## All clad vs Demeyere

@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/Ninja-BL770-Vs-BL780.jpg"
 imageAlt: "Ninja BL770 Vs BL780"
+description: "What is the difference between the Ninja B779 and BL780? The Ninja BL770 and the Ninja BL780 are popular blenders on the market because of their…"
 ---
 
 ## Ninja BL770 Vs BL780, Similarities and Differences

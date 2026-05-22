@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/Ironstone-dinnerware.jpg"
 imageAlt: "<strong>Ironstone dinnerware</strong>"
+description: "Ironstone dinnerware originated from England in the 19th century. The ironstone came about when Staffordshire potters, wanted to create a substitute for…"
 ---
 
 ## What is ironstone dinnerware?

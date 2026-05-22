@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/ice-e1671872937410.jpg"
 imageAlt: "Does ice sharpen blender blades?"
+description: "Would you like to know whether ice can sharpen blender blades? If yes, this article will be discussing this question that many people want clarification…"
 ---
 
 ## Does ice sharpen blender blades?

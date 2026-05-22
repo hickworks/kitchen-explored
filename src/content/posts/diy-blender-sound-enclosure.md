@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/DIY-Blender-sound-enclosure-1.jpg"
 imageAlt: "DIY Blender sound enclosure"
+description: "Would you like to know how to make a DIY sound enclosure? If yes, then this is the right guide for you. We all know that the level of noise produced by a…"
 ---
 
 ## Diy sound enclosure box for blender

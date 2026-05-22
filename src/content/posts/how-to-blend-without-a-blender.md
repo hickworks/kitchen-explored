@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/knife-e1669384327107.jpg"
 imageAlt: "How to Blend Without a Blender?"
+description: "A blender is an appliance or machine that blends, mixes and even purees ingredients. The big question is, how to blend without a blender? Whether you don't…"
 ---
 
 ## How to blend without a blender?

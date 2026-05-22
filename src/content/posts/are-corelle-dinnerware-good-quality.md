@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/Are-corelle-dinnerware-good-quality-3-e1680455873765.jpg"
 imageAlt: "Are corelle dinnerware good quality?"
+description: "Corelle dinnerware is highly loved because of its design, reliability as well as durability. The dinnerware features a triple-layer glass laminate. This is…"
 ---
 
 ## Introduction

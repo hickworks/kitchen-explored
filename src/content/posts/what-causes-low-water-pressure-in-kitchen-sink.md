@@ -5,6 +5,7 @@ category: faucet
 featured: false
 image: "/uploads/2023/05/3.jpg"
 imageAlt: "What causes low water pressure in kitchen sink?"
+description: "Would you like to know what causes low water pressure in the kitchen sink? Experiencing low water pressure can be frustrating and also interrupts…"
 ---
 
 ## What causes low water pressure in kitchen sink?

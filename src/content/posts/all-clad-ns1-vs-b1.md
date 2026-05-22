@@ -5,6 +5,7 @@ category: cookware
 featured: false
 image: "/uploads/2023/04/All-clad-ns1-vs-b1-scaled-e1680453429286.jpg"
 imageAlt: "<strong>All clad ns1 vs b1</strong>"
+description: "Would you like to know the difference between the All Clad Ns1 and B1? If yes, you are in the right place because this guide has all the information…"
 ---
 
 ## All clad ns1 vs b1

@@ -5,6 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/vitamix-blender-2-e1668723363444.jpg"
 imageAlt: "Can you Put Soda in a Blender?"
+description: "Would you like to know what happens when you put soda in a blender? If yes, then this guide is meant for you because we have dug deeper to answer these…"
 ---
 
 ## What Happens When You Put Soda in A Blender?

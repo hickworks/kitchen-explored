@@ -5,6 +5,7 @@ category: faucet
 featured: false
 image: "/uploads/2023/05/How-to-tighten-kitchen-faucet-nut-u.jpg"
 imageAlt: "How to tighten kitchen faucet nut under sink?"
+description: "Would you like to know how to tighten your kitchen faucet nut under sink? We all know that having a loose kitchen faucet can be quite frustrating because…"
 ---
 
 ## How to tighten kitchen faucet nut under sink?
