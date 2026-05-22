@@ -30,7 +30,7 @@ const updatedStr = updatedDate?.toLocaleDateString('en-US', { year: 'numeric', m
 
   <!-- Article Header -->
   <div class="border-b border-gray-100">
-    <div class="max-w-[1104px] mx-auto px-6 py-12">
+    <div class="max-w-[1344px] mx-auto px-6 lg:px-12 py-12">
 
       <!-- Breadcrumb -->
       <nav class="flex items-center gap-1.5 text-sm text-gray-400 mb-6">
@@ -83,7 +83,7 @@ const updatedStr = updatedDate?.toLocaleDateString('en-US', { year: 'numeric', m
   </div>
 
   <!-- Content + ToC -->
-  <div class="max-w-[1104px] mx-auto px-6 py-12">
+  <div class="max-w-[1344px] mx-auto px-6 lg:px-12 py-12">
     <div class="flex gap-16 items-start">
 
       <!-- Sticky ToC -->
@@ -136,23 +136,37 @@ const updatedStr = updatedDate?.toLocaleDateString('en-US', { year: 'numeric', m
 
   <!-- CTA Banner -->
   <div class="bg-navy py-8 px-6">
-    <div class="max-w-[1104px] mx-auto flex flex-col sm:flex-row items-center justify-between gap-6">
-      <div class="flex items-center gap-5">
+    <div class="max-w-[1344px] mx-auto px-6 lg:px-12 flex flex-col sm:flex-row items-center justify-between gap-6">
+      <div class="flex items-center gap-5 shrink-0">
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" stroke="#f78745" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
         <div>
           <p class="text-white font-bold text-lg leading-tight">Get our weekly kitchen comparison digest.</p>
           <p class="text-white/60 text-sm">No fluff — just the best picks for home cooks.</p>
         </div>
       </div>
-      <a href="/#newsletter" class="shrink-0 px-6 py-2.5 rounded-lg text-white font-semibold text-sm whitespace-nowrap" style="background:linear-gradient(135deg,#f78745,#f85026)">
-        Sign Up →
-      </a>
+      <form class="flex items-center gap-2 w-full sm:w-auto" data-subscribe>
+        <input
+          type="email"
+          name="email"
+          required
+          placeholder="Your email address"
+          class="flex-1 sm:w-56 h-10 px-4 rounded-lg border border-white/20 bg-white/10 text-white placeholder:text-white/50 text-sm focus:outline-none focus:border-white/40"
+        />
+        <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
+        <button
+          type="submit"
+          class="shrink-0 h-10 px-5 rounded-lg !text-white font-semibold text-sm whitespace-nowrap"
+          style="background:linear-gradient(135deg,#f78745,#f85026)"
+        >
+          Subscribe
+        </button>
+      </form>
     </div>
   </div>
 
   <!-- Author Bio -->
   <div class="border-b border-gray-100">
-    <div class="max-w-[1104px] mx-auto px-6 py-10 flex items-start gap-5">
+    <div class="max-w-[1344px] mx-auto px-6 lg:px-12 py-10 flex items-start gap-5">
       <div class="w-14 h-14 rounded-full bg-navy text-white flex items-center justify-center shrink-0 text-base font-bold">MH</div>
       <div>
         <p class="font-bold text-gray-900">Matt Hickman</p>
@@ -167,7 +181,7 @@ const updatedStr = updatedDate?.toLocaleDateString('en-US', { year: 'numeric', m
   <!-- Related Articles -->
   {related.length > 0 && (
     <section class="py-12 bg-gray-50">
-      <div class="max-w-[1104px] mx-auto px-6">
+      <div class="max-w-[1344px] mx-auto px-6 lg:px-12">
         <h2 class="text-2xl font-bold text-navy mb-1">Related Articles</h2>
         <div class="h-px bg-gray-100 mb-6" />
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -178,3 +192,29 @@ const updatedStr = updatedDate?.toLocaleDateString('en-US', { year: 'numeric', m
   )}
 
 </BaseLayout>
+
+<script>
+  const WORKER = 'https://kitchen-explored-contact.matt-d9d.workers.dev/subscribe';
+
+  document.querySelectorAll<HTMLFormElement>('form[data-subscribe]').forEach(form => {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const btn = form.querySelector('button[type="submit"]') as HTMLButtonElement;
+      btn.disabled = true;
+      btn.textContent = '…';
+
+      try {
+        const res = await fetch(WORKER, { method: 'POST', body: new FormData(form) });
+        const data = await res.json();
+        if (data.ok) {
+          form.innerHTML = '<p class="text-white font-semibold text-sm">You\'re subscribed — thanks!</p>';
+        } else {
+          throw new Error(data.error);
+        }
+      } catch {
+        btn.disabled = false;
+        btn.textContent = 'Subscribe';
+      }
+    });
+  });
+</script>
