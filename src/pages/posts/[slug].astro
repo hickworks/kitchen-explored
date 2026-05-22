@@ -24,9 +24,29 @@ const readTime = Math.max(1, Math.ceil((post.body ?? '').split(/\s+/).length / 2
 
 const dateStr = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 const updatedStr = updatedDate?.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  ...(image && { image: new URL(image, Astro.site).toString() }),
+  datePublished: pubDate.toISOString(),
+  dateModified: (updatedDate ?? pubDate).toISOString(),
+  author: {
+    '@type': 'Person',
+    name: 'Matt Hickman',
+    url: new URL('/about/', Astro.site).toString(),
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Kitchen Explored',
+    url: Astro.site?.toString(),
+  },
+};
 ---
 
-<BaseLayout title={title} description={description} activeCategory={category}>
+<BaseLayout title={title} description={description} activeCategory={category} image={image} ogType="article" schema={articleSchema}>
 
   <!-- Article Header -->
   <div class="border-b border-gray-100">
@@ -76,6 +96,8 @@ const updatedStr = updatedDate?.toLocaleDateString('en-US', { year: 'numeric', m
           src={image}
           alt={imageAlt ?? title}
           class="w-full rounded-xl object-cover max-h-[450px]"
+          loading="eager"
+          fetchpriority="high"
         />
       )}
 
