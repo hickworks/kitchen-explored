@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
+import AlsoCompare from '../../components/AlsoCompare.astro';
+import { findAlsoCompare } from '../../lib/related';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -17,6 +19,7 @@ const related = allPosts
   .filter(p => p.data.category === category && p.id !== post.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
+const alsoCompare = findAlsoCompare(post.id, allPosts);
 
 const categoryLabel = category.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 const toc = headings.filter(h => h.depth <= 3);
@@ -155,6 +158,9 @@ const articleSchema = {
       </div>
     </div>
   </div>
+
+  <!-- Also Compare -->
+  <AlsoCompare posts={alsoCompare} />
 
   <!-- CTA Banner -->
   <div class="bg-navy py-8 px-6">
