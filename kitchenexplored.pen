@@ -6890,7 +6890,8 @@
           "content": "Side-by-side comparisons to help you shop smarter.",
           "textAlign": "center",
           "fontFamily": "Inter",
-          "fontSize": 18
+          "fontSize": 18,
+          "fontWeight": "normal"
         }
       ]
     },
@@ -12483,7 +12484,8 @@
               "width": 560,
               "content": "Independent head-to-head tests across blenders, cookware sets, chef's knives, pressure cookers, and ovens — so you can stop guessing and buy the right kitchen gear the first time.",
               "fontFamily": "Inter",
-              "fontSize": 18
+              "fontSize": 18,
+              "fontWeight": "normal"
             },
             {
               "type": "frame",
@@ -12606,7 +12608,8 @@
                               "width": 220,
                               "content": "Wren Noble · 18 May 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 13
+                              "fontSize": 13,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -12681,7 +12684,8 @@
                               "width": 200,
                               "content": "Jane Smith · 12 May 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -12744,7 +12748,8 @@
                               "width": 200,
                               "content": "Mike Chen · 5 May 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -12807,7 +12812,8 @@
                               "width": 200,
                               "content": "Tom Baker · 28 Apr 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -12863,7 +12869,8 @@
                               "width": 200,
                               "content": "Amy Park · 20 Apr 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13020,7 +13027,8 @@
                       "width": 820,
                       "content": "Best blenders for every kitchen and budget.",
                       "fontFamily": "Inter",
-                      "fontSize": 14
+                      "fontSize": 14,
+                      "fontWeight": "normal"
                     },
                     {
                       "type": "text",
@@ -13117,7 +13125,8 @@
                               "width": 220,
                               "content": "Jane Smith · 12 May 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 13
+                              "fontSize": 13,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13192,7 +13201,8 @@
                               "width": 200,
                               "content": "Sarah Jones · 3 Mar 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13255,7 +13265,8 @@
                               "width": 200,
                               "content": "Mike Chen · 18 Feb 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13318,7 +13329,8 @@
                               "width": 200,
                               "content": "Wren Noble · 22 Jan 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13374,7 +13386,8 @@
                               "width": 200,
                               "content": "Amy Park · 10 Jan 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13474,7 +13487,8 @@
                       "width": 820,
                       "content": "Top cookware picks for home chefs.",
                       "fontFamily": "Inter",
-                      "fontSize": 14
+                      "fontSize": 14,
+                      "fontWeight": "normal"
                     },
                     {
                       "type": "text",
@@ -13559,7 +13573,8 @@
                       "width": 820,
                       "content": "Kitchen knife comparisons and buying guides.",
                       "fontFamily": "Inter",
-                      "fontSize": 14
+                      "fontSize": 14,
+                      "fontWeight": "normal"
                     },
                     {
                       "type": "text",
@@ -13656,7 +13671,8 @@
                               "width": 220,
                               "content": "Tom Baker · 8 Apr 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 13
+                              "fontSize": 13,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13731,7 +13747,8 @@
                               "width": 200,
                               "content": "Sarah Jones · 2 Apr 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13794,7 +13811,8 @@
                               "width": 200,
                               "content": "Mike Chen · 15 Mar 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13857,7 +13875,8 @@
                               "width": 200,
                               "content": "Tom Baker · 28 Feb 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13913,7 +13932,8 @@
                               "width": 200,
                               "content": "Wren Noble · 14 Jan 2025",
                               "fontFamily": "Inter",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -13979,18 +13999,29 @@
               "name": "Inner",
               "width": 1104,
               "height": 340,
-              "fill": "#00000000",
-              "gap": 48,
+              "fill": "#F9FAFB",
+              "cornerRadius": 16,
               "children": [
                 {
                   "type": "frame",
                   "id": "l0YM4g",
                   "name": "PanelLeft",
-                  "width": 528,
+                  "width": 552,
                   "height": 340,
                   "fill": "#00000000",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": {
+                      "right": 1
+                    },
+                    "fill": "#E5E7EB"
+                  },
                   "layout": "vertical",
                   "gap": 20,
+                  "padding": [
+                    32,
+                    40
+                  ],
                   "children": [
                     {
                       "type": "frame",
@@ -14020,7 +14051,8 @@
                               "width": 112,
                               "content": "Keep Reading",
                               "fontFamily": "Inter",
-                              "fontSize": 16
+                              "fontSize": 16,
+                              "fontWeight": "normal"
                             },
                             {
                               "type": "text",
@@ -14081,7 +14113,7 @@
                           "name": "Row1",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "stroke": {
                             "align": "inside",
                             "thickness": {
@@ -14100,8 +14132,8 @@
                               "type": "frame",
                               "id": "fb3xl",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
@@ -14124,7 +14156,7 @@
                           "name": "Row2",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "stroke": {
                             "align": "inside",
                             "thickness": {
@@ -14143,8 +14175,8 @@
                               "type": "frame",
                               "id": "c38bA1",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
@@ -14167,7 +14199,7 @@
                           "name": "Row3",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "stroke": {
                             "align": "inside",
                             "thickness": {
@@ -14186,8 +14218,8 @@
                               "type": "frame",
                               "id": "LeIs0",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
@@ -14210,7 +14242,7 @@
                           "name": "Row4",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "gap": 16,
                           "padding": [
                             8,
@@ -14222,8 +14254,8 @@
                               "type": "frame",
                               "id": "Y1h2D3",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
@@ -14248,11 +14280,15 @@
                   "type": "frame",
                   "id": "Mjid3",
                   "name": "PanelRight",
-                  "width": 528,
+                  "width": 552,
                   "height": 340,
                   "fill": "#00000000",
                   "layout": "vertical",
                   "gap": 20,
+                  "padding": [
+                    32,
+                    40
+                  ],
                   "children": [
                     {
                       "type": "frame",
@@ -14282,7 +14318,8 @@
                               "width": 112,
                               "content": "Keep Reading",
                               "fontFamily": "Inter",
-                              "fontSize": 16
+                              "fontSize": 16,
+                              "fontWeight": "normal"
                             },
                             {
                               "type": "text",
@@ -14343,7 +14380,7 @@
                           "name": "Row1",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "stroke": {
                             "align": "inside",
                             "thickness": {
@@ -14362,8 +14399,8 @@
                               "type": "frame",
                               "id": "W0wqfs",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
@@ -14386,7 +14423,7 @@
                           "name": "Row2",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "stroke": {
                             "align": "inside",
                             "thickness": {
@@ -14405,8 +14442,8 @@
                               "type": "frame",
                               "id": "xmcGG",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
@@ -14429,7 +14466,7 @@
                           "name": "Row3",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "stroke": {
                             "align": "inside",
                             "thickness": {
@@ -14448,8 +14485,8 @@
                               "type": "frame",
                               "id": "GJhxW",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
@@ -14472,7 +14509,7 @@
                           "name": "Row4",
                           "width": 528,
                           "height": 72,
-                          "fill": "#FFFFFF",
+                          "fill": "#00000000",
                           "gap": 16,
                           "padding": [
                             8,
@@ -14484,8 +14521,8 @@
                               "type": "frame",
                               "id": "CucfE",
                               "name": "Thumb",
-                              "width": 88,
-                              "height": 56,
+                              "width": 48,
+                              "height": 48,
                               "fill": "#E5E7EB",
                               "cornerRadius": 4
                             },
