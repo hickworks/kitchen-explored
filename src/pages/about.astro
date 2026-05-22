@@ -2,36 +2,126 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="About Us" description="Learn about Kitchen Explored — honest kitchen appliance comparisons for home cooks.">
+<BaseLayout title="About Kitchen Explored" description="Kitchen Explored publishes honest, hands-on kitchen appliance comparisons. Learn who we are and how we test.">
 
   <!-- Hero -->
-  <section class="bg-navy py-16 px-6 text-center">
-    <div class="max-w-2xl mx-auto">
-      <h1 class="text-4xl font-bold text-white mb-4">About Kitchen Explored</h1>
-      <p class="text-white/70 text-lg">We help home cooks make confident purchasing decisions.</p>
+  <section class="bg-navy py-20 px-6">
+    <div class="max-w-[1344px] mx-auto px-6 lg:px-12">
+      <p class="text-orange-start text-sm font-semibold uppercase tracking-widest mb-4">About Us</p>
+      <h1 class="text-4xl md:text-5xl font-bold text-white leading-tight max-w-2xl mb-6">
+        Honest comparisons for people who cook.
+      </h1>
+      <p class="text-white/60 text-lg max-w-xl leading-relaxed">
+        Kitchen Explored exists because most appliance reviews online are vague, affiliate-first, and written by people who have never actually used the product.
+      </p>
     </div>
   </section>
 
-  <!-- Content -->
-  <div class="max-w-3xl mx-auto px-6 py-16">
-    <div class="prose prose-lg max-w-none prose-headings:text-navy prose-a:text-orange-start">
-      <h2>Our Mission</h2>
-      <p>
-        Kitchen Explored helps home cooks cut through marketing noise and find the kitchen tools that
-        actually deliver. We write detailed, side-by-side comparisons of blenders, cookware, knives,
-        ovens, pressure cookers, faucets, and more.
-      </p>
-      <h2>How We Test</h2>
-      <p>
-        Every comparison is based on hands-on testing in real kitchens. We focus on the factors that
-        matter most to everyday cooks: performance, durability, ease of use, and value for money.
-      </p>
-      <h2>Who We Are</h2>
-      <p>
-        Kitchen Explored was founded by Matt Hickman, a home cook and kitchen enthusiast who got tired
-        of vague product reviews. Since 2018, we've published over 180 appliance comparisons to help
-        people buy smarter.
-      </p>
+  <!-- Main content -->
+  <div class="max-w-[1344px] mx-auto px-6 lg:px-12 py-16">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-16">
+
+      <!-- Left: long-form text -->
+      <div class="lg:col-span-2">
+        <div class="prose prose-lg max-w-none prose-headings:text-navy prose-headings:font-bold prose-a:text-orange-start prose-a:no-underline hover:prose-a:underline">
+
+          <h2>Why we started this site</h2>
+          <p>
+            I'm Matt Hickman. I started Kitchen Explored in 2022 after spending an embarrassing amount
+            of time trying to figure out whether a $600 Vitamix was actually worth it over a $90 Ninja.
+            Every article I found was either a thinly veiled Amazon listing or a top-ten list with zero
+            real comparison.
+          </p>
+          <p>
+            So I started writing the comparisons I wished existed — specific, structured, and honest
+            about trade-offs. The site now covers over 180 head-to-head matchups across blenders,
+            cookware, knives, ovens, pressure cookers, and kitchen faucets.
+          </p>
+
+          <h2>How we research and write</h2>
+          <p>
+            Every article follows the same structure: we start with the specs that actually matter
+            (motor wattage, material construction, warranty terms), then move to real-world factors
+            like noise, ease of cleaning, and long-term durability based on owner reports and
+            hands-on use.
+          </p>
+          <p>
+            We don't pad articles with generic kitchen trivia. If a product is worse in a specific
+            way, we say so. The comparison tables on each page are designed to let you see the
+            differences at a glance without reading the whole article.
+          </p>
+
+          <h2>Affiliate links — here's how that works</h2>
+          <p>
+            Most product links on this site go to Amazon and are affiliate links. If you buy
+            something after clicking, we earn a small commission at no extra cost to you. This is
+            how the site pays for itself.
+          </p>
+          <p>
+            That said, affiliate revenue does not influence which product we recommend. We recommend
+            the better product. If the cheaper one wins, we say so. If neither is worth buying, we
+            say that too.
+          </p>
+
+        </div>
+      </div>
+
+      <!-- Right: stat cards + author bio -->
+      <div class="flex flex-col gap-6">
+
+        <!-- Author card -->
+        <div class="rounded-xl border border-gray-100 p-6">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="w-14 h-14 rounded-full bg-navy text-white flex items-center justify-center text-base font-bold shrink-0">MH</div>
+            <div>
+              <p class="font-bold text-gray-900">Matt Hickman</p>
+              <p class="text-sm text-gray-400">Founder, Kitchen Explored</p>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            Home cook and kitchen obsessive based in the US. Testing appliances since 2022,
+            cooking for far longer.
+          </p>
+        </div>
+
+        <!-- Stats -->
+        <div class="rounded-xl border border-gray-100 p-6 flex flex-col gap-5">
+          {[
+            { number: '180+', label: 'Appliance comparisons published' },
+            { number: '6', label: 'Categories covered' },
+            { number: '2022', label: 'Year we launched' },
+          ].map(s => (
+            <div>
+              <p class="text-3xl font-bold text-navy">{s.number}</p>
+              <p class="text-sm text-gray-500 mt-0.5">{s.label}</p>
+            </div>
+          ))}
+        </div>
+
+        <!-- Categories -->
+        <div class="rounded-xl border border-gray-100 p-6">
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-widest mb-4">What we cover</p>
+          <div class="flex flex-wrap gap-2">
+            {['Blenders', 'Cookware', 'Knives', 'Ovens', 'Pressure Cookers', 'Faucets'].map(c => (
+              <span class="px-3 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-700">{c}</span>
+            ))}
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom CTA -->
+  <div class="border-t border-gray-100 bg-gray-50">
+    <div class="max-w-[1344px] mx-auto px-6 lg:px-12 py-12 flex flex-col sm:flex-row items-center justify-between gap-6">
+      <div>
+        <p class="font-bold text-navy text-lg">Have a product you'd like us to compare?</p>
+        <p class="text-gray-500 text-sm mt-1">Reach out — we read every email.</p>
+      </div>
+      <a href="/contact/" class="shrink-0 px-6 py-2.5 rounded-lg text-white font-semibold text-sm whitespace-nowrap" style="background:linear-gradient(135deg,#f78745,#f85026)">
+        Get in Touch
+      </a>
     </div>
   </div>
 

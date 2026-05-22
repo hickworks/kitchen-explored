@@ -1,0 +1,11 @@
+name = "kitchen-explored-contact"
+main = "src/index.js"
+compatibility_date = "2025-05-21"
+
+# After setting up Email Routing in Cloudflare:
+# 1. Verify hello@kitchenexplored.com as a destination address
+# 2. Create a contact@kitchenexplored.com alias that routes to your inbox
+# The send_email binding lets the Worker send mail via Email Routing.
+[[send_email]]
+name = "SEND_EMAIL"
+destination_address = "hello@kitchenexplored.com"
