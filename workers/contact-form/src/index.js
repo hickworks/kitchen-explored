@@ -1,6 +1,6 @@
 import { EmailMessage } from "cloudflare:email";
 
-const FROM_ADDRESS = "contact@kitchenexplored.com";
+const FROM_ADDRESS = "hello@kitchenexplored.com";
 const TO_ADDRESS   = "hello@kitchenexplored.com";
 
 const ALLOWED_ORIGINS = [
