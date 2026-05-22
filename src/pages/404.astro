@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const categories = [
+  { label: 'Blenders', slug: 'blenders' },
+  { label: 'Cookware', slug: 'cookware' },
+  { label: 'Faucets', slug: 'faucet' },
+  { label: 'Ovens', slug: 'ovens' },
+  { label: 'Knives', slug: 'knives' },
+  { label: 'Pressure Cookers', slug: 'pressure-cooker' },
+];
+---
+
+<BaseLayout title="Page Not Found" description="The page you're looking for doesn't exist.">
+  <div class="max-w-2xl mx-auto px-6 py-24 text-center">
+
+    <p class="text-8xl font-bold text-gray-100 leading-none mb-2 select-none">404</p>
+    <h1 class="text-3xl font-bold text-navy mb-4">Page not found</h1>
+    <p class="text-gray-500 mb-10 leading-relaxed">
+      The page you're looking for has moved or doesn't exist.<br />
+      Try searching, or browse one of our categories below.
+    </p>
+
+    <!-- Search trigger -->
+    <button
+      id="search-btn"
+      class="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-gray-200 text-sm font-medium text-gray-600 hover:border-navy hover:text-navy transition-colors mb-12"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      Search articles…
+    </button>
+
+    <!-- Category chips -->
+    <div class="flex flex-wrap justify-center gap-2 mb-12">
+      {categories.map(cat => (
+        <a
+          href={`/category/${cat.slug}/`}
+          class="px-4 py-2 rounded-lg border border-gray-200 text-sm font-medium text-gray-600 hover:border-navy hover:text-navy hover:bg-gray-50 transition-colors"
+        >
+          {cat.label}
+        </a>
+      ))}
+    </div>
+
+    <a
+      href="/"
+      class="inline-flex items-center gap-2 text-sm font-semibold text-white px-6 py-3 rounded-xl"
+      style="background:linear-gradient(135deg,#062451,#0a3875)"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg>
+      Back to home
+    </a>
+
+  </div>
+</BaseLayout>

@@ -56,7 +56,7 @@ const categories = [
   </head>
   <body class="bg-white text-gray-800 antialiased">
 
-    <header class="bg-white border-b border-gray-100">
+    <header class="bg-white border-b border-gray-100 relative z-30">
       <div class="max-w-[1344px] mx-auto px-6 lg:px-12 h-[100px] flex items-center justify-between gap-6">
         <a href="/" class="shrink-0">
           <img src="/kitchen-explored-logo.svg" alt="Kitchen Explored" class="h-20 w-auto" />
@@ -78,13 +78,85 @@ const categories = [
           ))}
         </nav>
 
-        <button id="search-btn" aria-label="Search" class="shrink-0 text-gray-400 hover:text-navy transition-colors">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
-            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
-          </svg>
-        </button>
+        <div class="flex items-center gap-2">
+          <button id="search-btn" aria-label="Search" class="shrink-0 text-gray-400 hover:text-navy transition-colors p-1">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+            </svg>
+          </button>
+          <button id="mobile-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu" class="lg:hidden shrink-0 text-gray-500 hover:text-navy transition-colors p-1">
+            <svg id="icon-hamburger" xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" viewBox="0 0 24 24">
+              <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+            </svg>
+            <svg id="icon-close" xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" viewBox="0 0 24 24" class="hidden">
+              <path d="M18 6 6 18M6 6l12 12"/>
+            </svg>
+          </button>
+        </div>
       </div>
     </header>
+
+    <!-- Mobile menu drawer -->
+    <div id="mobile-menu" class="lg:hidden hidden fixed inset-x-0 top-[100px] z-20" aria-hidden="true">
+      <div id="mobile-backdrop" class="fixed inset-0 top-[100px] bg-black/30 backdrop-blur-sm"></div>
+      <div class="relative bg-white border-b border-gray-100 shadow-lg">
+        <nav class="max-w-[1344px] mx-auto px-6 py-4 flex flex-col gap-1">
+          {categories.map(cat => (
+            <a
+              href={`/category/${cat.slug}/`}
+              class:list={[
+                'px-4 py-3 rounded-lg text-base font-medium transition-colors',
+                activeCategory === cat.slug
+                  ? 'bg-navy text-white font-semibold'
+                  : 'text-gray-700 hover:bg-gray-50 hover:text-navy',
+              ]}
+            >
+              {cat.label}
+            </a>
+          ))}
+          <div class="mt-2 pt-3 border-t border-gray-100 flex flex-col gap-1">
+            <a href="/about/" class="px-4 py-2.5 rounded-lg text-sm text-gray-500 hover:bg-gray-50 hover:text-navy transition-colors">About Us</a>
+            <a href="/contact/" class="px-4 py-2.5 rounded-lg text-sm text-gray-500 hover:bg-gray-50 hover:text-navy transition-colors">Contact</a>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <script>
+      const btn = document.getElementById('mobile-menu-btn')!;
+      const menu = document.getElementById('mobile-menu')!;
+      const backdrop = document.getElementById('mobile-backdrop')!;
+      const iconHamburger = document.getElementById('icon-hamburger')!;
+      const iconClose = document.getElementById('icon-close')!;
+
+      function openMenu() {
+        menu.classList.remove('hidden');
+        menu.setAttribute('aria-hidden', 'false');
+        btn.setAttribute('aria-expanded', 'true');
+        iconHamburger.classList.add('hidden');
+        iconClose.classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeMenu() {
+        menu.classList.add('hidden');
+        menu.setAttribute('aria-hidden', 'true');
+        btn.setAttribute('aria-expanded', 'false');
+        iconHamburger.classList.remove('hidden');
+        iconClose.classList.add('hidden');
+        document.body.style.overflow = '';
+      }
+
+      btn.addEventListener('click', () => {
+        menu.classList.contains('hidden') ? openMenu() : closeMenu();
+      });
+
+      backdrop.addEventListener('click', closeMenu);
+
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeMenu();
+      });
+    </script>
 
     <main data-pagefind-body>
       <slot />
