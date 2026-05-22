@@ -1,20 +1,35 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import PostCard from '../../components/PostCard.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import Pagination from '../../../components/Pagination.astro';
 import { getCollection } from 'astro:content';
 
-export async function getStaticPaths() {
+const LABELS: Record<string, string> = {
+  blenders: 'Blenders',
+  cookware: 'Cookware',
+  faucet: 'Faucets',
+  ovens: 'Ovens',
+  knives: 'Knives',
+  'pressure-cooker': 'Pressure Cookers',
+};
+
+export async function getStaticPaths({ paginate }: { paginate: Function }) {
+  const allPosts = await getCollection('posts');
   const slugs = ['blenders', 'cookware', 'faucet', 'ovens', 'knives', 'pressure-cooker'];
-  return slugs.map(slug => ({ params: { slug } }));
+
+  return slugs.flatMap(slug => {
+    const posts = allPosts
+      .filter(p => p.data.category === slug)
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    return paginate(posts, { params: { slug }, pageSize: 12 });
+  });
 }
 
 const { slug } = Astro.params;
-const allPosts = await getCollection('posts');
-const posts = allPosts
-  .filter(p => p.data.category === slug)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-
-const label = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const { page } = Astro.props;
+const label = LABELS[slug] ?? slug;
+const baseUrl = `/category/${slug}/`;
 
 const categories = [
   { label: 'Blenders', slug: 'blenders' },
@@ -27,7 +42,7 @@ const categories = [
 ---
 
 <BaseLayout
-  title={label}
+  title={page.currentPage > 1 ? `${label} — Page ${page.currentPage}` : label}
   description={`${label} product comparisons and reviews.`}
   activeCategory={slug}
 >
@@ -41,8 +56,11 @@ const categories = [
         <span class="text-gray-700 font-medium">{label}</span>
       </nav>
       <h1 class="text-4xl font-bold text-navy">{label}</h1>
-      {posts.length > 0 && (
-        <p class="mt-2 text-sm text-gray-400">{posts.length} comparison{posts.length !== 1 ? 's' : ''}</p>
+      {page.total > 0 && (
+        <p class="mt-2 text-sm text-gray-400">
+          {page.total} comparison{page.total !== 1 ? 's' : ''}
+          {page.lastPage > 1 && ` — page ${page.currentPage} of ${page.lastPage}`}
+        </p>
       )}
     </div>
   </div>
@@ -71,9 +89,9 @@ const categories = [
 
   <!-- Post grid -->
   <div class="max-w-[1344px] mx-auto px-6 lg:px-12 py-12">
-    {posts.length > 0 ? (
+    {page.data.length > 0 ? (
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {posts.map(post => <PostCard post={post} />)}
+        {page.data.map((post: any) => <PostCard post={post} />)}
       </div>
     ) : (
       <div class="py-24 text-center">
@@ -82,5 +100,14 @@ const categories = [
       </div>
     )}
   </div>
+
+  <!-- Pagination -->
+  <Pagination
+    currentPage={page.currentPage}
+    lastPage={page.lastPage}
+    prevUrl={page.url.prev}
+    nextUrl={page.url.next}
+    baseUrl={baseUrl}
+  />
 
 </BaseLayout>
