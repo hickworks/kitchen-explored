@@ -1,0 +1,894 @@
+{
+  "redirects": [
+    {
+      "source": "/kitchen/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/contact-me/",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-appliances/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/10-best-toaster-under-30/",
+      "destination": "/posts/10-best-toaster-under-30/",
+      "permanent": true
+    },
+    {
+      "source": "/7-best-toaster-oven-for-powder-coating/",
+      "destination": "/posts/7-best-toaster-oven-for-powder-coating/",
+      "permanent": true
+    },
+    {
+      "source": "/9-best-portable-infrared-grill/",
+      "destination": "/posts/9-best-portable-infrared-grill/",
+      "permanent": true
+    },
+    {
+      "source": "/all-clad-4112-vs-41126-fry-pan/",
+      "destination": "/posts/all-clad-4112-vs-41126-fry-pan/",
+      "permanent": true
+    },
+    {
+      "source": "/all-clad-d5-vs-d7/",
+      "destination": "/posts/all-clad-d5-vs-d7/",
+      "permanent": true
+    },
+    {
+      "source": "/all-clad-mc2-vs-d3/",
+      "destination": "/posts/all-clad-mc2-vs-d3/",
+      "permanent": true
+    },
+    {
+      "source": "/all-clad-mc2-vs-d5/",
+      "destination": "/posts/all-clad-mc2-vs-d5/",
+      "permanent": true
+    },
+    {
+      "source": "/all-clad-ns1-vs-b1/",
+      "destination": "/posts/all-clad-ns1-vs-b1/",
+      "permanent": true
+    },
+    {
+      "source": "/all-clad-ns1-vs-ha1/",
+      "destination": "/posts/all-clad-ns1-vs-ha1/",
+      "permanent": true
+    },
+    {
+      "source": "/are-blender-bottles-dishwasher-safe/",
+      "destination": "/posts/are-blender-bottles-dishwasher-safe/",
+      "permanent": true
+    },
+    {
+      "source": "/are-corelle-dinnerware-good-quality/",
+      "destination": "/posts/are-corelle-dinnerware-good-quality/",
+      "permanent": true
+    },
+    {
+      "source": "/are-glass-blenders-better-than-plastic/",
+      "destination": "/posts/are-glass-blenders-better-than-plastic/",
+      "permanent": true
+    },
+    {
+      "source": "/are-gotham-steel-pans-oven-safe/",
+      "destination": "/posts/are-gotham-steel-pans-oven-safe/",
+      "permanent": true
+    },
+    {
+      "source": "/are-green-pans-oven-safe/",
+      "destination": "/posts/are-green-pans-oven-safe/",
+      "permanent": true
+    },
+    {
+      "source": "/are-vacuum-blenders-worth-it/",
+      "destination": "/posts/are-vacuum-blenders-worth-it/",
+      "permanent": true
+    },
+    {
+      "source": "/barrel-house-cooker-vs-pit-barrel-cooker/",
+      "destination": "/posts/barrel-house-cooker-vs-pit-barrel-cooker/",
+      "permanent": true
+    },
+    {
+      "source": "/bella-rocket-blender-vs-magic-bullet/",
+      "destination": "/posts/bella-rocket-blender-vs-magic-bullet/",
+      "permanent": true
+    },
+    {
+      "source": "/best-air-fryer-tray-for-oven/",
+      "destination": "/posts/best-air-fryer-tray-for-oven/",
+      "permanent": true
+    },
+    {
+      "source": "/best-bamboo-flatware/",
+      "destination": "/posts/best-bamboo-flatware/",
+      "permanent": true
+    },
+    {
+      "source": "/best-blender-for-acai-bowls/",
+      "destination": "/posts/best-blender-for-acai-bowls/",
+      "permanent": true
+    },
+    {
+      "source": "/best-blender-for-making-flour-2/",
+      "destination": "/posts/best-blender-for-making-flour-2/",
+      "permanent": true
+    },
+    {
+      "source": "/best-ceramic-cookware-made-in-usa/",
+      "destination": "/posts/best-ceramic-cookware-made-in-usa/",
+      "permanent": true
+    },
+    {
+      "source": "/best-chef-knives-under-50/",
+      "destination": "/posts/best-chef-knives-under-50/",
+      "permanent": true
+    },
+    {
+      "source": "/best-electric-knife-for-cutting-frozen-meat/",
+      "destination": "/posts/best-electric-knife-for-cutting-frozen-meat/",
+      "permanent": true
+    },
+    {
+      "source": "/best-flatware-for-dishwashers/",
+      "destination": "/posts/best-flatware-for-dishwashers/",
+      "permanent": true
+    },
+    {
+      "source": "/best-french-door-toaster-oven/",
+      "destination": "/posts/best-french-door-toaster-oven/",
+      "permanent": true
+    },
+    {
+      "source": "/best-front-flipper-knives/",
+      "destination": "/posts/best-front-flipper-knives/",
+      "permanent": true
+    },
+    {
+      "source": "/best-gold-flatware-that-doesnt-fade/",
+      "destination": "/posts/best-gold-flatware-that-doesnt-fade/",
+      "permanent": true
+    },
+    {
+      "source": "/best-hard-anodized-cookware-for-gas-stove/",
+      "destination": "/posts/best-hard-anodized-cookware-for-gas-stove/",
+      "permanent": true
+    },
+    {
+      "source": "/best-immersion-blender-for-soap-making/",
+      "destination": "/posts/best-immersion-blender-for-soap-making/",
+      "permanent": true
+    },
+    {
+      "source": "/best-kitchen-faucet-for-low-water-pressure/",
+      "destination": "/posts/best-kitchen-faucet-for-low-water-pressure/",
+      "permanent": true
+    },
+    {
+      "source": "/best-kitchen-faucets-for-hard-water/",
+      "destination": "/posts/best-kitchen-faucets-for-hard-water/",
+      "permanent": true
+    },
+    {
+      "source": "/best-non-toxic-flatware/",
+      "destination": "/posts/best-non-toxic-flatware/",
+      "permanent": true
+    },
+    {
+      "source": "/best-nonstick-cookware-set-under-200/",
+      "destination": "/posts/best-nonstick-cookware-set-under-200/",
+      "permanent": true
+    },
+    {
+      "source": "/best-ovens-for-sublimation/",
+      "destination": "/posts/best-ovens-for-sublimation/",
+      "permanent": true
+    },
+    {
+      "source": "/best-pellets-for-pizza-oven/",
+      "destination": "/posts/best-pellets-for-pizza-oven/",
+      "permanent": true
+    },
+    {
+      "source": "/best-scout-carry-knives/",
+      "destination": "/posts/best-scout-carry-knives/",
+      "permanent": true
+    },
+    {
+      "source": "/best-speed-oven/",
+      "destination": "/posts/best-speed-oven/",
+      "permanent": true
+    },
+    {
+      "source": "/best-utensils-for-stainless-steel-cookware/",
+      "destination": "/posts/best-utensils-for-stainless-steel-cookware/",
+      "permanent": true
+    },
+    {
+      "source": "/blender-made-in-usa/",
+      "destination": "/posts/blender-made-in-usa/",
+      "permanent": true
+    },
+    {
+      "source": "/can-i-make-whipped-cream-in-a-blender/",
+      "destination": "/posts/can-i-make-whipped-cream-in-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-i-use-a-ninja-blender-as-a-food-processor/",
+      "destination": "/posts/can-i-use-a-ninja-blender-as-a-food-processor/",
+      "permanent": true
+    },
+    {
+      "source": "/can-magic-bullet-blend-ice/",
+      "destination": "/posts/can-magic-bullet-blend-ice/",
+      "permanent": true
+    },
+    {
+      "source": "/can-nutribullet-blend-frozen-fruit/",
+      "destination": "/posts/can-nutribullet-blend-frozen-fruit/",
+      "permanent": true
+    },
+    {
+      "source": "/can-nutribullet-grind-coffee/",
+      "destination": "/posts/can-nutribullet-grind-coffee/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-grind-chicken-bones-in-a-blender/",
+      "destination": "/posts/can-you-grind-chicken-bones-in-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-grind-cinnamon-sticks-in-a-blender/",
+      "destination": "/posts/can-you-grind-cinnamon-sticks-in-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-grind-coffee-beans-in-a-vitamix/",
+      "destination": "/posts/can-you-grind-coffee-beans-in-a-vitamix/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-grind-coffee-in-a-magic-bullet/",
+      "destination": "/posts/can-you-grind-coffee-in-a-magic-bullet/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-grind-meat-in-a-vitamix/",
+      "destination": "/posts/can-you-grind-meat-in-a-vitamix/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-make-hummus-in-a-ninja-blender/",
+      "destination": "/posts/can-you-make-hummus-in-a-ninja-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-make-pesto-in-a-blender/",
+      "destination": "/posts/can-you-make-pesto-in-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-put-hot-liquid-in-a-ninja-blender/",
+      "destination": "/posts/can-you-put-hot-liquid-in-a-ninja-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-put-soda-in-a-blender/",
+      "destination": "/posts/can-you-put-soda-in-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-replace-a-kitchen-sink-without-replacing-the-countertop/",
+      "destination": "/posts/can-you-replace-a-kitchen-sink-without-replacing-the-countertop/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-shred-chicken-in-a-ninja-blender/",
+      "destination": "/posts/can-you-shred-chicken-in-a-ninja-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-shred-chicken-with-a-food-processor/",
+      "destination": "/posts/can-you-shred-chicken-with-a-food-processor/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-turn-off-self-cleaning-oven-early/",
+      "destination": "/posts/can-you-turn-off-self-cleaning-oven-early/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-use-a-blender-as-a-food-processor/",
+      "destination": "/posts/can-you-use-a-blender-as-a-food-processor/",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-whip-egg-whites-in-a-blender/",
+      "destination": "/posts/can-you-whip-egg-whites-in-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/cangshan-vs-henckels/",
+      "destination": "/posts/cangshan-vs-henckels/",
+      "permanent": true
+    },
+    {
+      "source": "/ceramic-vs-hard-anodized-cookware/",
+      "destination": "/posts/ceramic-vs-hard-anodized-cookware/",
+      "permanent": true
+    },
+    {
+      "source": "/copper-chef-vs-gotham-steel/",
+      "destination": "/posts/copper-chef-vs-gotham-steel/",
+      "permanent": true
+    },
+    {
+      "source": "/corelle-vs-mikasa/",
+      "destination": "/posts/corelle-vs-mikasa/",
+      "permanent": true
+    },
+    {
+      "source": "/corelle-vs-porcelain/",
+      "destination": "/posts/corelle-vs-porcelain/",
+      "permanent": true
+    },
+    {
+      "source": "/demeyere-vs-all-clad/",
+      "destination": "/posts/demeyere-vs-all-clad/",
+      "permanent": true
+    },
+    {
+      "source": "/different-types-of-juicers/",
+      "destination": "/posts/different-types-of-juicers/",
+      "permanent": true
+    },
+    {
+      "source": "/diy-blender-sound-enclosure/",
+      "destination": "/posts/diy-blender-sound-enclosure/",
+      "permanent": true
+    },
+    {
+      "source": "/do-all-vitamix-blenders-make-hot-soup/",
+      "destination": "/posts/do-all-vitamix-blenders-make-hot-soup/",
+      "permanent": true
+    },
+    {
+      "source": "/do-eggshells-sharpen-blender-blades/",
+      "destination": "/posts/do-eggshells-sharpen-blender-blades/",
+      "permanent": true
+    },
+    {
+      "source": "/do-you-need-a-blender-for-shakeology/",
+      "destination": "/posts/do-you-need-a-blender-for-shakeology/",
+      "permanent": true
+    },
+    {
+      "source": "/does-blending-a-banana-make-it-unhealthy/",
+      "destination": "/posts/does-blending-a-banana-make-it-unhealthy/",
+      "permanent": true
+    },
+    {
+      "source": "/does-ice-sharpen-blender-blades/",
+      "destination": "/posts/does-ice-sharpen-blender-blades/",
+      "permanent": true
+    },
+    {
+      "source": "/fable-dinnerware-review/",
+      "destination": "/posts/fable-dinnerware-review/",
+      "permanent": true
+    },
+    {
+      "source": "/food-processor-vs-coffee-grinder/",
+      "destination": "/posts/food-processor-vs-coffee-grinder/",
+      "permanent": true
+    },
+    {
+      "source": "/full-bolster-vs-half-bolster/",
+      "destination": "/posts/full-bolster-vs-half-bolster/",
+      "permanent": true
+    },
+    {
+      "source": "/how-many-watts-does-a-blender-need-to-crush-ice/",
+      "destination": "/posts/how-many-watts-does-a-blender-need-to-crush-ice/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-blend-without-a-blender/",
+      "destination": "/posts/how-to-blend-without-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-check-water-pressure-without-a-gauge/",
+      "destination": "/posts/how-to-check-water-pressure-without-a-gauge/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-clean-frigidaire-oven/",
+      "destination": "/posts/how-to-clean-frigidaire-oven/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-clean-nutribullet-blender-pitcher/",
+      "destination": "/posts/how-to-clean-nutribullet-blender-pitcher/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-keep-brushed-nickel-faucets-from-spotting/",
+      "destination": "/posts/how-to-keep-brushed-nickel-faucets-from-spotting/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-keep-pizza-warm-in-oven/",
+      "destination": "/posts/how-to-keep-pizza-warm-in-oven/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-make-bulletproof-coffee-without-blender/",
+      "destination": "/posts/how-to-make-bulletproof-coffee-without-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-make-ice-cream-with-the-ninja-blender/",
+      "destination": "/posts/how-to-make-ice-cream-with-the-ninja-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-puree-without-a-blender/",
+      "destination": "/posts/how-to-puree-without-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-shred-cabbage-in-food-processor/",
+      "destination": "/posts/how-to-shred-cabbage-in-food-processor/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-tighten-kitchen-faucet-nut-under-sink/",
+      "destination": "/posts/how-to-tighten-kitchen-faucet-nut-under-sink/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-vent-a-kitchen-sink-under-a-window/",
+      "destination": "/posts/how-to-vent-a-kitchen-sink-under-a-window/",
+      "permanent": true
+    },
+    {
+      "source": "/invisacook-review/",
+      "destination": "/posts/invisacook-review/",
+      "permanent": true
+    },
+    {
+      "source": "/is-corelle-air-fryer-safe/",
+      "destination": "/posts/is-corelle-air-fryer-safe/",
+      "permanent": true
+    },
+    {
+      "source": "/is-it-safe-to-pour-boiling-water-down-kitchen-sink/",
+      "destination": "/posts/is-it-safe-to-pour-boiling-water-down-kitchen-sink/",
+      "permanent": true
+    },
+    {
+      "source": "/is-naked-juice-healthy/",
+      "destination": "/posts/is-naked-juice-healthy/",
+      "permanent": true
+    },
+    {
+      "source": "/is-pyroceram-toxic/",
+      "destination": "/posts/is-pyroceram-toxic/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bl610-vs-bl710/",
+      "destination": "/posts/ninja-bl610-vs-bl710/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bl641-vs-bl642/",
+      "destination": "/posts/ninja-bl641-vs-bl642/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bl660-vs-bl610/",
+      "destination": "/posts/ninja-bl660-vs-bl610/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bl700/",
+      "destination": "/posts/ninja-bl700/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bl770-vs-bl780/",
+      "destination": "/posts/ninja-bl770-vs-bl780/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bl910-vs-bl770/",
+      "destination": "/posts/ninja-bl910-vs-bl770/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bn600-vs-bn601/",
+      "destination": "/posts/ninja-bn600-vs-bn601/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bn701-review/",
+      "destination": "/posts/ninja-bn701-review/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bn701-vs-bl610/",
+      "destination": "/posts/ninja-bn701-vs-bl610/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bn701-vs-bl610-2/",
+      "destination": "/posts/ninja-bn701-vs-bl610-2/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bn800-vs-bn801/",
+      "destination": "/posts/ninja-bn800-vs-bn801/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bn801-vs-bl770/",
+      "destination": "/posts/ninja-bn801-vs-bl770/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-bn801-vs-bn805a/",
+      "destination": "/posts/ninja-bn801-vs-bn805a/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-ce200-vs-ce201/",
+      "destination": "/posts/ninja-ce200-vs-ce201/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-ce201-vs-ce251/",
+      "destination": "/posts/ninja-ce201-vs-ce251/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp300-vs-cfp301/",
+      "destination": "/posts/ninja-cfp300-vs-cfp301/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp301-vs-cfp201-similarities-and-differences/",
+      "destination": "/posts/ninja-cfp301-vs-cfp201-similarities-and-differences/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp301-vs-cfp451/",
+      "destination": "/posts/ninja-cfp301-vs-cfp451/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp301-vs-cm401-similarities-differences/",
+      "destination": "/posts/ninja-cfp301-vs-cm401-similarities-differences/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp301-vs-cp301-similarities-differences/",
+      "destination": "/posts/ninja-cfp301-vs-cp301-similarities-differences/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp305-vs-cfp301/",
+      "destination": "/posts/ninja-cfp305-vs-cfp301/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp307-vs-cfp301/",
+      "destination": "/posts/ninja-cfp307-vs-cfp301/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cfp451-vs-cfp301/",
+      "destination": "/posts/ninja-cfp451-vs-cfp301/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cm300-vs-cm305/",
+      "destination": "/posts/ninja-cm300-vs-cm305/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cm300-vs-cm400/",
+      "destination": "/posts/ninja-cm300-vs-cm400/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cm401-vs-cm300/",
+      "destination": "/posts/ninja-cm401-vs-cm300/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cm401-vs-cm305/",
+      "destination": "/posts/ninja-cm401-vs-cm305/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cm407-vs-cm401/",
+      "destination": "/posts/ninja-cm407-vs-cm401/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-co401b-vs-ss401/",
+      "destination": "/posts/ninja-co401b-vs-ss401/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cp307-vs-cfp301/",
+      "destination": "/posts/ninja-cp307-vs-cfp301/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-cp307-vs-cm407/",
+      "destination": "/posts/ninja-cp307-vs-cm407/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-dz401-vs-dz550/",
+      "destination": "/posts/ninja-dz401-vs-dz550/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-foodi-ol500-vs-ol501/",
+      "destination": "/posts/ninja-foodi-ol500-vs-ol501/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-nj600-review/",
+      "destination": "/posts/ninja-nj600-review/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-ol501-vs-ol601/",
+      "destination": "/posts/ninja-ol501-vs-ol601/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-ol701-vs-ol601/",
+      "destination": "/posts/ninja-ol701-vs-ol601/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-qb1004/",
+      "destination": "/posts/ninja-qb1004/",
+      "permanent": true
+    },
+    {
+      "source": "/ninja-ss351-vs-bn801/",
+      "destination": "/posts/ninja-ss351-vs-bn801/",
+      "permanent": true
+    },
+    {
+      "source": "/nutribullet-1000-vs-1200/",
+      "destination": "/posts/nutribullet-1000-vs-1200/",
+      "permanent": true
+    },
+    {
+      "source": "/types-of-blender-blades/",
+      "destination": "/posts/types-of-blender-blades/",
+      "permanent": true
+    },
+    {
+      "source": "/types-of-mixer-grinder/",
+      "destination": "/posts/types-of-mixer-grinder/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-5000-vs-5200/",
+      "destination": "/posts/vitamix-5000-vs-5200/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-5200-vs-6500/",
+      "destination": "/posts/vitamix-5200-vs-6500/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-5200-vs-750/",
+      "destination": "/posts/vitamix-5200-vs-750/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-6500-vs-e310/",
+      "destination": "/posts/vitamix-6500-vs-e310/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-750-vs-a3500/",
+      "destination": "/posts/vitamix-750-vs-a3500/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-750-vs-v1200/",
+      "destination": "/posts/vitamix-750-vs-v1200/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-7500-vs-5300/",
+      "destination": "/posts/vitamix-7500-vs-5300/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-7500-vs-a3500/",
+      "destination": "/posts/vitamix-7500-vs-a3500/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-a2500-vs-a2300/",
+      "destination": "/posts/vitamix-a2500-vs-a2300/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-a2500-vs-e320/",
+      "destination": "/posts/vitamix-a2500-vs-e320/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-a3500-vs-e320/",
+      "destination": "/posts/vitamix-a3500-vs-e320/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-ascent-vs-venturist/",
+      "destination": "/posts/vitamix-ascent-vs-venturist/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e310-vs-5200/",
+      "destination": "/posts/vitamix-e310-vs-5200/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e310-vs-a2300/",
+      "destination": "/posts/vitamix-e310-vs-a2300/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e320-vs-750/",
+      "destination": "/posts/vitamix-e320-vs-750/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e320-vs-7500/",
+      "destination": "/posts/vitamix-e320-vs-7500/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e320-vs-a2300/",
+      "destination": "/posts/vitamix-e320-vs-a2300/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e320-vs-e520/",
+      "destination": "/posts/vitamix-e320-vs-e520/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e320-vs-v1200/",
+      "destination": "/posts/vitamix-e320-vs-v1200/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e520-vs-5200/",
+      "destination": "/posts/vitamix-e520-vs-5200/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e520-vs-7500-2/",
+      "destination": "/posts/vitamix-e520-vs-7500-2/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-e520-vs-e310/",
+      "destination": "/posts/vitamix-e520-vs-e310/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-s55-vs-5300/",
+      "destination": "/posts/vitamix-s55-vs-5300/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-v1200-vs-5200/",
+      "destination": "/posts/vitamix-v1200-vs-5200/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-v1200-vs-7500/",
+      "destination": "/posts/vitamix-v1200-vs-7500/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-v1200-vs-a2300/",
+      "destination": "/posts/vitamix-v1200-vs-a2300/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-v1200-vs-a2500/",
+      "destination": "/posts/vitamix-v1200-vs-a2500/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-v1200-vs-a3500/",
+      "destination": "/posts/vitamix-v1200-vs-a3500/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-v1200-vs-e320/",
+      "destination": "/posts/vitamix-v1200-vs-e320/",
+      "permanent": true
+    },
+    {
+      "source": "/vitamix-vm0103-vs-5200/",
+      "destination": "/posts/vitamix-vm0103-vs-5200/",
+      "permanent": true
+    },
+    {
+      "source": "/what-blenders-do-starbucks-use/",
+      "destination": "/posts/what-blenders-do-starbucks-use/",
+      "permanent": true
+    },
+    {
+      "source": "/what-causes-low-water-pressure-in-kitchen-sink/",
+      "destination": "/posts/what-causes-low-water-pressure-in-kitchen-sink/",
+      "permanent": true
+    },
+    {
+      "source": "/what-does-pulse-mean-on-a-blender/",
+      "destination": "/posts/what-does-pulse-mean-on-a-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-ironstone-dinnerware/",
+      "destination": "/posts/what-is-ironstone-dinnerware/",
+      "permanent": true
+    },
+    {
+      "source": "/when-is-the-best-time-to-remodel-kitchen/",
+      "destination": "/posts/when-is-the-best-time-to-remodel-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/which-is-the-quietest-ninja-blender/",
+      "destination": "/posts/which-is-the-quietest-ninja-blender/",
+      "permanent": true
+    },
+    {
+      "source": "/why-are-vitamix-blenders-so-expensive/",
+      "destination": "/posts/why-are-vitamix-blenders-so-expensive/",
+      "permanent": true
+    },
+    {
+      "source": "/why-is-my-kitchen-sink-backing-up/",
+      "destination": "/posts/why-is-my-kitchen-sink-backing-up/",
+      "permanent": true
+    },
+    {
+      "source": "/why-is-my-kitchen-sink-gurgling/",
+      "destination": "/posts/why-is-my-kitchen-sink-gurgling/",
+      "permanent": true
+    },
+    {
+      "source": "/why-is-my-ninja-blender-blinking-red/",
+      "destination": "/posts/why-is-my-ninja-blender-blinking-red/",
+      "permanent": true
+    }
+  ]
+}
