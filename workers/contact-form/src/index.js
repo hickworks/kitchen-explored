@@ -58,10 +58,87 @@ function json(data, status = 200, extraHeaders = {}) {
   });
 }
 
+function validEmail(str) {
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(str);
+}
+
+// ---------------------------------------------------------------------------
+// /subscribe handler
+// ---------------------------------------------------------------------------
+async function handleSubscribe(fd, env, cors) {
+  const email    = (fd.get("email")   ?? "").toString().trim();
+  const honeypot = (fd.get("_gotcha") ?? "").toString();
+
+  if (honeypot) return json({ ok: true }, 200, cors);
+
+  if (!email)          return json({ ok: false, error: "Email address is required." }, 400, cors);
+  if (!validEmail(email)) return json({ ok: false, error: "Please enter a valid email address." }, 400, cors);
+
+  const raw = buildRawEmail({
+    replyTo: email,
+    subject: `[Kitchen Explored] New subscriber: ${email}`,
+    body:    `New newsletter signup\n\nEmail: ${email}\n`,
+  });
+
+  try {
+    const msg = new EmailMessage(FROM_ADDRESS, TO_ADDRESS, toStream(raw));
+    await env.SEND_EMAIL.send(msg);
+    return json({ ok: true }, 200, cors);
+  } catch (err) {
+    console.error("subscribe send_email error:", err);
+    return json({ ok: false, error: "Something went wrong. Please try again." }, 500, cors);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// /contact handler
+// ---------------------------------------------------------------------------
+async function handleContact(fd, env, cors) {
+  const name     = (fd.get("name")    ?? "").toString().trim();
+  const email    = (fd.get("email")   ?? "").toString().trim();
+  const subject  = (fd.get("subject") ?? "other").toString();
+  const message  = (fd.get("message") ?? "").toString().trim();
+  const honeypot = (fd.get("_gotcha") ?? "").toString();
+
+  if (honeypot) return json({ ok: true }, 200, cors);
+
+  if (!name || !email || !message)
+    return json({ ok: false, error: "Name, email, and message are required." }, 400, cors);
+  if (!validEmail(email))
+    return json({ ok: false, error: "Please enter a valid email address." }, 400, cors);
+
+  const subjectLabel = SUBJECT_LABELS[subject] ?? "Other";
+  const raw = buildRawEmail({
+    replyTo: `${name} <${email}>`,
+    subject: `[Kitchen Explored] ${subjectLabel} — from ${name}`,
+    body: [
+      `Name:    ${name}`,
+      `Email:   ${email}`,
+      `Subject: ${subjectLabel}`,
+      ``,
+      `--- Message ---`,
+      message,
+    ].join("\n"),
+  });
+
+  try {
+    const msg = new EmailMessage(FROM_ADDRESS, TO_ADDRESS, toStream(raw));
+    await env.SEND_EMAIL.send(msg);
+    return json({ ok: true }, 200, cors);
+  } catch (err) {
+    console.error("contact send_email error:", err);
+    return json({ ok: false, error: "Failed to send message. Please email us directly." }, 500, cors);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Router
+// ---------------------------------------------------------------------------
 export default {
   async fetch(request, env) {
-    const origin = request.headers.get("Origin") || "";
-    const cors   = corsHeaders(origin);
+    const origin   = request.headers.get("Origin") || "";
+    const cors     = corsHeaders(origin);
+    const pathname = new URL(request.url).pathname;
 
     if (request.method === "OPTIONS") {
       return new Response(null, { status: 204, headers: cors });
@@ -71,57 +148,16 @@ export default {
       return json({ ok: false, error: "Method not allowed" }, 405, cors);
     }
 
-    // Parse form fields
-    let name, email, subject, message, honeypot;
+    let fd;
     try {
-      const fd = await request.formData();
-      name     = (fd.get("name")     ?? "").toString().trim();
-      email    = (fd.get("email")    ?? "").toString().trim();
-      subject  = (fd.get("subject")  ?? "other").toString();
-      message  = (fd.get("message")  ?? "").toString().trim();
-      honeypot = (fd.get("_gotcha")  ?? "").toString(); // spam trap
+      fd = await request.formData();
     } catch {
       return json({ ok: false, error: "Invalid request body" }, 400, cors);
     }
 
-    // Honeypot — bots fill hidden fields, humans don't
-    if (honeypot) {
-      return json({ ok: true }); // silently discard
-    }
+    if (pathname === "/subscribe") return handleSubscribe(fd, env, cors);
+    if (pathname === "/contact")   return handleContact(fd, env, cors);
 
-    if (!name || !email || !message) {
-      return json({ ok: false, error: "Name, email, and message are required." }, 400, cors);
-    }
-
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-      return json({ ok: false, error: "Please enter a valid email address." }, 400, cors);
-    }
-
-    const subjectLabel = SUBJECT_LABELS[subject] ?? "Other";
-    const emailSubject = `[Kitchen Explored] ${subjectLabel} — from ${name}`;
-    const emailBody = [
-      `Name:    ${name}`,
-      `Email:   ${email}`,
-      `Subject: ${subjectLabel}`,
-      ``,
-      `--- Message ---`,
-      message,
-    ].join("\n");
-
-    try {
-      const raw = buildRawEmail({
-        replyTo: `${name} <${email}>`,
-        subject: emailSubject,
-        body:    emailBody,
-      });
-
-      const msg = new EmailMessage(FROM_ADDRESS, TO_ADDRESS, toStream(raw));
-      await env.SEND_EMAIL.send(msg);
-
-      return json({ ok: true }, 200, cors);
-    } catch (err) {
-      console.error("send_email error:", err);
-      return json({ ok: false, error: "Failed to send message. Please email us directly." }, 500, cors);
-    }
+    return json({ ok: false, error: "Not found" }, 404, cors);
   },
 };
