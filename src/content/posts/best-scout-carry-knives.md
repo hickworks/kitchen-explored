@@ -19,7 +19,7 @@ The following is a list of the best scout carry knives starting from the bottom 
 
 * * *
 
-## [10.ALZAFASH Horizontal Carry Knife](https://amzn.to/3GLYHjm)
+## [10.ALZAFASH Horizontal Carry Knife](https://www.amazon.com/ALZAFASH-Horizontal-Hunting-Rosewood-Tracker/dp/B0BCKXHBR5?keywords=scout%2Bcarry%2Bknife&qid=1681257788&sr=8-24&th=1&linkCode=sl1&tag=ke2024-20&linkId=442bb63c09682dc4b18dfd304781a0e6&language=en_US&ref_=as_li_ss_tl)
 
 **Special Features:** Rosewood Handle,
 
@@ -48,7 +48,7 @@ The other unique feature of the knife is the way it is carried, horizontally. Th
 
 * * *
 
-## [9.Generies Brands EDC Mini Hunt Hidden Canyon Hunter Full Tang Fixed Blade horizontal Knife](https://amzn.to/3MITfBN)
+## [9.Generies Brands EDC Mini Hunt Hidden Canyon Hunter Full Tang Fixed Blade horizontal Knife](https://www.amazon.com/Generies-Brands-horizontal-8Cr13Mov-Stabilized/dp/B09KH1GY25?keywords=scout%2Bcarry%2Bknife&qid=1681257788&sr=8-16&th=1&linkCode=sl1&tag=ke2024-20&linkId=70bb2cf25e2b0574922ba7452c284b65&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** 8CR13Mov stainless steel, Stabilized wooden handles
 
@@ -72,7 +72,7 @@ To add on top, the blade of the knife is also serrated which enhances its versat
 
 * * *
 
-## [8.GCS Handmade Micarta Handle D2 Tool Steel Tactical knife](https://amzn.to/40aqdhp)
+## [8.GCS Handmade Micarta Handle D2 Tool Steel Tactical knife](https://www.amazon.com/GCS-Handmade-Micarta-Karambit-Buffalo/dp/B01L7G0TU6?keywords=scout+carry+knife&qid=1681257788&sr=8-49&linkCode=sl1&tag=ke2024-20&linkId=91c37a9c52fb5eeaba7cdf9142cab6ac&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Micarta Handle, Alloy steel blade
 
@@ -98,7 +98,7 @@ The knife is very sharp and requires proper care to prevent any accidents.
 
 * * *
 
-## [7.AXARQUIA-COCO](https://amzn.to/3GHYDkz)
+## [7.AXARQUIA-COCO](https://www.amazon.com/AXARQUIA-Coco-Survival-Stainless-Multi-Position-Firesteel/dp/B00P511SA0?keywords=scout%2Bcarry%2Bknife&qid=1681257788&sr=8-39&th=1&linkCode=sl1&tag=ke2024-20&linkId=ddbcc90428db223fbf42ce633be3acb7&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: MOVA-58 stainless steel, fire starter
 
@@ -124,7 +124,7 @@ A small percentage of people say it is a bit heavy.
 
 * * *
 
-## [6.BIGCAT ROAR Handmade Tracker Damascus](https://amzn.to/3mGsao7)
+## [6.BIGCAT ROAR Handmade Tracker Damascus](https://www.amazon.com/Bobcat-Knives-Handmade-Tactical-Functional/dp/B07Q1HGDF2?keywords=scout%2Bcarry%2Bknife&qid=1681257788&sr=8-53&th=1&linkCode=sl1&tag=ke2024-20&linkId=e834cde9ccf6f70239ffcc7d596e0585&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Alloy steel blade
 
@@ -152,7 +152,7 @@ The other feature is the lanyard hole that enables you to attach your scout carr
 
 * * *
 
-## [5.Ottoza Handmade D2 Steel Tracker Knife - Survival Knife - Camping Knife](https://amzn.to/41b3BPj)
+## [5.Ottoza Handmade D2 Steel Tracker Knife - Survival Knife - Camping Knife](https://www.amazon.com/Ottoza-Custom-Handmade-Tracker-Handle/dp/B07LDVJV4G?keywords=scout+carry+knives&qid=1681254076&s=industrial&sr=1-32-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQjJOWU9IR0VIRlJOJmVuY3J5cHRlZElkPUEwODI0ODc0M0ZOWE1ZRVYzRlpSSyZlbmNyeXB0ZWRBZElkPUEwNzI0NDExMlhVTVNNWlJCWEU4TiZ3aWRnZXROYW1lPXNwX2J0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=sl1&tag=ke2024-20&linkId=d3b250791e9e0f6d27329fa61ca3635d&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** D2 steel blade, cow hide leather sheath
 
@@ -178,7 +178,7 @@ The other outstanding feature is the classic wood handle, which has a unique des
 
 * * *
 
-## [4.GCS Handmade Tracker Knife D2 steel Hunting Knife G10 Handle Fixed Blade Knife Right Hand Scout Carry Buffalo leather Sheath and Sharpening Stone for Hunting Camping Survival and EDC](https://amzn.to/43DBucS)
+## [4.GCS Handmade Tracker Knife D2 steel Hunting Knife G10 Handle Fixed Blade Knife Right Hand Scout Carry Buffalo leather Sheath and Sharpening Stone for Hunting Camping Survival and EDC](https://www.amazon.com/GCS-Handmade-Micarta-Tactical-Tracker/dp/B01NBMWD9C?keywords=scout%2Bcarry%2Bknife&qid=1681257788&sr=8-5&th=1&linkCode=sl1&tag=ke2024-20&linkId=04abef57a20aba732e7af54b66a2d8cd&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Fiberglass handle,
 
@@ -202,7 +202,7 @@ The D2 steel requires proper maintenance.
 
 * * *
 
-## [3.OERLA TAC WS-0018 Small Warrior Series Fixed Blade Knife](https://amzn.to/3L2VheA)
+## [3.OERLA TAC WS-0018 Small Warrior Series Fixed Blade Knife](https://www.amazon.com/Oerla-WS-0018-Warrior-Stainless-Camping/dp/B07QCFJXZV?keywords=scout+carry+knife&qid=1681257788&sr=8-42&linkCode=sl1&tag=ke2024-20&linkId=704b8190ad4cf6653247cd1d59c09cf8&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Fiberglass, High Carbon Stainless steel blade material
 
@@ -228,7 +228,7 @@ The other stand-out feature is the blade design. The blade has a drop point desi
 
 * * *
 
-## [2.OERLA TAC DE-0014 Fixed Blade](https://amzn.to/3oeTXfO)
+## [2.OERLA TAC DE-0014 Fixed Blade](https://www.amazon.com/Oerla-Outdoor-Stonewashed-Stainless-Straight/dp/B07QC93S43?keywords=scout+carry+knife&qid=1681257788&sr=8-47&linkCode=sl1&tag=ke2024-20&linkId=627969bfca1b65d8b7557ea29389078e&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Fiberglass handle,
 
@@ -254,7 +254,7 @@ The other stand-out feature is the G10 handle. The handle is constructed from fi
 
 * * *
 
-## [1.OERLA TAC Knives OLHM-012 Fixed Blade Outdoor Duty Knife](https://amzn.to/3A00uxy)
+## [1.OERLA TAC Knives OLHM-012 Fixed Blade Outdoor Duty Knife](https://www.amazon.com/Oerla-OLHM-012-Outdoor-Stonewashed-Stainless/dp/B07Q64BRYJ?keywords=scout+carry+knife&qid=1681257788&sr=8-34&linkCode=sl1&tag=ke2024-20&linkId=3c1ed62251ebb171793128e5e33ae6e8&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:**
 

@@ -17,7 +17,7 @@ Both are popular cookware sets hence it may be a bit difficult to choose the rig
 
 * * *
 
-## [Demeyere Cookware](https://amzn.to/3zTDjFf)
+## [Demeyere Cookware](https://www.amazon.com/s?k=demeyere+cookware&crid=2RLAH0ZJC31I7&sprefix=Demeyere+Cookware%2Caps%2C709&linkCode=sl2&tag=ke2024-20&linkId=bf4af12f231283df6a7121cd517a6aa1&language=en_US&ref_=as_li_ss_tl)
 
 Demeyere cookware is a high-quality cookware that has been in the market for over a century. The company is popular for providing high-performance and durable cookware sets. The company is based in Belgium. The cookware sets from Demeyere are equipped with elegant and modern designs that can enhance the appearance of any kitchen setting.
 

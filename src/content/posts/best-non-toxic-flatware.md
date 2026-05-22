@@ -31,7 +31,7 @@ We have listed some of the top 10 best non-toxic flatware available on the marke
 
 ## 10 Best Non Toxic flatware
 
-## [**10.** **Acnusik Stainless Steel Flatware Service for 8**](https://amzn.to/3ZPFvrz)
+## [**10.** **Acnusik Stainless Steel Flatware Service for 8**](https://www.amazon.com/Acnusik-Stainless-Steel-Flatware-Set/dp/B08B39ZH5M?crid=3H9B8PH4M0HDU&keywords=BEST%2BNON%2BTOXIC%2BFLATWARE&qid=1675509080&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C469&sr=8-36&th=1&linkCode=sl1&tag=ke2024-20&linkId=bb4873cbe434c6a9c86c53a0dc925edd&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Stainless Steel, Polished finish, dishwasher safe
 
@@ -58,7 +58,7 @@ Not only does Acusik flatware enhances the look of any table setting but also it
 
 * * *
 
-## [**9.** **Silverware Set 40-Piece Silverware Set, HaWare Stainless Steel**](https://amzn.to/3ZSgKLK)
+## [**9.** **Silverware Set 40-Piece Silverware Set, HaWare Stainless Steel**](https://www.amazon.com/40-Piece-Silverware-HaWare-Stainless-Dishwasher/dp/B07J5XJSGV?crid=1H4610AITM58B&keywords=Silverware%2BSet%2C%2B40-Piece%2BFlatware%2BSet&qid=1680687751&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C506&sr=8-8&th=1&linkCode=sl1&tag=ke2024-20&linkId=8e3e48c542475b81b1defc18045a17bb&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Stainless steel, polished finish, Dishwasher safe, 4.5 pounds
 
@@ -85,7 +85,7 @@ They are also very versatile and can be used for a variety of functions or occas
 
 * * *
 
-## [**8.** **E-far 60-Piece Hammered Flatware Cutlery Set**](https://amzn.to/431qd5Y)
+## [**8.** **E-far 60-Piece Hammered Flatware Cutlery Set**](https://www.amazon.com/Silverware-far-60-Piece-Stainless-Restaurant/dp/B07TRLD5NX?crid=3H9B8PH4M0HDU&keywords=BEST%2BNON%2BTOXIC%2BFLATWARE&qid=1675509080&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C469&sr=8-12&th=1&linkCode=sl1&tag=ke2024-20&linkId=838f8b1b5ed5ec9797648d762366a439&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Hammered pattern, dishwasher safe, polished finish, silver color
 
@@ -112,7 +112,7 @@ The other feature that enhances its functionality is its lightweight. The pieces
 
 * * *
 
-## [**7.** LIANYU Silverware Flatware Set for 8](https://amzn.to/411f7Mw)
+## [**7.** LIANYU Silverware Flatware Set for 8](https://www.amazon.com/Silverware-LIANYU-Stainless-Restaurant-Dishwasher/dp/B079CHGS7K?crid=3H9B8PH4M0HDU&keywords=BEST%2BNON%2BTOXIC%2BFLATWARE&qid=1675509080&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C469&sr=8-10&th=1&linkCode=sl1&tag=ke2024-20&linkId=f94e18ce487222390fd44c618ed37301&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Stainless steel material, Dishwasher safe, Polished finish, 18/0 raindrop edge, 4.34 pounds weight
 
@@ -139,7 +139,7 @@ Additionally, lianyu also has a silver finish that offers an elegant and stylish
 
 * * *
 
-## [6.MASSUGAR 20-Piece Silverware Flatware Cutlery Set](https://amzn.to/3MlqQl8)
+## [6.MASSUGAR 20-Piece Silverware Flatware Cutlery Set](https://www.amazon.com/Silverware-Set%EF%BC%8CMASSUGAR-20-Piece-Flatware-Stainless/dp/B07QZBXVRQ?crid=3H9B8PH4M0HDU&keywords=BEST%2BNON%2BTOXIC%2BFLATWARE&qid=1675509080&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C469&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFKQTVZUzZMUk8xVVEmZW5jcnlwdGVkSWQ9QTA0Njc0MjUxWFRaQ041VU5CMzFMJmVuY3J5cHRlZEFkSWQ9QTEwMjg1MDNUTU5BSUFCQ1hDUzgmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1&linkCode=sl1&tag=ke2024-20&linkId=1db3a50440292e5e49fdb63fa4e34b70&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Dishwasher safe, ergonomic handles
 
@@ -165,7 +165,7 @@ Additionally, all pieces are dishwasher safe so they can be easily cleaned after
 
 * * *
 
-## [**5.** 45-Piece Silverware Flatware Cutlery Set Service for 8](https://amzn.to/3Gk048O)
+## [**5.** 45-Piece Silverware Flatware Cutlery Set Service for 8](https://www.amazon.com/Brightown-Silverware-Flatware-Ergonomic-Dishwasher/dp/B06XTPZL81?crid=1FLAN5TFHBWMH&keywords=45-Piece%2BSilverware%2BFlatware%2BCutlery%2BSet%2BService%2Bfor%2B8&qid=1680693050&sprefix=45-piece%2Bsilverware%2Bflatware%2Bcutlery%2Bset%2Bservice%2Bfor%2B8%2Caps%2C794&sr=8-1&th=1&linkCode=sl1&tag=ke2024-20&linkId=b4a3b1e39ca598105db0094fc1c72dd7&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Stainless steel material, dishwasher safe, polished finish, 0.5 pounds weight
 
@@ -189,7 +189,7 @@ The flatware features 18/0 stainless steel construction which is a durable const
 
 * * *
 
-## [**4.** Dinner Forks,Set of 16 Top Food Grade Stainless Steel Silverware](https://amzn.to/3KAZGFk)
+## [**4.** Dinner Forks,Set of 16 Top Food Grade Stainless Steel Silverware](https://www.amazon.com/Stainless-Silverware-Flatware-Dishwasher-Restaurant/dp/B086D4PV2G?crid=3H9B8PH4M0HDU&keywords=BEST%2BNON%2BTOXIC%2BFLATWARE&qid=1675509080&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C469&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFKQTVZUzZMUk8xVVEmZW5jcnlwdGVkSWQ9QTA0Njc0MjUxWFRaQ041VU5CMzFMJmVuY3J5cHRlZEFkSWQ9QTAyMzE5MjAzUVJPSEJKNE5JWFBXJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&linkCode=sl1&tag=ke2024-20&linkId=e91ca05f43da3ecb9ad3146735e70539&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** (steel, plastic, metal, metal) material, stainless steel material, silver color
 
@@ -213,7 +213,7 @@ They have limited functionality because they only have folks, they don’t have 
 
 * * *
 
-## [**3.** Mikasa Harmony 65 Piece Silverware Set](https://amzn.to/3MkGk8J)
+## [**3.** Mikasa Harmony 65 Piece Silverware Set](https://www.amazon.com/Mikasa-5060761-65-Piece-Stainless-Flatware/dp/B003IPBYWC?crid=3H9B8PH4M0HDU&keywords=BEST%2BNON%2BTOXIC%2BFLATWARE&qid=1675509080&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C469&sr=8-35&th=1&linkCode=sl1&tag=ke2024-20&linkId=9d6b38b4e5f3f009f5f9abb3f8c92f13&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Harmony gold style, 5 pounds, Silver color, 18/10 stainless steel
 
@@ -237,7 +237,7 @@ They are quite expensive though they are worth it because they are durable and c
 
 * * *
 
-## [**2.** **Mikasa Regent Bead 65 Piece Silverware Set**](https://amzn.to/4370M35)
+## [**2.** **Mikasa Regent Bead 65 Piece Silverware Set**](https://www.amazon.com/Mikasa-5081086-65-Piece-Stainless-Flatware/dp/B005OKV8RA?crid=3H9B8PH4M0HDU&keywords=BEST%2BNON%2BTOXIC%2BFLATWARE&qid=1675509080&sprefix=best%2Bnon%2Btoxic%2Bflatware%2Caps%2C469&sr=8-40&th=1&linkCode=sl1&tag=ke2024-20&linkId=ee3a0067961ec9be5cecfdd7cc2741e0&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Stainless steel material, Regent bead color, polished finish, dishwasher safe
 
@@ -261,7 +261,7 @@ Their cost is quite high, however, they are worth the price.
 
 * * *
 
-## [**1.** **Hammered Silverware Set, E-far 40**](https://amzn.to/418QVrL)
+## [**1.** **Hammered Silverware Set, E-far 40**](https://www.amazon.com/Hammered-Silverware-far-Stainless-Tableware/dp/B0829T8PWX?crid=T5HLZRZ2KMST&keywords=hammered%2Bsilverware%2Bset%2C%2Be-far%2B40-piece%2Bstainless%2Bsteel&qid=1680699962&sprefix=Hammered%2BSilverware%2BSet%2C%2BE-far%2B40%2Caps%2C1624&sr=8-1&th=1&linkCode=sl1&tag=ke2024-20&linkId=1728a83b982d0149fe0f8a789c29dfc9&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** Stainless steel material, dishwasher safe, 4.89 pounds weight, polished finish
 

@@ -144,8 +144,8 @@ const toDate  = (d: Date)   => d.toLocaleDateString('en-US', { month: 'short', d
 
       <!-- ── Filter Bar ───────────────────────────────────────────────── -->
       <div class="border-y border-gray-100 bg-white sticky top-0 z-10">
-        <div class="max-w-[1344px] mx-auto px-6 lg:px-12 h-[72px] flex items-center gap-6">
-          <span class="text-sm font-medium text-gray-500 whitespace-nowrap shrink-0">Browse by category</span>
+        <div class="max-w-[1344px] mx-auto px-6 lg:px-12 h-[72px] flex items-center justify-between gap-6">
+          <span class="text-base font-bold text-navy whitespace-nowrap shrink-0">Browse by category</span>
           <div class="flex items-center gap-1 overflow-x-auto">
             {categories.map(cat => (
               <a

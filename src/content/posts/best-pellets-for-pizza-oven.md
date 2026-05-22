@@ -37,7 +37,7 @@ The following are the best pellets for pizza oven:
 
 * * *
 
-## [9\. Fire & Flavor Premium All Natural Hardwood Pellets](https://amzn.to/3rxdTfF)
+## [9\. Fire & Flavor Premium All Natural Hardwood Pellets](https://www.amazon.com/Fire-Flavor-Hardwood-Signature-Blend/dp/B0B2TBK1RK?keywords=best+pellets+for+pizza+oven&qid=1688641592&sr=8-4&linkCode=sl1&tag=ke2024-20&linkId=7c5039d25adbe53b1f5ebbd9d8066c53&language=en_US&ref_=as_li_ss_tl)
 
 **Flavor:** Signature blend
 
@@ -64,7 +64,7 @@ The Fire and Flavor premium pellets are well crafted from 100% natural wood, mea
 
 * * *
 
-## [8\. Royal Oak 100 Percent Hardwood Charcoal Pellets](https://amzn.to/3Dg5Qq5)
+## [8\. Royal Oak 100 Percent Hardwood Charcoal Pellets](https://www.amazon.com/Royal-Oak-Hardwood-Charcoal-Grilling/dp/B09D1V71TB?keywords=best+pellets+for+pizza+oven&qid=1688640695&sr=8-19&linkCode=sl1&tag=ke2024-20&linkId=067a6d87327be2ca26739c2f21694bf7&language=en_US&ref_=as_li_ss_tl)
 
 **Flavor:** Natural Wood
 
@@ -89,7 +89,7 @@ In addition, these pellets are resistant to water and won't clog thereby ensurin
 
 * * *
 
-## **[7\. Oklahoma Joe's 2778406DP](https://amzn.to/43uIQ1l)**
+## **[7\. Oklahoma Joe's 2778406DP](https://www.amazon.com/Oklahoma-Joes-2778406DP-All-Natural-Hardwood/dp/B082JHMRRZ?keywords=best+pellets+for+pizza+oven&qid=1688640695&sr=8-20&linkCode=sl1&tag=ke2024-20&linkId=35f2f0403af3c362cf0491dc33d4b97c&language=en_US&ref_=as_li_ss_tl)**
 
 **Flavor:** Hickory
 
@@ -116,7 +116,7 @@ On the other hand, the hickory wood and oak ensure that you have a well-balanced
 
 * * *
 
-## [6.MacLean's Outdoor Apple Wood BBQ Smoking Pellets](https://amzn.to/46NTkvB)
+## [6.MacLean's Outdoor Apple Wood BBQ Smoking Pellets](https://www.amazon.com/MacLeans-Outdoor-Apple-Wood-Smoking/dp/B09BH2QYXV?keywords=best%2Bpellets%2Bfor%2Bpizza%2Boven&qid=1688640695&sr=8-18&th=1&linkCode=sl1&tag=ke2024-20&linkId=bc736112c187f5bed4159808deec5a84&language=en_US&ref_=as_li_ss_tl)
 
 **Flavor:** Apple
 
@@ -141,7 +141,7 @@ The other advantage of using this pellet is that it has a low-calorie flavor. Th
 
 * * *
 
-## [5\. Camp Chef Competition Blend BBQ Pellets](https://amzn.to/3K4MUOP)
+## [5\. Camp Chef Competition Blend BBQ Pellets](https://www.amazon.com/Camp-Chef-Competition-Blend-Pellets/dp/B01CQ2VSBO?keywords=best+pellets+for+pizza+oven&qid=1688640695&sr=8-6&linkCode=sl1&tag=ke2024-20&linkId=dfd90135921283d2f3f2c51cf34f855f&language=en_US&ref_=as_li_ss_tl)
 
 **Flavor:** Cherry, Maple, Hickory
 
@@ -166,7 +166,7 @@ Each and every pellet bag has a weight of 20 lbs which is enough to carry out a 
 
 * * *
 
-## **[4.BBQr's Delight Wood Smoking Pellets](https://amzn.to/44Hdllw)**
+## **[4.BBQr's Delight Wood Smoking Pellets](https://www.amazon.com/BBQrs-Delight-Wood-Smoking-Pellets/dp/B00L2AD8D8?keywords=best+pellets+for+pizza+oven&qid=1688640695&sr=8-16&linkCode=sl1&tag=ke2024-20&linkId=def014cd00bea4449b4534a73e5c1ecc&language=en_US&ref_=as_li_ss_tl)**
 
 **Flavor:** Original
 
@@ -195,7 +195,7 @@ When it comes to compatibility, it is not an issue for these pellets. They work 
 
 * * *
 
-## [3\. Traeger Grills Hickory 100%](https://amzn.to/3De4qfK)
+## [3\. Traeger Grills Hickory 100%](https://www.amazon.com/Traeger-PEL319-Hickory-All-Natural-Hardwood/dp/B01F2YP954?keywords=best+pellets+for+pizza+oven&qid=1688641411&sr=8-28-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=sl1&tag=ke2024-20&linkId=ab81d1d071dadcd9bc23e0a03bd8890c&language=en_US&ref_=as_li_ss_tl)
 
 **Flavor:** Hickory
 
@@ -220,7 +220,7 @@ The versatility of the pellet enables it to blend with everything including food
 
 * * *
 
-## **[2\. Bear Mountain Premium BBQ WOODS 100%](https://amzn.to/46NBbhj)**
+## **[2\. Bear Mountain Premium BBQ WOODS 100%](https://www.amazon.com/Bear-Mountain-BBQ-All-Natural-Hardwood/dp/B07MKT37TV?keywords=best+pellets+for+pizza+oven&qid=1688641411&sr=8-36&linkCode=sl1&tag=ke2024-20&linkId=2fe39f1cf05560951c707b1d6ed67c77&language=en_US&ref_=as_li_ss_tl)**
 
 **Flavor:** Mesquite
 
@@ -247,7 +247,7 @@ The pellets also contain low moisture which leads to a clean burn. The low moist
 
 * * *
 
-## **[1\. Traeger Grills Signature Blend 100%](https://amzn.to/3XWIBeo)**
+## **[1\. Traeger Grills Signature Blend 100%](https://www.amazon.com/Traeger-PEL331-Signature-All-Natural-Hardwood/dp/B079DHNK3H?keywords=best+pellets+for+pizza+oven&qid=1688640695&sr=8-10&linkCode=sl1&tag=ke2024-20&linkId=7b655fb1062a206238109688c281b814&language=en_US&ref_=as_li_ss_tl)**
 
 **Flavor:** Signature Blend
 

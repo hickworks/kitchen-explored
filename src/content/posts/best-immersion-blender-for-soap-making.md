@@ -21,7 +21,7 @@ The following are some of the best immersion blender for soap making:
 
 * * *
 
-## 8.**[Bonsenkitchen Handheld Blender, Electric Hand Blender](https://amzn.to/3A6C4Th)**
+## 8.**[Bonsenkitchen Handheld Blender, Electric Hand Blender](https://www.amazon.com/Bonsenkitchen-Handheld-Electric-Immersion-Stainless/dp/B09SH9XH37?crid=19VV2AKQ8U8AW&keywords=Best%2BImmersion%2BBlender%2BFor%2BSoap%2BMaking&qid=1681166090&sprefix=best%2Bimmersion%2Bblender%2Bfor%2Bsoap%2Bmaking%2B%2Caps%2C369&sr=8-9&th=1&linkCode=sl1&tag=ke2024-20&linkId=232d87309d000249d112ac3ab957d96d&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** 12 speeds, turbo mode
 
@@ -50,7 +50,7 @@ It has a limited color option since it is available in 1 color.
 
 * * *
 
-## 8.**[New House Kitchen Immersion Hand Blender](https://amzn.to/3LbzmlM)**
+## 8.**[New House Kitchen Immersion Hand Blender](https://www.amazon.com/House-Kitchen-Immersion-Hand-Blender/dp/B07H9MHPD5?crid=19VV2AKQ8U8AW&keywords=Best%2BImmersion%2BBlender%2BFor%2BSoap%2BMaking&qid=1681165336&sprefix=best%2Bimmersion%2Bblender%2Bfor%2Bsoap%2Bmaking%2B%2Caps%2C369&sr=8-4&th=1&linkCode=sl1&tag=ke2024-20&linkId=49c40cd153ee7cd048a0c2c9ad7f8af7&language=en_US&ref_=as_li_ss_tl)**
 
 **Special feature:** turquoise color
 
@@ -77,7 +77,7 @@ The noise level of this immersion blender is on another level, the motor does no
 
 * * *
 
-## 7.**[Keylitos 5-in-1 Immersion Hand Blender](https://amzn.to/3MRGKnq)**
+## 7.**[Keylitos 5-in-1 Immersion Hand Blender](https://www.amazon.com/Immersion-Powerful-12-Speed-Handheld-Stainless/dp/B08VWMXRQX?crid=19VV2AKQ8U8AW&keywords=Best%2BImmersion%2BBlender%2BFor%2BSoap%2BMaking&qid=1681165336&sprefix=best%2Bimmersion%2Bblender%2Bfor%2Bsoap%2Bmaking%2B%2Caps%2C369&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWE1LOUdGUjhOWEo0JmVuY3J5cHRlZElkPUEwNDc4MTYxM0swSDRCTVhGVjQ5NiZlbmNyeXB0ZWRBZElkPUEwMzU5MDAxMzJFN1pFRlhTTjIwUSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=sl1&tag=ke2024-20&linkId=0923c8bbec5e0d2f377c11cf5d71ee78&language=en_US&ref_=as_li_ss_tl)**
 
 **Special feature:** 4 blades, detachable shaft, 12 speed
 
@@ -107,7 +107,7 @@ Additionally, the blender is equipped with detachable accessories that can be cl
 
 * * *
 
-## 6.**[Chefman Immersion Stick Hand Blender](https://amzn.to/3GUduc5)**
+## 6.**[Chefman Immersion Stick Hand Blender](https://www.amazon.com/Chefman-Immersion-Stick-Hand-Blender/dp/B08KWH6SJH?crid=19VV2AKQ8U8AW&keywords=Best%2BImmersion%2BBlender%2BFor%2BSoap%2BMaking&qid=1681166090&sprefix=best%2Bimmersion%2Bblender%2Bfor%2Bsoap%2Bmaking%2B%2Caps%2C369&sr=8-11&th=1&linkCode=sl1&tag=ke2024-20&linkId=cf9cc827a9758a62f7892beec6785f9d&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Programmable
 
@@ -135,7 +135,7 @@ The blender can be quite noisy during some operations.
 
 * * *
 
-## 5.**[UTALENT 5-in-1 8-Speed Stick Blender](https://amzn.to/3KKRFwI)** 
+## 5.**[UTALENT 5-in-1 8-Speed Stick Blender](https://www.amazon.com/Immersion-Utalent-BPA-Free-Container-Smoothies/dp/B07LFY1L31?crid=19VV2AKQ8U8AW&keywords=Best+Immersion+Blender+For+Soap+Making&qid=1681165336&sprefix=best+immersion+blender+for+soap+making+%2Caps%2C369&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWE1LOUdGUjhOWEo0JmVuY3J5cHRlZElkPUEwNDc4MTYxM0swSDRCTVhGVjQ5NiZlbmNyeXB0ZWRBZElkPUEwODA4OTE3MUdTV0M3S1dCNlVFWCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=sl1&tag=ke2024-20&linkId=0aa403802562eee1ee2619ce4d3bd0c7&language=en_US&ref_=as_li_ss_tl)** 
 
 **Special features:** 4-blade system, 8 speed
 
@@ -163,7 +163,7 @@ This blender requires proper care and maintenance to last a long time.
 
 * * *
 
-## 4.**[BELLA Immersion Hand Blender](https://amzn.to/3GTxNGr)**
+## 4.**[BELLA Immersion Hand Blender](https://www.amazon.com/BELLA-14460-2-Speed-Immersion-Attachment/dp/B018ELIYA4?crid=19VV2AKQ8U8AW&keywords=Best%2BImmersion%2BBlender%2BFor%2BSoap%2BMaking&qid=1681165336&sprefix=best%2Bimmersion%2Bblender%2Bfor%2Bsoap%2Bmaking%2B%2Caps%2C369&sr=8-18&th=1&linkCode=sl1&tag=ke2024-20&linkId=ff381cba3c84055740d7b74dfb7c0d82&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** 2 Speed settings
 
@@ -191,7 +191,7 @@ The blender can be quite loud.
 
 * * *
 
-## 3.[**Ovente Electric Immersion Hand Blender 300** watts](https://amzn.to/3Lb2nhe)
+## 3.[**Ovente Electric Immersion Hand Blender 300** watts](https://www.amazon.com/Ovente-Immersion-Multipurpose-HS560B-HS560B-Black/dp/B076MJSRRC?crid=19VV2AKQ8U8AW&keywords=Best%2BImmersion%2BBlender%2BFor%2BSoap%2BMaking&qid=1681165336&sprefix=best%2Bimmersion%2Bblender%2Bfor%2Bsoap%2Bmaking%2B%2Caps%2C369&sr=8-8&th=1&linkCode=sl1&tag=ke2024-20&linkId=9e945c60f5ec684ae9d967e036712579&language=en_US&ref_=as_li_ss_tl)
 
 **Special feature:** 2-Speeds Setting, BPA Free, Manual, Slim stick, High Performance
 
@@ -219,7 +219,7 @@ Finally, the immersion blender comes with a 1-year warranty.
 
 * * *
 
-## 2.**[Mueller Smart Stick 800W](https://amzn.to/3L8ZOMC)**
+## 2.**[Mueller Smart Stick 800W](https://www.amazon.com/Mueller-Austria-Titanium-Comfygrip-Measuring/dp/B08HSNGR8P?crid=19VV2AKQ8U8AW&keywords=Best%2BImmersion%2BBlender%2BFor%2BSoap%2BMaking&qid=1681165336&sprefix=best%2Bimmersion%2Bblender%2Bfor%2Bsoap%2Bmaking%2B%2Caps%2C369&sr=8-3&th=1&linkCode=sl1&tag=ke2024-20&linkId=0865f05647883d920158181c4a7134f0&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Alloy steel material, Titanium coated blades
 
@@ -245,7 +245,7 @@ When making soap, the blender is equipped with a bell-shaped blending base that 
 
 * * *
 
-## 1.**[Mueller Ultra-Stick 500 Watt 9-Speed Immersion Multi-Purpose Hand Blender](https://amzn.to/3MSMiy0)**
+## 1.**[Mueller Ultra-Stick 500 Watt 9-Speed Immersion Multi-Purpose Hand Blender](https://www.amazon.com/Mueller-Austria-Ultra-Stick-Multi-Purpose-Attachment/dp/B075X1KPLZ?crid=19VV2AKQ8U8AW&keywords=Best+Immersion+Blender+For+Soap+Making&qid=1681166090&sprefix=best+immersion+blender+for+soap+making+%2Caps%2C369&sr=8-16&linkCode=sl1&tag=ke2024-20&linkId=93a7b428a8abb4152578ccc5913fe4bc&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Heavy-duty copper motor, 304 stainless steel
 

@@ -48,7 +48,7 @@ The list also includes some of the best portable infrared gas grill.
 
 * * *
 
-## [9\. BIG HORN OUTDOORS Portable Infrared Broiler Propane Gas Grill](https://amzn.to/46Y24zg)
+## [9\. BIG HORN OUTDOORS Portable Infrared Broiler Propane Gas Grill](https://www.amazon.com/BIG-HORN-OUTDOORS-Portable-Stainless/dp/B08G8NYBX6?keywords=Best+portable+infrared+grill&qid=1689539761&sr=8-5&linkCode=sl1&tag=ke2024-20&linkId=e124b99da7470c93f41b8612a99e90e0&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: Portable
 
@@ -74,7 +74,7 @@ The other notable feature is the adjustable grill grate that has 10 level positi
 
 * * *
 
-## [8\. Gourmet Series Gas Grill](https://amzn.to/46Y2eqm)
+## [8\. Gourmet Series Gas Grill](https://www.amazon.com/Magma-Products-A10-1218-2GS-Catalina-Stainless/dp/B00NCSUZDE?keywords=Best+portable+infrared+grill&qid=1689539761&sr=8-19&linkCode=sl1&tag=ke2024-20&linkId=54dd0fa0e8317b063f064ba76b2010ba&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: Portable, Viewing Window
 
@@ -103,7 +103,7 @@ The gourmet series also has a disposable propane canister feature. Other feature
 
 * * *
 
-## [7\. The Otto Grill Pro](https://amzn.to/3O2ESXZ)
+## [7\. The Otto Grill Pro](https://www.amazon.com/Infrared-1500%C2%B0F-Minutes-Integrated-Stainless/dp/B09SPZ8NGX?keywords=Best+portable+infrared+grill&qid=1689540514&sr=8-21&linkCode=sl1&tag=ke2024-20&linkId=a288ca03824ecd8facac2b90fc8fcd8c&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: 2 Separately Adjustable Infrared Gas Units, 1500°F Grilling Heat
 
@@ -153,7 +153,7 @@ The other outstanding feature is the adjustable grill height which allows you to
 
 * * *
 
-## [5\. GASPRO 1500℉ Professional Propane Infrared Steak Grill](https://amzn.to/3K9tkRr)
+## [5\. GASPRO 1500℉ Professional Propane Infrared Steak Grill](https://www.amazon.com/GASPRO-Infrared-Dustproof-Stainless-Certified/dp/B0836CBZN1?keywords=Best+portable+infrared+grill&qid=1689539761&sr=8-11&linkCode=sl1&tag=ke2024-20&linkId=d9bfb6cc2c059f95de8a807f01c7523a&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: Portable
 
@@ -178,7 +178,7 @@ Just like the previous grills in our list, this one also enables you to easily a
 
 * * *
 
-## [4\. Solaire SOL-EV17A Everywhere Portable Infrared Propane Gas Grill](https://amzn.to/46YRRCI)
+## [4\. Solaire SOL-EV17A Everywhere Portable Infrared Propane Gas Grill](https://www.amazon.com/Solaire-SOL-EV17A-Everywhere-Portable-Stainless/dp/B003UNTIG6?keywords=Best+portable+infrared+grill&qid=1689539761&sr=8-9&linkCode=sl1&tag=ke2024-20&linkId=114a7e4dbeb6aabeb0cd62f668aede9a&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: Portable
 
@@ -205,7 +205,7 @@ The special v-grate also enables you to achieve full flavor and also reduces fla
 
 * * *
 
-## [3\. Magma Products, Newport II Infrared Gourmet Series Gas Grill](https://amzn.to/3OrE807)
+## [3\. Magma Products, Newport II Infrared Gourmet Series Gas Grill](https://www.amazon.com/Magma-Products-A10-918-2GS-Polished-Stainless/dp/B00NCSUZHK?keywords=Best+portable+infrared+grill&qid=1689539761&sr=8-8&linkCode=sl1&tag=ke2024-20&linkId=0ae496eac41339c364dc426625ae2739&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: Viewing Window
 
@@ -259,7 +259,7 @@ Big Horn is equipped with safety features such as a stainless-steel front panel 
 
 * * *
 
-## [1\. Char-Broil 463370719 Performance TRU-Infrared](https://amzn.to/472uFUc)
+## [1\. Char-Broil 463370719 Performance TRU-Infrared](https://www.amazon.com/Char-Broil-463370719-Performance-TRU-Infrared-Stainless/dp/B07JYQBQG5?keywords=Best+portable+infrared+grill&qid=1689540514&sr=8-20&linkCode=sl1&tag=ke2024-20&linkId=01d38fa18784a135b4256d796d7c46e5&language=en_US&ref_=as_li_ss_tl)
 
 **Special features**: Durability
 

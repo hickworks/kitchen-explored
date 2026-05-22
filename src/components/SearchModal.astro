@@ -8,109 +8,111 @@
   aria-modal="true"
   aria-label="Site search"
 >
-  <!-- Backdrop -->
   <div id="search-backdrop" class="fixed inset-0 bg-black/60 backdrop-blur-sm"></div>
 
-  <!-- Panel -->
   <div class="relative flex justify-center px-4 pt-[12vh] pb-10">
     <div class="w-full max-w-2xl bg-white rounded-2xl shadow-2xl overflow-hidden">
 
-      <div class="flex items-center justify-between px-5 py-3.5 border-b border-gray-100">
-        <span class="text-xs font-semibold text-gray-400 uppercase tracking-widest">Search</span>
-        <div class="flex items-center gap-3">
-          <span class="hidden sm:flex items-center gap-1 text-xs text-gray-400">
-            <kbd class="border border-gray-200 rounded px-1.5 py-0.5">⌘K</kbd>
-            <span>to open</span>
-            <kbd class="border border-gray-200 rounded px-1.5 py-0.5 ml-1">Esc</kbd>
-            <span>to close</span>
-          </span>
-          <button id="search-close" aria-label="Close search" class="text-gray-400 hover:text-navy transition-colors">
+      <!-- Input row -->
+      <div class="flex items-center gap-3 px-4 border-b border-gray-100">
+        <svg class="shrink-0 text-gray-400" xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input
+          id="search-input"
+          type="text"
+          placeholder="Search articles…"
+          autocomplete="off"
+          spellcheck="false"
+          class="flex-1 h-14 text-base text-gray-900 placeholder:text-gray-400 outline-none bg-transparent"
+        />
+        <div class="flex items-center gap-2 shrink-0">
+          <kbd class="hidden sm:inline text-xs text-gray-400 border border-gray-200 rounded px-1.5 py-0.5">Esc</kbd>
+          <button id="search-close" aria-label="Close search" class="text-gray-400 hover:text-navy transition-colors p-1">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></svg>
           </button>
         </div>
       </div>
 
-      <div id="pagefind-search" class="p-3 min-h-[80px]"></div>
+      <!-- Results -->
+      <div id="search-results" class="max-h-[60vh] overflow-y-auto"></div>
 
     </div>
   </div>
 </div>
 
-<style is:global>
-  #pagefind-search {
-    --pagefind-ui-primary: #062451;
-    --pagefind-ui-font: 'Inter', sans-serif;
-    --pagefind-ui-border-radius: 8px;
-    --pagefind-ui-border: #e5e7eb;
-    --pagefind-ui-text: #111827;
-    --pagefind-ui-background: #ffffff;
-    --pagefind-ui-tag: #f3f4f6;
-  }
-  #pagefind-search .pagefind-ui__search-input {
-    border-radius: 8px !important;
-    font-family: 'Inter', sans-serif !important;
-  }
-  #pagefind-search .pagefind-ui__result-link {
-    color: #062451 !important;
-  }
-  #pagefind-search .pagefind-ui__button {
-    background: linear-gradient(135deg, #f78745, #f85026) !important;
-    color: #fff !important;
-    border: none !important;
-  }
-</style>
-
 <script>
-  let initialized = false;
+  let pagefind: any = null;
+  let debounce: ReturnType<typeof setTimeout>;
 
-  async function openSearch() {
-    const modal = document.getElementById('search-modal')!;
-    modal.classList.remove('hidden');
-    document.body.style.overflow = 'hidden';
+  async function initPagefind() {
+    if (pagefind) return;
+    try {
+      pagefind = await import('/pagefind/pagefind.js' as any);
+      await pagefind.init();
+    } catch {
+      pagefind = null;
+    }
+  }
 
-    if (!initialized) {
-      initialized = true;
+  async function runSearch(query: string) {
+    const el = document.getElementById('search-results')!;
+    if (!query.trim()) { el.innerHTML = ''; return; }
 
-      const link = document.createElement('link');
-      link.rel = 'stylesheet';
-      link.href = '/pagefind/pagefind-ui.css';
-      document.head.appendChild(link);
-
-      try {
-        // @ts-ignore — generated at build time, Vite must not resolve this
-        const { PagefindUI } = await import(/* @vite-ignore */ '/pagefind/pagefind-ui.js');
-        new PagefindUI({
-          element: '#pagefind-search',
-          showImages: true,
-          showEmptyFilters: false,
-          resetStyles: false,
-          excerptLength: 25,
-        });
-      } catch {
-        document.getElementById('pagefind-search')!.innerHTML =
-          '<p class="p-4 text-sm text-gray-400">Search is available after running <code class="bg-gray-100 px-1 rounded text-navy">npm run build</code>.</p>';
-      }
+    if (!pagefind) {
+      el.innerHTML = '<p class="px-5 py-4 text-sm text-gray-400">Search is temporarily unavailable.</p>';
+      return;
     }
 
-    setTimeout(() => {
-      document.querySelector<HTMLInputElement>('.pagefind-ui__search-input')?.focus();
-    }, 80);
+    const search = await pagefind.search(query);
+
+    if (search.results.length === 0) {
+      el.innerHTML = '<p class="px-5 py-4 text-sm text-gray-400">No results for <strong class="text-gray-700">' + query + '</strong>.</p>';
+      return;
+    }
+
+    const data = await Promise.all(search.results.slice(0, 8).map((r: any) => r.data()));
+
+    el.innerHTML = data.map((d: any) => `
+      <a href="${d.url}" class="flex items-start gap-4 px-5 py-4 hover:bg-gray-50 transition-colors border-b border-gray-50 last:border-0" id="search-result-link">
+        ${d.meta?.image ? `<img src="${d.meta.image}" alt="" class="w-14 h-14 rounded-lg object-cover shrink-0 bg-gray-100" loading="lazy">` : ''}
+        <div class="min-w-0 flex-1">
+          <p class="font-semibold text-navy text-sm leading-snug mb-1 line-clamp-1">${d.meta?.title ?? ''}</p>
+          <p class="text-xs text-gray-500 leading-relaxed line-clamp-2">${d.excerpt}</p>
+        </div>
+      </a>
+    `).join('');
+
+    // close modal when a result is clicked
+    el.querySelectorAll('#search-result-link').forEach(a => {
+      a.addEventListener('click', closeSearch);
+    });
+  }
+
+  function openSearch() {
+    document.getElementById('search-modal')!.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+    const input = document.getElementById('search-input') as HTMLInputElement;
+    input.focus();
+    initPagefind();
   }
 
   function closeSearch() {
     document.getElementById('search-modal')!.classList.add('hidden');
     document.body.style.overflow = '';
+    (document.getElementById('search-input') as HTMLInputElement).value = '';
+    document.getElementById('search-results')!.innerHTML = '';
   }
 
   document.getElementById('search-btn')?.addEventListener('click', openSearch);
   document.getElementById('search-close')?.addEventListener('click', closeSearch);
   document.getElementById('search-backdrop')?.addEventListener('click', closeSearch);
 
+  document.getElementById('search-input')?.addEventListener('input', (e) => {
+    clearTimeout(debounce);
+    debounce = setTimeout(() => runSearch((e.target as HTMLInputElement).value), 200);
+  });
+
   document.addEventListener('keydown', (e) => {
-    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-      e.preventDefault();
-      openSearch();
-    }
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); openSearch(); }
     if (e.key === 'Escape') closeSearch();
   });
 </script>

@@ -34,7 +34,7 @@ Other toaster appliances also come with extra features such as defrosting or reh
 
 * * *
 
-## [10\. Toaster 2 Slice](https://amzn.to/44xnAt0)
+## [10\. Toaster 2 Slice](https://www.amazon.com/Toaster-Slice-Toasters-Settings-Removable/dp/B0C9CMSCGQ?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-6&linkCode=sl1&tag=ke2024-20&linkId=95f5ee26cd3c560276625134ba19d0c1&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** 7 customized settings, 3 functions
 
@@ -60,7 +60,7 @@ The toaster 2 slice anti-scalded design and fire-retardant material enhance the 
 
 * * *
 
-## **[9\. Elite Gourmet ECT](https://amzn.to/3O5NPzL)**
+## **[9\. Elite Gourmet ECT](https://www.amazon.com/Elite-Cuisine-ECT-1027-Toaster-Specialty/dp/B07D7R61JH?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-10&linkCode=sl1&tag=ke2024-20&linkId=1e1ef502abadf0c3e6c0de5e2a10d25a&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Automatic Centering
 
@@ -86,7 +86,7 @@ The cancel feature on the other hand allows you to stop operations easily using 
 
 * * *
 
-## **[8\. Toaster 2 Slice Wide Slot Toaster](https://amzn.to/3KbEyVB)**
+## **[8\. Toaster 2 Slice Wide Slot Toaster](https://www.amazon.com/Toaster-Countdown-Toasters-Function-Settings/dp/B0B71HVGLF?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-5&linkCode=sl1&tag=ke2024-20&linkId=ff08641b6be0c99932df6e41ecee179e&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:**4 basic functions, Digital count-down timer.
 
@@ -110,7 +110,7 @@ The other notable feature is the 9 adjustable browning controls that ensure fast
 
 * * *
 
-## **[7\. BELLA Stainless Steel 2 Slice Toaster](https://amzn.to/44VOpXB)**
+## **[7\. BELLA Stainless Steel 2 Slice Toaster](https://www.amazon.com/BELLA-Toaster-Results-Drop-Down-Stainless/dp/B08NHTDSKJ?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-16&linkCode=sl1&tag=ke2024-20&linkId=0abc7b7c24aa906e9bc869804523e2f2&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** auto jam detection and auto shut-off
 
@@ -134,7 +134,7 @@ The toaster also comes with a self-centering guide and also a high lift lever th
 
 * * *
 
-## **[6\. Elite Gourmet ECT4829B](https://amzn.to/3K8dIO4)**
+## **[6\. Elite Gourmet ECT4829B](https://www.amazon.com/Elite-Gourmet-ECT4829B-Settings-Functions/dp/B08FVDX8N8?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-18&linkCode=sl1&tag=ke2024-20&linkId=5c897e19b7b89caad71ec518ea9a7238&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Spacious
 
@@ -160,7 +160,7 @@ Slide out crumb tray makes cleaning simple and effective while self-centering gu
 
 * * *
 
-## **[5\. Mueller Retro Toaster](https://amzn.to/3Q9npzL)**
+## **[5\. Mueller Retro Toaster](https://www.amazon.com/Mueller-Toaster-Browning-Levels-Functions/dp/B0BFG4L2T7?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-4&linkCode=sl1&tag=ke2024-20&linkId=f6a780b53caa3e7efe7226bb10d6cd81&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Vintage Design
 
@@ -184,7 +184,7 @@ Just like some of the toasters in our list, it is a 2-slice toaster that is equi
 
 * * *
 
-## **[4\. Hamilton Beach 2 Slice Extra Wide Slot Toaster](https://amzn.to/3O6y3o7)**
+## **[4\. Hamilton Beach 2 Slice Extra Wide Slot Toaster](https://www.amazon.com/Hamilton-Beach-Extra-Wide-Toaster-22633/dp/B01KZ729F6?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-20&linkCode=sl1&tag=ke2024-20&linkId=571a8424b2dad5a63b550650cf94b661&language=en_US&ref_=as_li_ss_tl)**
 
 **Special feature:** High lift toast boost
 
@@ -208,7 +208,7 @@ The toaster also features a high lift boost that helps you remove smaller bread 
 
 * * *
 
-## **[3.Cuisinart CPT-122BK](https://amzn.to/44U2HrR)**
+## **[3.Cuisinart CPT-122BK](https://www.amazon.com/Cuisinart-Compact-2-Slice-Toaster-CPT-122/dp/B00K0ZT1BO?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-3&linkCode=sl1&tag=ke2024-20&linkId=67fcc6f0982283a6fdc83a60849df3b9&language=en_US&ref_=as_li_ss_tl)**
 
 **Special feature:** 7 shade dial settings
 
@@ -234,7 +234,7 @@ The other notable feature is that it has 7 shade dial settings allowing you to c
 
 * * *
 
-## **[2\. Amazon Basics 2 Slice, Extra-Wide Slot Toaster](https://amzn.to/3K9qMD0)**
+## **[2\. Amazon Basics 2 Slice, Extra-Wide Slot Toaster](https://www.amazon.com/Amazon-Basics-Extra-Wide-Toaster-Settings/dp/B072P11H8L?keywords=Best+toaster+under+%2430&qid=1689825595&sr=8-8&linkCode=sl1&tag=ke2024-20&linkId=341c47aa4b6f221e17a4c30dc92f135b&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Illuminated buttons
 

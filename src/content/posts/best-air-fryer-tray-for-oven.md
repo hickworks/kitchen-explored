@@ -48,7 +48,7 @@ Through professional consultation, trusted sources, experimentation and even cus
 
 * * *
 
-## [11\. Air Fryer Basket and Tray for Oven](https://amzn.to/3pV9pif)
+## [11\. Air Fryer Basket and Tray for Oven](https://www.amazon.com/Basket-Stainless-Non-stick-Roasting-Chicken/dp/B0BYX6LQJV?keywords=air+fryer+tray&qid=1688873192&sr=8-43&linkCode=sl1&tag=ke2024-20&linkId=edb4ba9120770f21dea739a05deab0c1&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** 360 degrees
 
@@ -74,7 +74,7 @@ The tray has the ability to last a long time because it is rust-resistant and do
 
 * * *
 
-## [10\. Air Fryer Basket for Oven](https://amzn.to/3K0AYOh)
+## [10\. Air Fryer Basket for Oven](https://www.amazon.com/Basket-Stainless-Crisper-2-Piece-Perfect/dp/B0B3S8Y8SM?keywords=air+fryer+tray&qid=1688873192&sr=8-9&linkCode=sl1&tag=ke2024-20&linkId=9f3006a74adb63908e742b9dbb56c86e&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Number of settings -3
 
@@ -102,7 +102,7 @@ Cleaning this tray is also an easy task because it collects crumbs and splatters
 
 * * *
 
-## **[9\. Air Fryer Basket for Oven](https://amzn.to/44x3Buv)**
+## **[9\. Air Fryer Basket for Oven](https://www.amazon.com/Fryer-Basket-Stainless-Non-stick-Roasting/dp/B09XCJ8141?keywords=air+fryer+tray&qid=1688872972&sr=8-68-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=sl1&tag=ke2024-20&linkId=5b8aff8c24346abd1e0a1707917334e8&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Fixed base design. 2-piece set
 
@@ -128,7 +128,7 @@ This air fryer tray also comes with an assist grip handle so that you are able t
 
 * * *
 
-## **[8\. Nordic Ware Extra Large Oven Crisping Baking Tray](https://amzn.to/3OdRBbE)**
+## **[8\. Nordic Ware Extra Large Oven Crisping Baking Tray](https://www.amazon.com/Nordic-Ware-Crisping-Baking-inches/dp/B085283N2G?keywords=air+fryer+tray&qid=1688872337&sr=8-35&linkCode=sl1&tag=ke2024-20&linkId=59aad6fe22ee07e1be2679bdc27ae4f4&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** carbon steel rack, heat safe up to 400 degrees
 
@@ -152,7 +152,7 @@ This air fryer can be handwashed which is highly recommended. Dishwashing can al
 
 * * *
 
-## [7.EaZy MealZ Crisping Basket & Tray Set](https://amzn.to/44IHD7y)
+## [7.EaZy MealZ Crisping Basket & Tray Set](https://www.amazon.com/EaZy-MealZ-Crisping-Crisper-Non-Stick/dp/B08XYCGQ3N?keywords=air+fryer+tray&qid=1688872337&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=sl1&tag=ke2024-20&linkId=748fe295ab826852d31e5fe46f8cfa49&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Tray & Grease Catcher
 
@@ -178,7 +178,7 @@ Additionally, the non-stick coating the clean-up process easy. To add on top of 
 
 * * *
 
-## [6.Chef Pomodoro Copper Crisper Tray](https://amzn.to/3NUyGBp)
+## [6.Chef Pomodoro Copper Crisper Tray](https://www.amazon.com/Chef-Pomodoro-Crisper-2-Piece-Rectangle/dp/B089YSGMMG?keywords=air+fryer+tray&qid=1688872972&sr=8-83&linkCode=sl1&tag=ke2024-20&linkId=6bdc910a1c96be5f44102dc98663dd79&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Guilt-Free Frying
 
@@ -204,7 +204,7 @@ In addition, the crisper basket has small slots which also makes it suitable to 
 
 * * *
 
-## **[5\. Gotham Steel Air Fryer Tray](https://amzn.to/44tg7eq)**
+## **[5\. Gotham Steel Air Fryer Tray](https://www.amazon.com/Basket-Nonstick-Crisper-Convection-Dishwasher/dp/B0844JWL6Z?keywords=air+fryer+tray&qid=1688872337&sr=8-24&linkCode=sl1&tag=ke2024-20&linkId=c55887e1ddfbfa35be5cabf0248e384b&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Ceramic
 
@@ -232,7 +232,7 @@ The Ti-Cerama coating does not contain harmful substances such as PFOA, PFOS, le
 
 * * *
 
-## **[4\. Copper Crisper Tray Non-Stick Oven Baking Tray](https://amzn.to/46SBYxG)**
+## **[4\. Copper Crisper Tray Non-Stick Oven Baking Tray](https://www.amazon.com/5Pcs-Magnets-Copper-Crisper-Non-Stick/dp/B077XFYDGB?keywords=air+fryer+tray&qid=1688872337&sr=8-19-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=sl1&tag=ke2024-20&linkId=9f7730dee6e84d72dc0bdc59428c8e95&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** air copper crisper tray
 
@@ -256,7 +256,7 @@ It is also constructed with a non-stick ceramic coating which minimizes the use 
 
 * * *
 
-## **[3.EaZy MealZ Crisping Basket & Tray Set](https://amzn.to/3PXrMOc)**
+## **[3.EaZy MealZ Crisping Basket & Tray Set](https://www.amazon.com/EaZy-MealZ-EZA-100C2-Perfectly-Nonstick/dp/B07VMHLTHC?keywords=air+fryer+tray&qid=1688872337&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=sl1&tag=ke2024-20&linkId=94bd709463aa95e2b18a022d651b5b67&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Ceramic
 
@@ -282,7 +282,7 @@ The 2-piece versatile set has the ability to carry out other tasks such as cooki
 
 * * *
 
-## **[2\. Gotham Steel Crisper Tray for Oven](https://amzn.to/3ruyoJT)**
+## **[2\. Gotham Steel Crisper Tray for Oven](https://www.amazon.com/Gotham-1463-Elevated-Nonstick-Crisper/dp/B06W55WL7Q?keywords=air+fryer+tray&qid=1688872337&sr=8-6&linkCode=sl1&tag=ke2024-20&linkId=387bd1dd71106d29d0f0d4516845c052&language=en_US&ref_=as_li_ss_tl)**
 
 **Special features:** Dishwasher Safe
 
@@ -310,7 +310,7 @@ Finally, this tray comes with a 10-year warranty which creates confidence when i
 
 * * *
 
-## [1\. Frigidaire AIRFRYTRAY Ready Cook Oven](https://amzn.to/3NSptJS)
+## [1\. Frigidaire AIRFRYTRAY Ready Cook Oven](https://www.amazon.com/Frigidaire-AIRFRYTRAY-ReadyCook-Insert-Silver/dp/B07T8Z5G2S?keywords=air+fryer+tray&qid=1688873192&sr=8-15&linkCode=sl1&tag=ke2024-20&linkId=0310dce4e73242d064cf9bef9cf29307&language=en_US&ref_=as_li_ss_tl)
 
 **Special features:** Stainless Steel material, Unique design
 
