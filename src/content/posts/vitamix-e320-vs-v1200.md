@@ -13,7 +13,7 @@ What is the difference between Vitamix E320 vs V1200? Vitamix blenders are a pop
 
 **The difference between the Vitamix E320 vs v1200 is the wireless connectivity feature. The Vitamix V1200 is equipped with a wireless connection while the Vitamix E320 does not have a wireless connection.**
 
-**[Related Article: Ninja BL910 vs BL770](http://kitchenexplored.com/ninja-bl910-vs-bl770/)**
+**[Related Article: Ninja BL910 vs BL770](/posts/ninja-bl910-vs-bl770/)**
 
 * * *
 
@@ -43,7 +43,7 @@ The Vitamix E320 is also easy to clean because it is equipped with a self-cleani
 
 The Vitamix E320 is a great blender that is powerful and durable at the same time. It is suitable for both home and office use. The noise level produced by the blender cannot disrupt activities in an office or at home.
 
-**[Related Article: Vitamix 750 vs A3500](http://kitchenexplored.com/vitamix-750-vs-a3500/)**
+**[Related Article: Vitamix 750 vs A3500](/posts/vitamix-750-vs-a3500/)**
 
 * * *
 
@@ -105,7 +105,7 @@ The Vitamix v1200 is a powerful and versatile blender that is perfect for both o
 
 **Frequency**: Both blenders have a frequency of 50 - 60 Hz.
 
-**[Related Article: Venturist vs ascent](http://kitchenexplored.com/vitamix-ascent-vs-venturist/)**
+**[Related Article: Venturist vs ascent](/posts/vitamix-ascent-vs-venturist/)**
 
 ## Differences between the Vitamix E320 vs V1200
 

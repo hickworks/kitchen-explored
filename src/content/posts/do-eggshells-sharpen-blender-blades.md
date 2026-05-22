@@ -15,7 +15,7 @@ Did you know that eggshells sharpen blender blades? This article explores the id
 
 If you've ever sharpened your knives with a honing steel, you know that the process can be messy and time-consuming. Eggshells, on the other hand, are a much simpler way to sharpen your blades. All you need to do is add a handful of eggshells to your blender and blend on high for 30 seconds. The eggshells will grind away any dullness on your blades, leaving them sharp and ready to use.
 
-**[Related Article: Can you shred chicken with a food processor?](http://kitchenexplored.com/can-you-shred-chicken-with-a-food-processor/)**
+**[Related Article: Can you shred chicken with a food processor?](/posts/can-you-shred-chicken-with-a-food-processor/)**
 
 ## What are Egg Shells?
 
@@ -41,7 +41,7 @@ Pour out the contents of the blender and rinse off any remaining eggshell bits. 
 
 If your blender blades are extremely dull, you may need to repeat this process a few times before they're sharpened to your desired level. However, using eggshells is a safe and effective way to sharpen your blades without damaging them.
 
-**[Related Article: Can a ninja blender be used as a food processor?](http://kitchenexplored.com/can-i-use-a-ninja-blender-as-a-food-processor/)**
+**[Related Article: Can a ninja blender be used as a food processor?](/posts/can-i-use-a-ninja-blender-as-a-food-processor/)**
 
 ## Pros of using eggshells to sharpen blender blades.
 
@@ -61,7 +61,7 @@ However, there are a few downsides to using eggshells.
 
 It takes about five minute or less to sharpen a blade with an eggshell.
 
-**[Related Article: What are the different types of juicers?](http://kitchenexplored.com/different-types-of-juicers/)**
+**[Related Article: What are the different types of juicers?](/posts/different-types-of-juicers/)**
 
 ## Conclusion
 

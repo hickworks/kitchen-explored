@@ -17,7 +17,7 @@ Corelle dinnerware is highly loved because of its design, reliability as well as
 
 Corelle also comes in a variety of patterns and designs. Thereby allowing you to match your choice of style as well as personality. Corelle can be purchased easily and it is perfect for a family or young couple who want dinnerware that can last for a long time before facing wear and tear.  The cost of purchasing the dinnerware is also affordable, hence making anyone easily purchase their sets.
 
-**[Related Article:Is the green pan oven safe?](http://kitchenexplored.com/are-green-pans-oven-safe/)**
+**[Related Article:Is the green pan oven safe?](/posts/are-green-pans-oven-safe/)**
 
 ### Pros
 
@@ -45,7 +45,7 @@ Corelle also comes in a variety of patterns and designs. Thereby allowing you to
 -   **Avoid hitting or dropping the sets:**  Corelle is known to be durable, though it's important to know it can also be vulnerable to breakage when dropped or hit by a hard object.
 -   **Avoid sudden temperature changes**: Sudden temperature changes can cause the dinnerware to crack or break.
 
-**[Related Article: Are Gotham steel pans oven safe?](http://kitchenexplored.com/are-gotham-steel-pans-oven-safe/)**
+**[Related Article: Are Gotham steel pans oven safe?](/posts/are-gotham-steel-pans-oven-safe/)**
 
 ### Warranty and replacement information
 
@@ -69,7 +69,7 @@ You can use baking soda and water, white vinegar, lemon juice and salt, and a co
 
 Corelle dinnerware is manufactured in the United States, Mexico and also Asia. Some of the countries in Asia include China and Thailand.
 
-**[Related Article: All Clad 4112 Vs 41126 Fry Pan](http://kitchenexplored.com/all-clad-4112-vs-41126-fry-pan/)**
+**[Related Article: All Clad 4112 Vs 41126 Fry Pan](/posts/all-clad-4112-vs-41126-fry-pan/)**
 
 ## Conclusion
 

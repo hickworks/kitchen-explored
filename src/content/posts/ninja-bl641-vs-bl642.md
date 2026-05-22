@@ -15,7 +15,7 @@ Ninja bl641 vs bl642 comparison
 
 **The difference between the Ninja BL641 and the BL642 is the power of the motor. The Ninja BL642 has a 1500-watt motor while the Ninja BL641 has 1300 watts motor. This means the Ninja BL642 has more power to carry tougher blending tasks than the Ninja B641.**
 
-**[Related Article: Ninja BN701 vs BL610](http://kitchenexplored.com/ninja-bn701-vs-bl610/)**
+**[Related Article: Ninja BN701 vs BL610](/posts/ninja-bn701-vs-bl610/)**
 
 ## **Ninja BL641**
 
@@ -37,7 +37,7 @@ The blender following are the advantages of using the Ninja BL641:
 -   The pulse function allows you to customize your drinks.
 -   It is also easy to clean the blender because of its dishwasher-safe parts.
 
-[**Related Article: Ninja CE201 vs CE251**](http://kitchenexplored.com/ninja-ce201-vs-ce251/)
+[**Related Article: Ninja CE201 vs CE251**](/posts/ninja-ce201-vs-ce251/)
 
 ### Cons of Ninja BL641
 
@@ -85,7 +85,7 @@ While the Ninja BL642 is a high-performance blender that has many advantages, th
 
 Acquiring this blender will enable you to achieve consistent blend results. It is also very easy to use and maintain this blender.
 
-**[Related Article: Venturist vs ascent](http://kitchenexplored.com/vitamix-ascent-vs-venturist/)**
+**[Related Article: Venturist vs ascent](/posts/vitamix-ascent-vs-venturist/)**
 
 * * *
 

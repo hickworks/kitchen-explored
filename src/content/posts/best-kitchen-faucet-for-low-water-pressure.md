@@ -150,7 +150,7 @@ The process of installation is very easy and can only take you around 15 minutes
 
 Some people that the sprayer hose.
 
-[**Related Article:Best Immersion Blender For Soap Making**](http://kitchenexplored.com/best-immersion-blender-for-soap-making/)
+[**Related Article:Best Immersion Blender For Soap Making**](/posts/best-immersion-blender-for-soap-making/)
 
 * * *
 

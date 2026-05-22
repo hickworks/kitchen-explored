@@ -29,7 +29,7 @@ The cookware also has a multi-ply layer of 2 stainless steel that offers a prote
 
 Demeyere cookware sets are also versatile because they can be used both on cooktops and also in ovens. You can use them for baking sauteing and more. This cookware has combined quality materials, integrated with innovative designs. Finally, they have an excellent customer service team that is always ready to serve you when you have inquiries or a problem.
 
-[**Related Article: Best Ceramic Cookware Made In USA**](http://kitchenexplored.com/best-ceramic-cookware-made-in-usa/)
+[**Related Article: Best Ceramic Cookware Made In USA**](/posts/best-ceramic-cookware-made-in-usa/)
 
 ## **Pros of the Demeyere Cookware**
 
@@ -68,7 +68,7 @@ They offer a wide variety of collections from which you can choose. This include
 -   To last for a long time they require proper care.
 -   They cannot be used over 600 degrees since they can damage.
 
-[**Related Article: BEST NON TOXIC FLATWARE**](http://kitchenexplored.com/best-non-toxic-flatware/)
+[**Related Article: BEST NON TOXIC FLATWARE**](/posts/best-non-toxic-flatware/)
 
 * * *
 
@@ -90,7 +90,7 @@ They offer a wide variety of collections from which you can choose. This include
 -   **Weight** – The weight of Demeyere cookware is heavier than all clad. This makes all clad easier to handle than demeyere.
 -   **Cost** - The cost of purchasing the demyere is higher than all clad. This is because of their high-quality construction.
 
-**[Related Artcile: Fable Dinnerware Review](http://kitchenexplored.com/fable-dinnerware-review/)**
+**[Related Artcile: Fable Dinnerware Review](/posts/fable-dinnerware-review/)**
 
 * * *
 

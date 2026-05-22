@@ -13,7 +13,7 @@ Would you like to know the difference between the All Clad Ns1 and B1? If yes, y
 
 **The difference between the All Clad Ns1 and B1 is the Non-stick coating construction. The All Clad Ns1 is equipped with a 3-layers of non stick coating while the All Clad B1 has 2 layers. This means that the Ns1 is more durable and also scratch resistant compared to the B1.**
 
-**[Related Article: Corelle vs Mikasa Dinnerware](http://kitchenexplored.com/corelle-vs-mikasa/)**
+**[Related Article: Corelle vs Mikasa Dinnerware](/posts/corelle-vs-mikasa/)**
 
 * * *
 
@@ -59,7 +59,7 @@ The All Clad B1 is also built with bonded stainless-steel base which ensures eve
 
 The cookware is also oven safe and can be used up to temperatures of 500 degrees Fahrenheit. This means that you will be able to carry out your baking operations easily. They are also dishwasher safe which makes it easy for you to clean them with minimal effort. Finally, All Clad B1 comes with a 2 years warranty, which builds confidence that the product you are purchasing is of high quality.
 
-**[Related Article: All Clad Ns1 vs Ha1](http://kitchenexplored.com/all-clad-ns1-vs-ha1/)**
+**[Related Article: All Clad Ns1 vs Ha1](/posts/all-clad-ns1-vs-ha1/)**
 
 ### **Pros of the All Clad B1**
 
@@ -94,7 +94,7 @@ The cookware is also oven safe and can be used up to temperatures of 500 degrees
 2.  **Handle design** – The All Clad Ns1 is constructed with the traditional narrow stick handle that slightly faces up while the All Clad B1 handles are more curved.
 3.  **Heat distribution –** The Ns1 heats up slower and evenly, it also has the ability to retain heat longer while the B1 heats up faster and also loses retain heat fast due to its construction.
 
-**[Related Article: All Clad 4112 Vs 41126 Fry Pan](http://kitchenexplored.com/all-clad-4112-vs-41126-fry-pan/)**
+**[Related Article: All Clad 4112 Vs 41126 Fry Pan](/posts/all-clad-4112-vs-41126-fry-pan/)**
 
 * * *
 

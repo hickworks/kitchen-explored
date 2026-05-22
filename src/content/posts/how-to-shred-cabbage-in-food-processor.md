@@ -13,7 +13,7 @@ Would you like to know how to shred cabbage in a food processor? If yes, then yo
 
 Let’s get started.
 
-**[Related Article: Can You Use a Blender as A Food Processor?](http://kitchenexplored.com/can-you-use-a-blender-as-a-food-processor/)**
+**[Related Article: Can You Use a Blender as A Food Processor?](/posts/can-you-use-a-blender-as-a-food-processor/)**
 
 ## How to shred cabbage in food processor?
 
@@ -53,7 +53,7 @@ Here are the reasons why cabbage is beneficial:
 -   **Digestive health** – A cabbage contains fiber which plays a huge role in the aid of digestion as well as regular bowel movements. Fiber enhances the health of the microbiome and the whole digestive system.
 -   **Weight management** - Since cabbage contains low fiber and high fiber content, it plays a crucial role when it comes to weight management.
 
-[**Related Article: Can you shred chicken with a food processor?**](http://kitchenexplored.com/can-you-shred-chicken-with-a-food-processor/)
+[**Related Article: Can you shred chicken with a food processor?**](/posts/can-you-shred-chicken-with-a-food-processor/)
 
 * * *
 
@@ -83,7 +83,7 @@ A food processor blade to be used highly depends on the task you want to carry o
 
 You can shred cabbage easily by removing the outer leaves which are usually damaged or wilted. Cut the cabbage into half or quarters according to your preference. After you are done you can place it on a board and cut it into smaller pieces before placing it into a food processor.
 
-**[Related Article: Can I use a ninja blender as a food processor?](http://kitchenexplored.com/can-i-use-a-ninja-blender-as-a-food-processor/)**
+**[Related Article: Can I use a ninja blender as a food processor?](/posts/can-i-use-a-ninja-blender-as-a-food-processor/)**
 
 * * *
 

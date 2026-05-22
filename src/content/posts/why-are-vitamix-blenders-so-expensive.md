@@ -15,7 +15,7 @@ Why are Vitamix blenders so expensive?
 
 **Vitamix blenders are so expensive because they are well built with quality material making them durable and also versatile since they can blend anything from smoothies, soup to grinding coffee and more. To add on top of this it’s also packed with amazing features that make it so expensive.**
 
-**[Related Article: Are vacuum blenders worth it?](http://kitchenexplored.com/are-vacuum-blenders-worth-it/)**
+**[Related Article: Are vacuum blenders worth it?](/posts/are-vacuum-blenders-worth-it/)**
 
 ## What is a Vitamix Blender?
 
@@ -82,7 +82,7 @@ Vitamix blenders are often lauded as the best of the best when it comes to at-ho
 
 Related Article:
 
-**[Related Article: Are glass blenders better than plastic](http://kitchenexplored.com/are-glass-blenders-better-than-plastic/)**
+**[Related Article: Are glass blenders better than plastic](/posts/are-glass-blenders-better-than-plastic/)**
 
 ## Buying a New or Used Vitamix Blender
 
@@ -162,7 +162,7 @@ Finally, think about what kind of budget you have for this purchase. Vitamix ble
 
 If your blender doesn't start, the first thing you should check is that it's plugged in. If it is, then you should check to see if the power switch is turned on. If the power switch is on and the blender still doesn't start, then you should check the fuse box to see if a fuse has blown. If a fuse has blown, then you'll need to replace it before your blender will work again.
 
-**[Related Article: Are glass blenders better than plastic](http://kitchenexplored.com/are-glass-blenders-better-than-plastic/)**
+**[Related Article: Are glass blenders better than plastic](/posts/are-glass-blenders-better-than-plastic/)**
 
 ## **Conclusion to why Vitamix blenders are so expensive.**
 

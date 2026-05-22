@@ -15,7 +15,7 @@ Can you put hot liquid in a Ninja blender?
 
 **Yes, you can put hot liquid in a Ninja blender. However, you need to consider some precautions and guidelines that will allow a safe operation that won't damage your blender. The first thing to consider is that the ninja blenders can't handle temperatures for liquids beyond 180 degrees Fahrenheit. Temperatures within this range allow safe usage. The other thing is to let the liquid cool first before blending and also ensure the jar is half full to allow room for expansion during operation. Starting with low speeds is highly recommended as you gradually increase the blending speed, this prevents pressure build-up. You can open the lid when blending to reduce pressure build-up.**
 
-**[Related Article: Can you make hummus in a ninja blender?](http://kitchenexplored.com/can-you-make-hummus-in-a-ninja-blender/)**
+**[Related Article: Can you make hummus in a ninja blender?](/posts/can-you-make-hummus-in-a-ninja-blender/)**
 
 ## Uses blending hot liquids
 
@@ -61,7 +61,7 @@ To have a secure operation that cant damage your Ninja blender, it is important 
 -   **Food processor**: A food processor is also another great option. The blender can blend large capacities than immersion blenders. They are great for creating sauces and purees.
 -   **Manual Whisk**: A manual whisk can also be used in blending hot liquids, they are great for whipping cream or mixing gravy. The only downside is that requires more effort and time.
 
-**[Related Article: How to blend without a blender?](http://kitchenexplored.com/how-to-blend-without-a-blender/)**
+**[Related Article: How to blend without a blender?](/posts/how-to-blend-without-a-blender/)**
 
 ## Frequently Asked Question
 

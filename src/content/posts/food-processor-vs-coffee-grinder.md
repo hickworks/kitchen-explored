@@ -15,7 +15,7 @@ This question has caused a lot of debate for a long time. Some people say that a
 
 Let's get started,
 
-**[Related Article: How to Make a DIY Blender Sound Enclosure?](http://kitchenexplored.com/diy-blender-sound-enclosure/)**
+**[Related Article: How to Make a DIY Blender Sound Enclosure?](/posts/diy-blender-sound-enclosure/)**
 
 ## Differences Between a Food Processor vs Coffee Grinder
 
@@ -68,7 +68,7 @@ The following are the differences between a food processor and a coffee grinder.
 -   They are quite loud when carrying out some operations.
 -   The cost of purchasing is higher than a food processor.
 
-**[Related Article: Ninja nj600 review](http://kitchenexplored.com/ninja-nj600-review/)**
+**[Related Article: Ninja nj600 review](/posts/ninja-nj600-review/)**
 
 ## What is The Difference Between a Burr and Blade Grinder?
 
@@ -95,7 +95,7 @@ When it comes to purchasing a food processor or grinder. Both fit well. The type
 -   **Budget** - Both appliances come with different price tags. They range from cheap ones to expensive high-end ones. High-end ones are more powerful and also equipped with extra features that enable your grinding operations to be more convenient than cheaper ones.
 -   **Level of Expertise** - If you are a beginner, then a coffee grinder will be perfect for you because it has fewer settings than a food processor.
 
-**[Related Article: The Ninja QB1004 Review](http://kitchenexplored.com/ninja-qb1004-blender-food-processor/)**
+**[Related Article: The Ninja QB1004 Review](/posts/ninja-qb1004/)**
 
 ## Conclusion
 

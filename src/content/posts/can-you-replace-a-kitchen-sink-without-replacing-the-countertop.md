@@ -13,7 +13,7 @@ If you are a homeowner and would like to renovate your kitchen, then you might a
 
 **Yes, you can replace a kitchen sink without replacing the countertop. The replacement however highly depends on the type of kitchen sink and also the installation process. For instance, a top mount or a drop-in sink is very easy to replace without replacing the countertop. On the other hand, an under-mount sink is a bit complicated. For this one, you will have to remove all the clippings and even the adhesive from the countertop which can easily damage the countertop.**
 
-[**Related Article: Why is my kitchen sink backing up?**](http://kitchenexplored.com/why-is-my-kitchen-sink-backing-up/)
+[**Related Article: Why is my kitchen sink backing up?**](/posts/why-is-my-kitchen-sink-backing-up/)
 
 ## **Reasons for wanting to replace a kitchen sink**
 
@@ -45,7 +45,7 @@ Here are some of the factors you should consider before replacing a kitchen sink
 -   **Configuration** – Choosing a sink that comes with a variety of configurations such as cutting boards, drainboards and more can be an added advantage. You can either choose a single, double or even triple sink depending on your preferences.
 -   **Plumbing consideration** – The other thing you should consider s the location of pipes as well as a drainage system. This will determine how you will install your new kitchen sink.
 
-[**Related Article: How to tighten kitchen faucet nut under sink?**](http://kitchenexplored.com/how-to-tighten-kitchen-faucet-nut-under-sink/)
+[**Related Article: How to tighten kitchen faucet nut under sink?**](/posts/how-to-tighten-kitchen-faucet-nut-under-sink/)
 
 ## Removing an Old Sink
 
@@ -66,7 +66,7 @@ Here are some of the steps you should follow when removing an old sink:
 -   After you have confirmed everything is in position, you can apply adhesive so that the sink has a water-tight seal that won’t allow any water leakages.
 -   After you are done with the process, you can clean all debris and also tidy the place.
 
-[**Related Article: How to vent a kitchen sink under a window?**](http://kitchenexplored.com/how-to-vent-a-kitchen-sink-under-a-window/)
+[**Related Article: How to vent a kitchen sink under a window?**](/posts/how-to-vent-a-kitchen-sink-under-a-window/)
 
 ## Conclusion
 

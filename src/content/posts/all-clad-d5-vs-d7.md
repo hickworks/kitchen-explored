@@ -15,7 +15,7 @@ Let’s get started,
 
 **The difference between the All Clad D5 and the All Clad D7 is there construction design. The All Clad D5 has 5 alternating layers of aluminum and steel. The All-Clad D7 on the other hand has 7 alternating layers of an aluminum core and stainless steel exterior. The alternating layers offer a more efficient distribution of heat.**
 
-**[Related Article: Corelle vs Porcelain](http://kitchenexplored.com/corelle-vs-porcelain/)**
+**[Related Article: Corelle vs Porcelain](/posts/corelle-vs-porcelain/)**
 
 * * *
 
@@ -64,7 +64,7 @@ To add on top, the cookware also features stainless steel handles that are equip
 
 Finally, the cookware sets are equipped with flared edges for easy drip-free pouring. Furthermore, they are compatible with all cooktops and are also oven safe. You can use the in an oven up to temperatures of 600 °F or 315 °C. They are very durable and can be used for a long time before wear and tear.
 
-**[Related Article: IS PYROCERAM TOXIC](http://kitchenexplored.com/is-pyroceram-toxic/)**?
+**[Related Article: IS PYROCERAM TOXIC](/posts/is-pyroceram-toxic/)**?
 
 ## **Pros and Cons**
 
@@ -106,7 +106,7 @@ The following are key differences between the all clad D5 and D7:
 -   **Edges** \- The edges of the D5 are wide to enable drip-free pouring while the D7 has wider edges that prevent drip-pouring.
 -   **Handles** – Both have a large, comfortable stainless-steel handle. Though the all-clad D5 has well-secured rivets while the D7 has flat steel rivets. This means the All-Clad D5 handles can last longer.
 
-**[Related Article: IS CORELLE AIR FRYER SAFE?](http://kitchenexplored.com/is-corelle-air-fryer-safe/)**
+**[Related Article: IS CORELLE AIR FRYER SAFE?](/posts/is-corelle-air-fryer-safe/)**
 
 * * *
 

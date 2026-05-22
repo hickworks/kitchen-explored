@@ -21,7 +21,7 @@ Let’s get started,
 -   **Water pressure issues**
 -   **Vent stack obstruction**
 
-**[Related Article: How to keep brushed nickel faucets from spotting?](http://kitchenexplored.com/how-to-keep-brushed-nickel-faucets-from-spotting/)**
+**[Related Article: How to keep brushed nickel faucets from spotting?](/posts/how-to-keep-brushed-nickel-faucets-from-spotting/)**
 
 * * *
 
@@ -72,7 +72,7 @@ A vent is a vertical pipe that has a function to allow free flow of air from the
 -   **Adjust water pressure –** Adjusting water pressure can help solve the water gurgling issue. High pressure flows with high turbulence which may end up causing gurgling and reducing the pressure will solve the problem. Low pressure on the other hand lead to air drawn into the system, so increasing the pressure a bit can help solve the issue.
 -   **Professional Assistance –** If you are unable to solve the gurgling issue, then consulting a professional is the best option. They are qualified and experts when it comes to dragonizing and solving complex plumbing issues.
 
-[**Related Article: How to tighten kitchen faucet nut under sink?**](http://kitchenexplored.com/how-to-tighten-kitchen-faucet-nut-under-sink/)
+[**Related Article: How to tighten kitchen faucet nut under sink?**](/posts/how-to-tighten-kitchen-faucet-nut-under-sink/)
 
 * * *
 
@@ -106,7 +106,7 @@ When you don’t fix a gurgling sink, you may end up facing the following proble
 
 Gurgling drains are bad because they indicate that there is a problem with your plumbing system. A gurgling drainage may be due to partial blockages, venting problems and an improperly installed drainage system.
 
-**[Related Article: Best kitchen faucet for low water pressure](http://kitchenexplored.com/best-kitchen-faucet-for-low-water-pressure/)**
+**[Related Article: Best kitchen faucet for low water pressure](/posts/best-kitchen-faucet-for-low-water-pressure/)**
 
 * * *
 

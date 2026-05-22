@@ -15,7 +15,7 @@ Can Gotham steel pans go in the oven?
 
 **Yes, Gotham steel pans are oven safe. The pans can be used in an oven up to temperatures of 500 degrees Fahrenheit. Temperatures beyond 500-degree Fahrenheit will damage the pan.**
 
-**[Related Article: All Clad 4112 Vs 41126 Fry Pan](http://kitchenexplored.com/all-clad-4112-vs-41126-fry-pan/)**
+**[Related Article: All Clad 4112 Vs 41126 Fry Pan](/posts/all-clad-4112-vs-41126-fry-pan/)**
 
 * * *
 
@@ -65,7 +65,7 @@ The following are safety tips for using the Gotham steel pan in an oven:
 -   Avoid sudden temperature changes since they can damage the pan.
 -   Do not use abrasive materials to clean the pans, they can damage the surface of the pan.
 
-**[Related Article: all clad d5 vs d7](http://kitchenexplored.com/all-clad-d5-vs-d7/)**
+**[Related Article: all clad d5 vs d7](/posts/all-clad-d5-vs-d7/)**
 
 ## **Alternatives to Using a Gotham Steel Pan in the Oven**
 
@@ -91,7 +91,7 @@ Gotham steel can also be used to carry out the following tasks:
 
 From the article, we can conclude by saying Gotham steel pan can be used as an oven since it can withstand temperatures of 500 degrees Fahrenheit. Apart from being used in the oven, they can carry out other tasks such as steaming, roasting, frying and more.
 
-**[Related Article: Corelle vs Porcelain](http://kitchenexplored.com/corelle-vs-porcelain/)**
+**[Related Article: Corelle vs Porcelain](/posts/corelle-vs-porcelain/)**
 
 * * *
 

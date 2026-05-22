@@ -15,7 +15,7 @@ Let’s get started.
 
 **Yes, you can puree without a blender. The following methods can be used as alternatives to a blender: Food processor, Potato masher or fork, Mortar and Pestle, Sieve or strainer, Grater and Immersion Blender.**
 
-[**Related Article: Best blender for acai bowls**](http://kitchenexplored.com/best-blender-for-acai-bowls/)
+[**Related Article: Best blender for acai bowls**](/posts/best-blender-for-acai-bowls/)
 
 * * *
 
@@ -81,7 +81,7 @@ The operation is not suitable for large batch operations.
 
 The process is time-consuming.
 
-[**Related Article: Best Immersion Blender For Soap Making**](http://kitchenexplored.com/best-immersion-blender-for-soap-making/)
+[**Related Article: Best Immersion Blender For Soap Making**](/posts/best-immersion-blender-for-soap-making/)
 
 * * *
 
@@ -153,7 +153,7 @@ Pureeing is a versatile way of creating a variety of meals. Below are some of th
 -   **Method –** There are many methods that you can use without a blender, choosing the suitable one will allow you to achieve your desired results.
 -   **Preparation of ingredients –** This process involves washing, peeling and also cutting the ingredients into pieces that can make it easy to carry out the pureeing operation.
 
-[**Related Article: Bella rocket blender vs magic bullet**](http://kitchenexplored.com/bella-rocket-blender-vs-magic-bullet/)
+[**Related Article: Bella rocket blender vs magic bullet**](/posts/bella-rocket-blender-vs-magic-bullet/)
 
 * * *
 

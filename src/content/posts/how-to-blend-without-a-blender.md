@@ -13,7 +13,7 @@ A blender is an appliance or machine that blends, mixes and even purees ingredie
 
 **Yes, you can blend without a blender. You can use the following processes: knife, hand mixer, mortar and pestle, food processor and immersion blender.**
 
-**[Related Article: Food Processor or Coffee Grinder?](http://kitchenexplored.com/food-processor-vs-coffee-grinder/)**
+**[Related Article: Food Processor or Coffee Grinder?](/posts/food-processor-vs-coffee-grinder/)**
 
 ## What is Blending?
 
@@ -135,7 +135,7 @@ The other processes you can use to blend without a blender are:
 -   Chinois strainer
 -   Cheesecloth and mallet
 
-**[Related Article: Can you use Vitamix to grind meat?](http://kitchenexplored.com/can-you-grind-meat-in-a-vitamix/)**
+**[Related Article: Can you use Vitamix to grind meat?](/posts/can-you-grind-meat-in-a-vitamix/)**
 
 ## Tips for blending without a blender
 
@@ -185,7 +185,7 @@ The other processes you can use to blend without a blender are:
 -   **Add liquid**: When using a food processor or an immersion blender, adding a liquid will make it easy to blend and also enable you to achieve your desired texture.
 -   **Patience**: This process without a blender can take a bit longer, to achieve the best consistency you will have to be patient.
 
-**[Related Article: Can You Whip Egg Whites in A Blender?](http://kitchenexplored.com/can-you-whip-egg-whites-in-a-blender/)**
+**[Related Article: Can You Whip Egg Whites in A Blender?](/posts/can-you-whip-egg-whites-in-a-blender/)**
 
 ## Conclusion “How to blend without a blender?”
 

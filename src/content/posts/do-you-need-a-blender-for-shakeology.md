@@ -15,7 +15,7 @@ Do you need a blender for Shakeology?
 
 **The answer is yes and no. You need a blender for Shakeology in order to get the most out of your Shakeology powder, and the process is very easy and quick. Blending the powder with water or milk creates a smooth, delicious shake that is easy to drink. On the other hand, if you don’t have a blender, you will still be able to carry out simple processes that take longer and are slightly less convenient than using a blender.**
 
-[**Related Article: Do You Need a Blender for Shakeology?**](http://kitchenexplored.com/do-all-vitamix-blenders-make-hot-soup/)
+[**Related Article: Do You Need a Blender for Shakeology?**](/posts/do-all-vitamix-blenders-make-hot-soup/)
 
 ## What is a Shakeology?
 
@@ -49,7 +49,7 @@ The first step in making homemade Shakeology is to gather all of your ingredient
 
 Making shakeology using a mortar and pestle is an easy way to create your own nutritious drink. This method of preparation allows you to control the ingredients that go into your shake, as well as customize it for any dietary needs or preferences. With just a few simple steps, you can make yourself an energizing and nourishing beverage in no time.
 
-**[Related Article: What blenders do Starbucks use?](http://kitchenexplored.com/what-blenders-do-starbucks-use/)**
+**[Related Article: What blenders do Starbucks use?](/posts/what-blenders-do-starbucks-use/)**
 
 ### **Electric Egg Beater**
 
@@ -99,9 +99,9 @@ There are many benefits of using a blender for your Shakeology shakes.
 -   **Cleaning** - They require frequent cleaning after each use since food particles may stuck between blades which them hard to remove by hand alone; thus requiring additional effort for proper maintenance so as not to have bacteria build up inside causing health risks if left unclean for long periods of time.
 -   **Power** \- A blender requires power to run, which may lead to additional electric bills and maybe a disadvantage if you are in an area that has no power supply.
 
-[**Related Article: Ninja QB1004 Blender/food Processor**](http://kitchenexplored.com/ninja-qb1004-blender-food-processor/)
+[**Related Article: Ninja QB1004 Blender/food Processor**](/posts/ninja-qb1004/)
 
-[](http://kitchenexplored.com/author/vincentoduorm/)[](http://kitchenexplored.com/author/vincentoduorm/)
+[](/about/)[](/about/)
 
 ## Conclusion
 

@@ -15,7 +15,7 @@ Most people wonder whether it is possible to use a magic bullet in grinding coff
 Can You Grind Coffee in a Magic Bullet?  
 **Yes, you can use a magic bullet to grind coffee beans. The magic bullet is a versatile blender that is equipped with a 250-watt motor that has the ability to grind coffee beans into fine powder. Using the bender will enable you to achieve consistent results.**
 
-**[Related Article: Can You Use a Blender as A Food Processor?](http://kitchenexplored.com/can-you-use-a-blender-as-a-food-processor/)**
+**[Related Article: Can You Use a Blender as A Food Processor?](/posts/can-you-use-a-blender-as-a-food-processor/)**
 
 ## What is a Magic Bullet blender?
 
@@ -72,7 +72,7 @@ Below are tips for using a Magic bullet to grind coffee beans:
 -   **Pusle function** - Use the pulse function to avoid overheating coffee beans. This preserves its flavor.
 -   **Monitor** – Monitoring the grinding operation enables you to achieve consistent results.
 
-**[Related Article: Can you grind Coffee in a Nutribullet?](http://kitchenexplored.com/can-nutribullet-grind-coffee/)**
+**[Related Article: Can you grind Coffee in a Nutribullet?](/posts/can-nutribullet-grind-coffee/)**
 
 ## Cleaning and Maintenance the Magic bullet blender
 
@@ -90,7 +90,7 @@ Below are tips for using a Magic bullet to grind coffee beans:
 -   Mortar and Pestle
 -   Food Processor
 
-**[Related Article: Does ice sharpen blender blades?](http://kitchenexplored.com/does-ice-sharpen-blender-blades/)**
+**[Related Article: Does ice sharpen blender blades?](/posts/does-ice-sharpen-blender-blades/)**
 
 ## Frequently Asked Questions
 

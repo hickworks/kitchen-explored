@@ -15,7 +15,7 @@ This article has first-hand information regarding the fable dinnerware from pers
 
 The fable dinnerware comes in a wide range of different designs and colors. The designs are also well constructed to meet daily use for both formal and informal occasions. These dinnerware sets are very popular because they display the art of dining and their quality has the ability to elevate any dining experience.
 
-**[Related Article: What is ironstone dinnerware?](http://kitchenexplored.com/what-is-ironstone-dinnerware/)**
+**[Related Article: What is ironstone dinnerware?](/posts/what-is-ironstone-dinnerware/)**
 
 ### Fable dinnerware has the following sets:
 
@@ -54,7 +54,7 @@ Fable dinnerware has a modern look on a traditional dinnerware. This amazing din
 5.  Avoid soaking the pieces for too long since it can lead to glazing or fading.
 6.  Finally, store the pieces in a dry and cool place. When storing, place the pieces gently so that they don’t scratch or chip during the process.
 
-**[Related Article: Corelle Dinnerware](http://kitchenexplored.com/are-corelle-dinnerware-good-quality/)**
+**[Related Article: Corelle Dinnerware](/posts/are-corelle-dinnerware-good-quality/)**
 
 ## Comparison to other types of dinnerware
 
@@ -90,7 +90,7 @@ Fable dinnerware can be used for outdoor dining as long you handle the sets with
 
 Yes, fable dinnerware come with a warranty. The dinnerware sets come with a warranty of one year which is against manufacturing defects. Any physical damage or worn-out sets due to usage are not catered for.
 
-**[Related Article: Corelle vs Mikasa Dinnerware](http://kitchenexplored.com/corelle-vs-mikasa/)**
+**[Related Article: Corelle vs Mikasa Dinnerware](/posts/corelle-vs-mikasa/)**
 
 ## Conclusion
 

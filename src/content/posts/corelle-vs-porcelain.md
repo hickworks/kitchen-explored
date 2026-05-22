@@ -13,7 +13,7 @@ Would you like to know the difference between Corelle and Porcelain? If yes, you
 
 **The difference between Corelle and Porcelain is the construction material. Corelle is made from vitrelle which is a durable material that is highly resistant to chipping, cracking as well as breaking. On the other hand, porcelain is made of kaolin clay which is a bit fragile and can chip and even break easily when dropped or hit by a hard object.**
 
-**[Related Article: IS CORELLE AIR FRYER SAFE?](http://kitchenexplored.com/is-corelle-air-fryer-safe/)**
+**[Related Article: IS CORELLE AIR FRYER SAFE?](/posts/is-corelle-air-fryer-safe/)**
 
 * * *
 
@@ -76,7 +76,7 @@ The following are some of porcelain dinnerware sets:
 -   Patterned porcelain dinnerware - This type of dinnerware set have intricate designs. Consists of plates, bowls as well as cups.
 -   Patterned porcelain dinnerware – These types feature intricate designs on plates, bowls and cups.
 
-**[Related Article: IS PYROCERAM TOXIC?](http://kitchenexplored.com/is-pyroceram-toxic/)**
+**[Related Article: IS PYROCERAM TOXIC?](/posts/is-pyroceram-toxic/)**
 
 ### **Pros of porcelain dinnerware**
 

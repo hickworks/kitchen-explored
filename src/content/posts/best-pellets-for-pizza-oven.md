@@ -33,7 +33,7 @@ The following are the best pellets for pizza oven:
 -   **2\. Bear Mountain Premium BBQ WOODS 100%**
 -   **1\. Traeger Grills Signature Blend 100%**
 
-**Related Article: [Best air fryer tray for oven](http://kitchenexplored.com/best-air-fryer-tray-for-oven/)**
+**Related Article: [Best air fryer tray for oven](/posts/best-air-fryer-tray-for-oven/)**
 
 * * *
 
@@ -112,7 +112,7 @@ On the other hand, the hickory wood and oak ensure that you have a well-balanced
 
 -   A few people complain it is not readily available in some areas.
 
-**Related Article: [Best speed oven](http://kitchenexplored.com/best-speed-oven/)**
+**Related Article: [Best speed oven](/posts/best-speed-oven/)**
 
 * * *
 
@@ -191,7 +191,7 @@ When it comes to compatibility, it is not an issue for these pellets. They work 
 
 -   Some raise complaints saying that it has a limited quantity per flavor.
 
-**Related Article: [Best ovens for sublimation](http://kitchenexplored.com/best-ovens-for-sublimation/)**
+**Related Article: [Best ovens for sublimation](/posts/best-ovens-for-sublimation/)**
 
 * * *
 
@@ -243,7 +243,7 @@ The pellets also contain low moisture which leads to a clean burn. The low moist
 
 -   Some users say it has a strong and distinctive flavor.
 
-**Related Article: [Best French door toaster oven](http://kitchenexplored.com/best-french-door-toaster-oven/)**
+**Related Article: [Best French door toaster oven](/posts/best-french-door-toaster-oven/)**
 
 * * *
 
@@ -296,7 +296,7 @@ Yes, you can use charcoal in a pizza oven. As we all know is that charcoal is a 
 
 You can make pellets last longer by using efficient temperatures, cleaning the fire area, measuring the ratio to be used and also reducing unnecessary pellet consumption.
 
-**Related Article: [How to keep pizza warm in oven?](http://kitchenexplored.com/how-to-keep-pizza-warm-in-oven/)**
+**Related Article: [How to keep pizza warm in oven?](/posts/how-to-keep-pizza-warm-in-oven/)**
 
 * * *
 

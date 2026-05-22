@@ -19,7 +19,7 @@ The following are the types of juicers:
 -   **Citrus juicers**
 -   **Manual juicers**
 
-**[Related Article: Best Blender for Making Flour](http://kitchenexplored.com/best-blender-for-making-flour-2/)**
+**[Related Article: Best Blender for Making Flour](/posts/best-blender-for-making-flour-2/)**
 
 * * *
 
@@ -111,7 +111,7 @@ Citrus juicers are well-designed specifically to carry out the extraction of cit
 -   They have limited functionality.
 -   They require manual labor.
 
-**[Related Article: Ninja BN701 vs BL610](http://kitchenexplored.com/ninja-bn701-vs-bl610/)**
+**[Related Article: Ninja BN701 vs BL610](/posts/ninja-bn701-vs-bl610/)**
 
 * * *
 
@@ -178,7 +178,7 @@ There are many types juicers that have there own method of extracting juice, tho
 4.  The next step is to collect the juice produced in a container. The pulp and fiber are not reusable hence they need to be thrown. This is the final step.
 5.  Once you are done, it is highly recommended to clean the juicer.
 
-**[Related Article: Types of Blender Blades](http://kitchenexplored.com/types-of-blender-blades/)**
+**[Related Article: Types of Blender Blades](/posts/types-of-blender-blades/)**
 
 ## Frequently Asked Questions
 

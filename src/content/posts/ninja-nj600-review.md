@@ -25,7 +25,7 @@ The Ninja NJ600 also has a large pulp bin, which enables you to make large batch
 
 The Ninja Nj600 is an excellent immersion blender and is an extremely versatile kitchen appliance. The blender comes with a two-year warranty, so you can be sure that it will stand up to regular use and you will be able to be assisted incase the instrument develops any problems.
 
-**[Related Article: Ninja BN701 vs BL610](http://kitchenexplored.com/ninja-bn701-vs-bl610/)**
+**[Related Article: Ninja BN701 vs BL610](/posts/ninja-bn701-vs-bl610/)**
 
 ## Features and Specifications
 
@@ -73,7 +73,7 @@ When it comes to Immersion Blenders, the Ninja Nj600 is one of the most popular 
 -   Some users complain that the detachable shaft is not very sturdy and this cause wobbling during operations.
 -   The blender nj600 is far expensive than some blenders in the market.
 
-**[Related Article: Ninja bn701](http://kitchenexplored.com/ninja-bn701-review-2/)**
+**[Related Article: Ninja bn701](/posts/ninja-bn701-review-2/)**
 
 ## Care and Maintenance of Your Ninja NJ600
 
@@ -111,7 +111,7 @@ Ninja N600 pitcher can be replaced easily. All you have to do is purchase a new 
 
 No, NJ600 does not or is not equipped with single serve cups.
 
-**[Related Article: The Ninja QB1004 Review](http://kitchenexplored.com/ninja-qb1004-blender-food-processor/)**
+**[Related Article: The Ninja QB1004 Review](/posts/ninja-qb1004/)**
 
 ## Conclusion
 

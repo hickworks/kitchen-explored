@@ -15,7 +15,7 @@ Let's get started,
 
 **Yes, you can use nutribullet to blend frozen fruit. Nutribulley is equipped with a powerful motor and strong blade that has the capability to blend frozen fruits into a smooth and creamy consistency with ease. It is also important to note that, it is recommended to use a little liquid to act as a lubricant between the blades and the ingredients. Not to forget, avoid overloading to allow the blender to work efficiently.**
 
-**[Related Article: Which Vitamix Is the Best for Making Soup?](http://kitchenexplored.com/do-all-vitamix-blenders-make-hot-soup/)**
+**[Related Article: Which Vitamix Is the Best for Making Soup?](/posts/do-all-vitamix-blenders-make-hot-soup/)**
 
 ## Nutribullet Blender
 
@@ -69,7 +69,7 @@ The following are the benefits of using a nutribullet blender:
 -   Frozen fruit does not require ice, this will prevent dilution of the flavor.'
 -   Nutrients are also retained since frozen fruits are picked when they are ripe.
 
-**[Related Article: What blenders do Starbucks use?](http://kitchenexplored.com/what-blenders-do-starbucks-use/)**
+**[Related Article: What blenders do Starbucks use?](/posts/what-blenders-do-starbucks-use/)**
 
 ## What can you make in a nutribullet?
 
@@ -97,7 +97,7 @@ The following are ways to care and maintain the Nutibullet blender:
 -   Replace the blades once you notice that they are getting dull or damaged. This will help in creating an optimal blending performance.
 -   Always store the blender in a safe and dry place
 
-**[Related Article: Are glass blenders better than plastic](http://kitchenexplored.com/are-glass-blenders-better-than-plastic/)**
+**[Related Article: Are glass blenders better than plastic](/posts/are-glass-blenders-better-than-plastic/)**
 
 ## Mistakes to avoid when using Nutribullet to blend frozen fruit
 

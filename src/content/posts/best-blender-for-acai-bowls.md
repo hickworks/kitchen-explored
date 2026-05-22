@@ -21,7 +21,7 @@ The list consists of high-performance blenders that are powerful and durable to 
 -   A pulse function allows you to easily customize your blends.
 -   The blender should also come with a tamper tool.
 
-[**Related Article: Best Immersion Blender For Soap Making**](http://kitchenexplored.com/best-immersion-blender-for-soap-making/)
+[**Related Article: Best Immersion Blender For Soap Making**](/posts/best-immersion-blender-for-soap-making/)
 
 * * *
 
@@ -153,7 +153,7 @@ The blender comes with:
 
 The blender may not be suitable to carry out large batch operations.
 
-[**Related Article: Bella rocket blender vs magic bullet**](http://kitchenexplored.com/bella-rocket-blender-vs-magic-bullet/)
+[**Related Article: Bella rocket blender vs magic bullet**](/posts/bella-rocket-blender-vs-magic-bullet/)
 
 * * *
 
@@ -189,7 +189,7 @@ The blender comes with:
 
 The blender may not be suitable for small counter space.
 
-[**Related Article: Can You Grind Coffee in a Magic Bullet?**](http://kitchenexplored.com/can-you-grind-coffee-in-a-magic-bullet/)
+[**Related Article: Can You Grind Coffee in a Magic Bullet?**](/posts/can-you-grind-coffee-in-a-magic-bullet/)
 
 * * *
 
@@ -290,7 +290,7 @@ The blender includes:
 
 -   The blender is not suitable for a small kitchen counter space.
 
-[**Related Article: Can Nutribullet grind Coffee?**](http://kitchenexplored.com/can-nutribullet-grind-coffee/)
+[**Related Article: Can Nutribullet grind Coffee?**](/posts/can-nutribullet-grind-coffee/)
 
 * * *
 

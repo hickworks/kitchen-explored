@@ -17,7 +17,7 @@ Can you grind cinnamon sticks in a blender?
 
 If your blender is not strong enough to grind cinnamon sticks, you can use a spice grinder or a mortar and pestle to grind the cinnamon into a fine powder.
 
-**[Related Article: Do eggshells sharpen blender blades?](http://kitchenexplored.com/do-eggshells-sharpen-blender-blades/)**
+**[Related Article: Do eggshells sharpen blender blades?](/posts/do-eggshells-sharpen-blender-blades/)**
 
 ## How to Grind Cinnamon Sticks in a Blender
 
@@ -43,7 +43,7 @@ There are several benefits to grinding cinnamon sticks in a blender:
 
 -   Grinding cinnamon sticks in a blender preserves the freshness of the cinnamon. Pre-ground cinnamon can lose its flavor and aroma over time, but grinding cinnamon sticks right before you use them ensures that you get the freshest and most flavorful cinnamon.
 
-**[Related Article: Can you shred chicken with a food processor?](http://kitchenexplored.com/can-you-shred-chicken-with-a-food-processor/)**
+**[Related Article: Can you shred chicken with a food processor?](/posts/can-you-shred-chicken-with-a-food-processor/)**
 
 ## Potential Risks of Grinding Cinnamon Sticks
 
@@ -78,7 +78,7 @@ Eating too much cinnamon can cause side effects.  The following are side effect
 
 It is important to consume cinnamon in moderation and to consult with a doctor if you experience any adverse effects.
 
-**[Related Article: Can a ninja blender be used as a food processor?](http://kitchenexplored.com/can-i-use-a-ninja-blender-as-a-food-processor/)**
+**[Related Article: Can a ninja blender be used as a food processor?](/posts/can-i-use-a-ninja-blender-as-a-food-processor/)**
 
 ## Conclusion
 

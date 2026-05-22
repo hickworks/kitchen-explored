@@ -13,7 +13,7 @@ What is the difference between the Vitamix V1200 vs 5200? This article has explo
 
 **The main difference between the Vitamix V1200 and the 5200 is the motor power. The Vitamix v1200 has a 1440-watt motor while the Vitamix 5200 has a 1380-watt motor. This means that the V1200 is more powerful than the 5200.**
 
-**[Related Article: Vitamix e520 vs 7500](http://kitchenexplored.com/vitamix-e520-vs-7500/)**
+**[Related Article: Vitamix e520 vs 7500](/posts/vitamix-e520-vs-7500-2/)**
 
 * * *
 
@@ -53,7 +53,7 @@ What's in the box:
 
 -   Some operations can be quite noisy.
 
-**[Related Article: Vitamix 5200 vs 750](http://kitchenexplored.com/vitamix-5200-vs-750/)** 
+**[Related Article: Vitamix 5200 vs 750](/posts/vitamix-5200-vs-750/)** 
 
 * * *
 
@@ -116,7 +116,7 @@ What's in the Box:
 -   **Noise level -** The noise level of the V1200 is higher than the 5200.
 -   **Dimensions –** The Vitamix 5200 has a dimension of 7.25"D x 8.75"W x 20.5"H while the V1200 has a dimension of 8"D x 10.5"W x 17"H.
 
-**[Related Article: Vitamix 7500 vs A3500](http://kitchenexplored.com/vitamix-7500-vs-a3500/)**
+**[Related Article: Vitamix 7500 vs A3500](/posts/vitamix-7500-vs-a3500/)**
 
 * * *
 

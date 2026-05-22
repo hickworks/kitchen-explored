@@ -11,7 +11,7 @@ imageAlt: "IS PYROCERAM TOXIC"
 
 What is pyroceram? Pyroceram is a glass ceramic material that has become popular in recent years due to its advantages over other materials. It's attractive, durable, and also easy to work with. There's one question that remains unanswered, Is it toxic? In this article, we'll explore the advantages as well as potential risks of using pyroceram and try to answer the question of whether or not it is toxic.
 
-**[Related Article: Is naked juice healthy?](http://kitchenexplored.com/is-naked-juice-healthy/)**
+**[Related Article: Is naked juice healthy?](/posts/is-naked-juice-healthy/)**
 
 **Is Pyroceram Toxic?**
 
@@ -53,7 +53,7 @@ What is pyroceram? Pyroceram is a glass ceramic material that has become popular
 
 **Biocompatible** – This makes it suitable to be used in a medical application that comes into contact with any living tissue.
 
-**[Related Article: What blenders do Starbucks use?](http://kitchenexplored.com/what-blenders-do-starbucks-use/)**
+**[Related Article: What blenders do Starbucks use?](/posts/what-blenders-do-starbucks-use/)**
 
 ## **Cons**
 

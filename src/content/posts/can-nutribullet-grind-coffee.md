@@ -13,7 +13,7 @@ Many people wonder if it is possible to grind coffee using a Nutribullet and don
 
 **Yes, you can use a Nutribullet to grind coffee. To carry this operation, you will have to use a milling blade rather than the extractor blade. The milling one is equipped with 2 pongs that have the capability of grinding coffee beans.**
 
-**[Related Article: Does ice sharpen blender blades?](http://kitchenexplored.com/does-ice-sharpen-blender-blades/)**
+**[Related Article: Does ice sharpen blender blades?](/posts/does-ice-sharpen-blender-blades/)**
 
 **How to grind Coffee in a Nutribullet?**
 
@@ -54,7 +54,7 @@ The following are grind textures that you will be able to achieve:
 
 **Extra fine grind** – This type of grind is also referred to as “Turkish grind”. They are used in cezve coffee making. The grind has the consistency similar to the one of a powder sugar. To achieve this kind of texture, ensure the blender runs 10 to 15 seconds intervals.
 
-**[Related Article: Can you grind cinnamon sticks in a blender?](http://kitchenexplored.com/can-you-grind-cinnamon-sticks-in-a-blender/)**
+**[Related Article: Can you grind cinnamon sticks in a blender?](/posts/can-you-grind-cinnamon-sticks-in-a-blender/)**
 
 ## Nutribullet tips to grinding Coffee beans.
 
@@ -101,7 +101,7 @@ If you don’t have a nutribullet, you can you the following ways as alternative
 -   Use of a hammer
 -   Using a rolling
 
-**[Related Article: Do eggshells sharpen blender blades?](http://kitchenexplored.com/do-eggshells-sharpen-blender-blades/)**
+**[Related Article: Do eggshells sharpen blender blades?](/posts/do-eggshells-sharpen-blender-blades/)**
 
 ## Conclusion
 

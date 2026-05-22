@@ -13,7 +13,7 @@ Hello blender enthusiasts! Today we will be going through some of the blenders t
 
 USA blender companies are known to have a full commitment to delivering sustainable blenders. Below is our list of blenders made in the USA.
 
-**[Related Article: Different types of blender blades](http://kitchenexplored.com/types-of-blender-blades/)**
+**[Related Article: Different types of blender blades](/posts/types-of-blender-blades/)**
 
 ## The best blenders that are 100% Made in the USA
 
@@ -69,7 +69,7 @@ Just like other blenders in our list, these blenders are high-performance blende
 
 They also have models from personal blenders to full-sized blenders for commercial use. The motors and blades are powerful enough to carry out tougher operations with ease such as ice, frozen fruit and more. These blenders are great for home use and can enhance your blending operations.
 
-[**Related Article: Best Blender for Making Flour**](http://kitchenexplored.com/best-blender-for-making-flour-2/)
+[**Related Article: Best Blender for Making Flour**](/posts/best-blender-for-making-flour-2/)
 
 ## Benefits of buying MADE IN USA
 
@@ -107,7 +107,7 @@ Yes, Vitamix is made in the USA. The company started in 1921 and is situated in 
 
 Yes, Blendtec is a USA made blender. The company is based in Utah, USA.
 
-**[Related Article: Ninja BL660 vs BL610](http://kitchenexplored.com/ninja-bl660-vs-bl610/)**
+**[Related Article: Ninja BL660 vs BL610](/posts/ninja-bl660-vs-bl610/)**
 
 ## Conclusion
 

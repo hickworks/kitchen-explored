@@ -13,7 +13,7 @@ To achieve an efficient and well-maintained plumbing system, water pressure is o
 
 **Yes, you can check water pressure without a gauge. You can use the following methods: a bucket and a timer, a balloon, a glass of water, a pressure-reducing valve and a water meter.**
 
-[**Related Article: Why is my kitchen sink backing up?**](http://kitchenexplored.com/why-is-my-kitchen-sink-backing-up/)
+[**Related Article: Why is my kitchen sink backing up?**](/posts/why-is-my-kitchen-sink-backing-up/)
 
 ## How to check water pressure without a gauge?
 
@@ -103,7 +103,7 @@ To get accurate results, ensure that all the water sources are closed to that yo
 -   They are limited because they are able to measure water pressure at the point they were installed. This is a disadvantage when you have multiple water sources.
 -   The meter may be complicated to install if you don’t have any plumbing knowledge or experience.
 
-[**Related Article: How to tighten kitchen faucet nut under sink?**](http://kitchenexplored.com/how-to-tighten-kitchen-faucet-nut-under-sink/)
+[**Related Article: How to tighten kitchen faucet nut under sink?**](/posts/how-to-tighten-kitchen-faucet-nut-under-sink/)
 
 ### **Using a Pressure Reducing Valve**
 
@@ -176,7 +176,7 @@ Water pressure increases because of the following: pressure from the source, mal
 
 Too much pressure can lead to water wastage, damage to plumbing lines, damage to appliances, cause water hammering and also be a safety hazard.
 
-[**Related Article: What causes low water pressure in kitchen sink?**](http://kitchenexplored.com/what-causes-low-water-pressure-in-kitchen-sink/)
+[**Related Article: What causes low water pressure in kitchen sink?**](/posts/what-causes-low-water-pressure-in-kitchen-sink/)
 
 ## **Conclusion**
 

@@ -17,7 +17,7 @@ An air fryer tray can be defined as a special cooking tool or accessory that is 
 
 Most air fryers are nonstick which makes them easy to clean and even use. Some also require little or no oil when cooking hence providing a healthy and delicious meal. They are great for frying chicken wings, vegetables, French fries and more.
 
-**Related Article: [Best speed oven](http://kitchenexplored.com/best-speed-oven/)**
+**Related Article: [Best speed oven](/posts/best-speed-oven/)**
 
 ## Features for air fryer tray for oven
 
@@ -98,7 +98,7 @@ Cleaning this tray is also an easy task because it collects crumbs and splatters
 
 -   It has limited accessories.
 
-**Related Article: [How to clean Frigidaire oven?](http://kitchenexplored.com/how-to-clean-frigidaire-oven/)**
+**Related Article: [How to clean Frigidaire oven?](/posts/how-to-clean-frigidaire-oven/)**
 
 * * *
 
@@ -174,7 +174,7 @@ Additionally, the non-stick coating the clean-up process easy. To add on top of 
 
 -   The tray has a specific target user, majorly focusing on hot dogs, sausages and more.
 
-**Related Article: [How to clean Frigidaire oven?](http://kitchenexplored.com/how-to-clean-frigidaire-oven/)**
+**Related Article: [How to clean Frigidaire oven?](/posts/how-to-clean-frigidaire-oven/)**
 
 * * *
 
@@ -228,7 +228,7 @@ The Ti-Cerama coating does not contain harmful substances such as PFOA, PFOS, le
 
 -   A few users complained that the handles transfer a bit of heat.
 
-**Related Article: [How to clean Frigidaire oven?](http://kitchenexplored.com/how-to-clean-frigidaire-oven/)**
+**Related Article: [How to clean Frigidaire oven?](/posts/how-to-clean-frigidaire-oven/)**
 
 * * *
 
@@ -278,7 +278,7 @@ The 2-piece versatile set has the ability to carry out other tasks such as cooki
 
 -   Some users say that it requires preheating while another group opposes this issue.
 
-**Related Article: [Best ovens for sublimation](http://kitchenexplored.com/best-ovens-for-sublimation/)**
+**Related Article: [Best ovens for sublimation](/posts/best-ovens-for-sublimation/)**
 
 * * *
 
@@ -332,7 +332,7 @@ You are also able to enjoy meals with minimal or no oil which promotes a healthy
 
 -   Some people complain that the purchase price is a bit high though it is worth the price.
 
-**Related Article: [Best French door toaster oven](http://kitchenexplored.com/best-french-door-toaster-oven/)**
+**Related Article: [Best French door toaster oven](/posts/best-french-door-toaster-oven/)**
 
 * * *
 

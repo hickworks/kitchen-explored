@@ -13,7 +13,7 @@ This 2 All Clad pans have a lot of similarities than differences. This makes it 
 
 **The main difference between the All clad 4112 and 41126 is the lid. The All clad 41126 comes with a lid while the 4112 is not equipped with a lid.**
 
-[**Related Article: Invisacook Review**](http://kitchenexplored.com/invisacook-review/)
+[**Related Article: Invisacook Review**](/posts/invisacook-review/)
 
 * * *
 
@@ -56,7 +56,7 @@ Comes with:
 -   3-quart saucepans with a lid
 -   8-quart stockpot with a lid
 
-**[Related Article: What is the difference between all clad d5 and d7?](http://kitchenexplored.com/all-clad-d5-vs-d7/)**
+**[Related Article: What is the difference between all clad d5 and d7?](/posts/all-clad-d5-vs-d7/)**
 
 ### Pros
 
@@ -91,7 +91,7 @@ The main difference between the All clad 4112 and the 41126 is the lid. The All-
 
 The other difference is that the All clad 41126 has an option for two sizes, which are a 10-inch and a 12-inch. On the other hand, the 4112 comes in 4 size options, which are 8 inches and 14 inches, respectively.
 
-**[Related Article: Corelle vs Porcelain](http://kitchenexplored.com/corelle-vs-porcelain/)**
+**[Related Article: Corelle vs Porcelain](/posts/corelle-vs-porcelain/)**
 
 * * *
 

@@ -11,7 +11,7 @@ imageAlt: "<strong>Ironstone dinnerware</strong>"
 
 **We can define Ironstone dinnerware as one that is constructed from Ironstone China material. It was first manufactured in the UK in the 19th century and is still popular to date. Ironstone China material is a glaze-covered earthenware that is built from clay mixed with feldspar. The material is very opaque, dense and also durable. It is important to know that is not porcelain though it can be used as a substitute due to its durability as well as its elegant appearance.**
 
-**[Related Article: are corelle dinnerware good quality](http://kitchenexplored.com/are-corelle-dinnerware-good-quality/)**
+**[Related Article: are corelle dinnerware good quality](/posts/are-corelle-dinnerware-good-quality/)**
 
 ## **History of ironstone dinnerware.**
 
@@ -61,7 +61,7 @@ The dinnerware is versatile and also has an outstanding design. It has a classic
 -   Use manual instruction to verify that your ironstone dinnerware is oven safe, and up to what temperatures can it withstand so as to prevent any damage.
 -   In case your dinnerware is stained, use baking soda paste to remove the stain.
 
-**[Related Article: Corelle vs Mikasa Dinnerware](http://kitchenexplored.com/corelle-vs-mikasa/)**
+**[Related Article: Corelle vs Mikasa Dinnerware](/posts/corelle-vs-mikasa/)**
 
 ## Factors to consider when buying ironstone dinnerware
 
@@ -96,7 +96,7 @@ Ironstone dinnerware is very heavy compared to other dinnerware sets available o
 
 Ironstone dinnerware is made of clay, feldspar and iron oxide.
 
-**[Related Article: Corelle vs Porcelain](http://kitchenexplored.com/corelle-vs-porcelain/)**
+**[Related Article: Corelle vs Porcelain](/posts/corelle-vs-porcelain/)**
 
 ## Conclusion
 

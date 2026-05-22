@@ -15,7 +15,7 @@ Would you like to own one of the best scout carry knives? If yes, then this blog
 
 The following is a list of the best scout carry knives starting from the bottom best to the top best.
 
-[**Related Article: Best front flipper knives**](http://kitchenexplored.com/best-front-flipper-knives/)
+[**Related Article: Best front flipper knives**](/posts/best-front-flipper-knives/)
 
 * * *
 
@@ -44,7 +44,7 @@ The other unique feature of the knife is the way it is carried, horizontally. Th
 
 -   Some users say it’s a bit heavy.
 
-[**Related Article: Best front flipper knives**](http://kitchenexplored.com/best-front-flipper-knives/)
+[**Related Article: Best front flipper knives**](/posts/best-front-flipper-knives/)
 
 * * *
 
@@ -148,7 +148,7 @@ The other feature is the lanyard hole that enables you to attach your scout carr
 
 -   A few customers have complained that the knife is a bit heavy.
 
-[**Related Artcile: Best utensils for stainless steel cookware**](http://kitchenexplored.com/best-utensils-for-stainless-steel-cookware/)
+[**Related Artcile: Best utensils for stainless steel cookware**](/posts/best-utensils-for-stainless-steel-cookware/)
 
 * * *
 
@@ -250,7 +250,7 @@ The other stand-out feature is the G10 handle. The handle is constructed from fi
 
 -   Some people complain that the blade length is too short.
 
-[**Related Article: Best nonstick cookware set under $200**](http://kitchenexplored.com/best-nonstick-cookware-set-under-200/)
+[**Related Article: Best nonstick cookware set under $200**](/posts/best-nonstick-cookware-set-under-200/)
 
 * * *
 

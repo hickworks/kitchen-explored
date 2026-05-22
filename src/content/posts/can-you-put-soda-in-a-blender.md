@@ -15,9 +15,9 @@ Can you put soda in a blender?
 
 **Yes, you can put soda in a blender. It is important to keep in mind that soda is a carbonated drink that can build foam, for this reason, it is recommended to fill less than half of the pitcher or container. From there you should start with slow speeds which prevent a mess from foam buildup.**
 
-[**Related Article: Can You Make Pesto in a Blender?**](http://kitchenexplored.com/can-you-make-pesto-in-a-blender/)
+[**Related Article: Can You Make Pesto in a Blender?**](/posts/can-you-make-pesto-in-a-blender/)
 
-**[Related Article: Can You Make Pesto in a Blender?](http://kitchenexplored.com/can-you-make-pesto-in-a-blender/)**
+**[Related Article: Can You Make Pesto in a Blender?](/posts/can-you-make-pesto-in-a-blender/)**
 
 ## Why Would You Want to Put Soda in A Blender?
 
@@ -54,7 +54,7 @@ The following is a process of blending soda in a blender:
 -   Acid Content: Blending sodas with acidic ingredients can increase the acidic level of a beverage and this can cause problems for those who have acid reflux and other digestive problems.
 -   Health issues: Taking large amounts of soda, even when blended can be harmful to your health. They can cause health problems such as obesity, diabetes and other diseases.
 
-**[Related Article: Can You Grind Coffee Beans in a Vitamix?](http://kitchenexplored.com/can-you-grind-coffee-beans-in-a-vitamix/)**
+**[Related Article: Can You Grind Coffee Beans in a Vitamix?](/posts/can-you-grind-coffee-beans-in-a-vitamix/)**
 
 ## Different types of soda and their properties that impact blending operations
 
@@ -80,7 +80,7 @@ Putting a soda in a blender is safe, though there is some precautions you should
 -   **Freshly squeed juice**: When you blend fresh fruits and vegetables, you will be able to produce a nutrient drink that has lower sugar levels.
 -   **Smoothies**: When you create smoothies from frozen fruits and vegetables is far healthier than drinking blended soda.
 
-**[Related Article: Can the nutribullet blend frozen fruit?](http://kitchenexplored.com/can-nutribullet-blend-frozen-fruit/)**
+**[Related Article: Can the nutribullet blend frozen fruit?](/posts/can-nutribullet-blend-frozen-fruit/)**
 
 ## “Can you put soda in a blender” CONCLUSION
 

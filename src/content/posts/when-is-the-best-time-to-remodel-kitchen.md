@@ -17,7 +17,7 @@ What is the best time to remodel kitchen?
 
 A kitchen is a basic unit in every home where meals are prepared for a family and even guests. With so many operations occurring in a kitchen, some of you consider remodeling the kitchen at some point to fit your preferences, this can help achieve your desired look or to remodel to accommodate the occupants living in the house.
 
-**[Related Article: What is the best kitchen faucet for low water pressure?](http://kitchenexplored.com/best-kitchen-faucet-for-low-water-pressure/)**
+**[Related Article: What is the best kitchen faucet for low water pressure?](/posts/best-kitchen-faucet-for-low-water-pressure/)**
 
 ## Best time to remodel kitchen
 
@@ -77,7 +77,7 @@ The availability of a contractor is a major factor you should consider. It is a 
 
 -   When you are desperate you may end up choosing inexperienced contractors.
 
-[**Related Article: Can you turn off self cleaning oven early?**](http://kitchenexplored.com/can-you-turn-off-self-cleaning-oven-early/)
+[**Related Article: Can you turn off self cleaning oven early?**](/posts/can-you-turn-off-self-cleaning-oven-early/)
 
 ### **Family schedule**
 
@@ -118,7 +118,7 @@ The most expensive part of kitchen remodeling is the cabinets. Cabinets can take
 
 The number one rule in the kitchen is safety. Safety is very important when carrying out operations in the kitchen. When you consider safety, you will be able to prevent accidents when preparing a meal or cleaning.
 
-[**Related Article: Can You Use a Blender as A Food Processor?**](http://kitchenexplored.com/can-you-use-a-blender-as-a-food-processor/)
+[**Related Article: Can You Use a Blender as A Food Processor?**](/posts/can-you-use-a-blender-as-a-food-processor/)
 
 ## Conclusion
 

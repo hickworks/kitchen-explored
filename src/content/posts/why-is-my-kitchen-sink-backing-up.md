@@ -13,7 +13,7 @@ Would you like to know why your kitchen sink is backing up? If yes, then you are
 
 **A sink backing is caused by a number of factors such as a clogged drainpipe, blocked P-trap, problem with the plumbing system, tree roots and more. All these issues and more can be prevented or avoided when you are keen enough.**
 
-[**Related Article: How to tighten kitchen faucet nut under sink?**](http://kitchenexplored.com/how-to-tighten-kitchen-faucet-nut-under-sink/)
+[**Related Article: How to tighten kitchen faucet nut under sink?**](/posts/how-to-tighten-kitchen-faucet-nut-under-sink/)
 
 ## Causes of sink Backing Up
 
@@ -40,7 +40,7 @@ The following are tips on how to solve this issue:
 7.  **Drains –** If you experience backing up in your multiple drains, this shows that there is a high possibility of an issue with your main sewer line. You can try to solve this situation by consulting the services of a professional.
 8.  **Sink strainer** – Installing a sink strainer also known as a stopper helps trap the food particles that and lead to clogging. Once the strainer is full, you can empty it regularly.
 
-[**Related Article: How to vent a kitchen sink under a window?**](http://kitchenexplored.com/how-to-vent-a-kitchen-sink-under-a-window/)
+[**Related Article: How to vent a kitchen sink under a window?**](/posts/how-to-vent-a-kitchen-sink-under-a-window/)
 
 ## Using Drain Snake
 
@@ -62,7 +62,7 @@ A drain snake is also known as a plumbing auger, it is one of the most recommend
 -   Regular maintenance also enables the safe disposal of waste.
 -   A well-maintained sink gives you a piece of mind.
 
-[**Related Article: What causes low water pressure in kitchen sink?**](http://kitchenexplored.com/what-causes-low-water-pressure-in-kitchen-sink/)
+[**Related Article: What causes low water pressure in kitchen sink?**](/posts/what-causes-low-water-pressure-in-kitchen-sink/)
 
 ## Conclusion
 

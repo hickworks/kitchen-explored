@@ -13,7 +13,7 @@ Would you like to know whether you can use a blender as a food processor? You do
 
 **Yes, you can use a blender as a food processor. A blender can carry out operations such as blending, chopping and pureeing ingredients which are similar tasks carried out by a food processor. The biggest challenge is that there are some operations in a blender that may not be as effective as a food processor. A good example is mixing, emulsifying and more.**
 
-**[Related Article: Can You Use a Blender as A Food Processor?](http://kitchenexplored.com/can-nutribullet-grind-coffee/)**
+**[Related Article: Can You Use a Blender as A Food Processor?](/posts/can-nutribullet-grind-coffee/)**
 
 ## Difference between food processor and blender. “Blenders vs food processors”.
 
@@ -63,7 +63,7 @@ The following are situations whereby you can use a blender instead of a food pro
 4.  Soft ingredient - A blender is suitable for chopping and blending soft ingredients. Though there are some that can carry out thought operations like blending frozen fruits and more.
 5.  Smoothies - This is the main function of a blender.
 
-**[Related Article: Does ice sharpen blender blades?](http://kitchenexplored.com/does-ice-sharpen-blender-blades/)**
+**[Related Article: Does ice sharpen blender blades?](/posts/does-ice-sharpen-blender-blades/)**
 
 ## Tips for using a blender as a food processor?
 
@@ -94,7 +94,7 @@ Here are some of the functions of a food processor:
 -   **Mixing** – A food processor has the ability to mix ingredients together such as dough for bread, pizza and more.
 -   **Pureeing –** Just like a blender, a food processor can be used to puree ingredients to smooth and consistent textures.
 
-**[Related Article: Can you shred chicken with a food processor?](http://kitchenexplored.com/can-you-shred-chicken-with-a-food-processor/)**
+**[Related Article: Can you shred chicken with a food processor?](/posts/can-you-shred-chicken-with-a-food-processor/)**
 
 ## Conclusion “Can you use a blender as a food processor?”
 

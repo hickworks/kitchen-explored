@@ -15,7 +15,7 @@ Why is Naked Juice Healthy?
 
 **Naked juice is only healthy when the recommended amount is consumed. If you consume more than the recommended amount, it may be harmful to your health because it contains high sugar levels and calories. Naked juice is manufactured using natural ingredients and does not contain any artificial colors and flavors.**
 
-[**Related Article:Do You Need a Blender for Shakeology?**](http://kitchenexplored.com/do-you-need-a-blender-for-shakeology/)
+[**Related Article:Do You Need a Blender for Shakeology?**](/posts/do-you-need-a-blender-for-shakeology/)
 
 ## What is Naked Juice?
 
@@ -72,7 +72,7 @@ Other naked juice products like the blue and red machines have the following ing
 
 ## Nutritional Value of naked juice
 
-**[Related Article: Which Vitamix Is the Best for Making Soup?](http://kitchenexplored.com/do-all-vitamix-blenders-make-hot-soup/)**
+**[Related Article: Which Vitamix Is the Best for Making Soup?](/posts/do-all-vitamix-blenders-make-hot-soup/)**
 
 ## Alternatives to Naked Juice
 
@@ -104,7 +104,7 @@ Naked juice may not be bad for but some of their products may contain high level
 
 The amount of sugar levels in naked juice depends on the type of product as well as the flavor. A good example is, a 15.2-ounce green machine naked juice has 53 grams of sugar, 15.2 mighty mango contains 58 grams of sugar.
 
-**[Related Article: What blenders do Starbucks use?](http://kitchenexplored.com/what-blenders-do-starbucks-use/)**
+**[Related Article: What blenders do Starbucks use?](/posts/what-blenders-do-starbucks-use/)**
 
 ## Conclusion
 

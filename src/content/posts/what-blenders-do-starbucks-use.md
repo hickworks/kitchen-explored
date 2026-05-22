@@ -20,7 +20,7 @@ Below are some of the blenders Starbucks use:
 -   Vitamix 36019
 -   Ninja Professional Blender
 
-[**Related Article: Why are Vitamix blenders so expensive?**](http://kitchenexplored.com/why-are-vitamix-blenders-so-expensive/)
+[**Related Article: Why are Vitamix blenders so expensive?**](/posts/why-are-vitamix-blenders-so-expensive/)
 
 ## Vitamix 36019 Preview
 
@@ -54,7 +54,7 @@ The blender is easy to operate since it is equipped with a user-friendly interfa
 -   Depth – 10.7 inches
 -   Height – 16.5 inches
 
-**[Related Article: Are vacuum blenders worth it?](http://kitchenexplored.com/are-vacuum-blenders-worth-it/)**
+**[Related Article: Are vacuum blenders worth it?](/posts/are-vacuum-blenders-worth-it/)**
 
 ## Pros and Cons of Vitamix 36019 Starbucks blenders
 
@@ -113,7 +113,7 @@ Vitamix has so many advantages which include:
 -   They have a variety of blenders with different price tags to choose from.
 -   The blenders are equipped with a variety of features that enable you to customize your textures.
 
-**[Related Article: Are glass blenders better than plastic](http://kitchenexplored.com/are-glass-blenders-better-than-plastic/)**
+**[Related Article: Are glass blenders better than plastic](/posts/are-glass-blenders-better-than-plastic/)**
 
 ## Conclusion
 

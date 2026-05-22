@@ -13,7 +13,7 @@ Are you looking for the best cookware that can enhance your cooking operations? 
 
 **The main difference between the All Clad MC2 vs the D5 is the construction. The All Clad MC2 features a 3-ply bonded construction while the All Clad D5 features a 5-ply bonded construction.**
 
-[**Related Article: Copper Chef vs Gotham Steel**](http://kitchenexplored.com/copper-chef-vs-gotham-steel/)
+[**Related Article: Copper Chef vs Gotham Steel**](/posts/copper-chef-vs-gotham-steel/)
 
 * * *
 
@@ -72,7 +72,7 @@ The cookware sets have a non-stick surface that allows for easy food release. Ad
 
 Finally, the cookware is oven safe and can be used up to 600 degrees Fahrenheit. Any temperatures above this can damage the cookware. To create confidence in customers about the quality of the sets, they come with a 10-year warranty. In case of any defects or issues within this period, the company can help you solve the issues.
 
-[**Related Article: Ceramic vs Hard Anodized Cookware**](http://kitchenexplored.com/ceramic-vs-hard-anodized-cookware/)
+[**Related Article: Ceramic vs Hard Anodized Cookware**](/posts/ceramic-vs-hard-anodized-cookware/)
 
 ### **Pros of Cooking with All Clad d5**
 
@@ -132,7 +132,7 @@ All Clad cannot rust. The pans are constructed from high-quality stainless steel
 
 A Clad cookware has the ability to last for a lifetime. This is possible because they are made from high-quality construction that is very durable. The life span of the All Clad will highly depend on how you care and maintain the cookware. If you maintain it well, it will last you a lifetime.
 
-[**Related Article: Best nonstick cookware set under $200**](http://kitchenexplored.com/best-nonstick-cookware-set-under-200/)
+[**Related Article: Best nonstick cookware set under $200**](/posts/best-nonstick-cookware-set-under-200/)
 
 * * *
 

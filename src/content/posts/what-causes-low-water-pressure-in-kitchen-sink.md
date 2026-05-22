@@ -15,7 +15,7 @@ Let’s get started,
 
 **Low water pressure in the kitchen can be caused by a clogged aerator, corroded pipes, water supply issues, faulty pressure regulator, plumbing issues, water heater, gravity and high-water demand**
 
-**[Related Article: When is the best time to remodel kitchen?](http://kitchenexplored.com/when-is-the-best-time-to-remodel-kitchen/)**
+**[Related Article: When is the best time to remodel kitchen?](/posts/when-is-the-best-time-to-remodel-kitchen/)**
 
 ## **Causes of Low Water Pressure in the Kitchen Sink**
 
@@ -63,7 +63,7 @@ Here are some of the steps you can carry out to check pressure issues and fix th
 -   You can also install a water pressure booster pump to help you improve the pressure of water.
 -   You can also upgrade a water meter in case you are using an outdated one, this will also help you improve or increase the pressure of water.
 
-**[Related Article: Why is my ninja blender blinking red?](http://kitchenexplored.com/why-is-my-ninja-blender-blinking-red/)**
+**[Related Article: Why is my ninja blender blinking red?](/posts/why-is-my-ninja-blender-blinking-red/)**
 
 ## **Frequently Asked Questions**
 
@@ -83,7 +83,7 @@ A device that can be used to increase water pressure in a home is known as a wat
 
 You can check water pressure at home by using a pressure gauge. This device is specifically designed to measure water pressure of any plumbing system.
 
-**[Related Article: Are corelle dinnerware good quality?](http://kitchenexplored.com/are-corelle-dinnerware-good-quality/)**
+**[Related Article: Are corelle dinnerware good quality?](/posts/are-corelle-dinnerware-good-quality/)**
 
 ## **Conclusion**
 

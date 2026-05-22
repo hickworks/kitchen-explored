@@ -21,7 +21,7 @@ The main purpose of this guide is to show you the steps of how you can build you
 
 Let's get started,
 
-**[Related Article: What Is the Right Wattage for A Blender to Crush Ice?](http://kitchenexplored.com/how-many-watts-does-a-blender-need-to-crush-ice/)**
+**[Related Article: What Is the Right Wattage for A Blender to Crush Ice?](/posts/how-many-watts-does-a-blender-need-to-crush-ice/)**
 
 ## Materials and Tools
 
@@ -77,7 +77,7 @@ A blender sound has the following benefite:
 -   Health: Loud noise can have a negative impact on your health which may lead to loss of hearing, increases stress, affects sleep too. Reducing noise level, improves you health and well being.
 -   Improved productivity: A noise conducive environment allows people to carry out there activities or operations without distaurbance.
 
-**[Related Article: Plastic Vs Glass: Which Blender Is Better?](http://kitchenexplored.com/are-glass-blenders-better-than-plastic/)**
+**[Related Article: Plastic Vs Glass: Which Blender Is Better?](/posts/are-glass-blenders-better-than-plastic/)**
 
 ## Other ways to generate additional noise from your blenders
 
@@ -106,7 +106,7 @@ Blenders dont have air vent, but you can relieve them by letting them to cool an
 
 Decibel level of blenders vary depending on the brand , size and also type. A standard blender can have 80-90 decibel while commercial blenders can have 100 decibels or more.
 
-**[Related Article: Are vacuum blenders worth it?](http://kitchenexplored.com/are-vacuum-blenders-worth-it/)**
+**[Related Article: Are vacuum blenders worth it?](/posts/are-vacuum-blenders-worth-it/)**
 
 ## Conclusion “ DIY Blender sound enclosure”
 

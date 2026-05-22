@@ -13,7 +13,7 @@ Would you like to know the difference between the Ninja SS351 and the Ninja BN80
 
 **The difference between the Ninja SS351 and the Ninja BN801 is the number of automatic programs. The Ninja SS351 has 6 automatic programs while the Ninja BN801 has 5 automatic programs. An automatic program allows you to easily customize your blends to your preferred preference.**
 
-**[Related Article:Ninja BL910 vs BL770](http://kitchenexplored.com/ninja-bl910-vs-bl770/)**
+**[Related Article:Ninja BL910 vs BL770](/posts/ninja-bl910-vs-bl770/)**
 
 * * *
 
@@ -50,7 +50,7 @@ This blender also has Auto IQ technology to integrate blending operations such a
 
 Cleaning the blender is also easy because it is built with BPA-free and dishwasher-safe parts. The parts are also removable which makes it easy to reach every part for cleaning. The purchasing price for this blender is affordable with a price tag of $149. This blender can be used both at home and in professional settings such as an office.
 
-**[Related Article:Ninja bl610 vs bl710](http://kitchenexplored.com/ninja-bl610-vs-bl710/)**
+**[Related Article:Ninja bl610 vs bl710](/posts/ninja-bl610-vs-bl710/)**
 
 ### **The following are features of the Ninja BN801:**
 
@@ -102,7 +102,7 @@ Cleaning the blender is also easy because it is built with BPA-free and dishwash
 8.  **Dimensions** -The SS351 has 8.19” x 8.43” x 14.17 while the BN801 has 7.38 x 9,63 x 18
 9.  **Cord length** – The Ninja B801 has a cord length of 30 inches while the Ninja SS351 has a cord length of 31.5 inches.
 
-[**Related Article: Ninja Bn801 vs BL770**](http://kitchenexplored.com/ninja-bl770-vs-bn801/)
+[**Related Article: Ninja Bn801 vs BL770**](/posts/ninja-bl770-vs-bn801/)
 
 * * *
 

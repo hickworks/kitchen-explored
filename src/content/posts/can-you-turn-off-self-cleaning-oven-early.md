@@ -23,7 +23,7 @@ What happens if you turn off the self cleaning oven early?
 -   **Save parts** – During cleaning cycles, some parts of the oven become very hot, e.g., the knob, handles and more. High temperatures are not ideal for a long time and shutting down the cycle early keeps the parts cool and in good condition.
 -   **Saving time – Self cleaning cycles consume** a lot of time, turning off early saves time since you will be able to continue using your oven.
 
-**[Related Article: Is the green pan oven safe?](http://kitchenexplored.com/are-green-pans-oven-safe/)**
+**[Related Article: Is the green pan oven safe?](/posts/are-green-pans-oven-safe/)**
 
 ### Disadvantages of turning off self-cleaning oven early.
 
@@ -62,7 +62,7 @@ Cleaning up after a self-cleaning cycle can be an easy or hard task depending on
 -   Open windows or doors nearby – Ensure that windows and doors are open to allow free flow of air within the kitchen. This prevents the buildup of fumes or smoke which may cause health issues. Plus, the fresh air has the ability to maintain the temperatures of the oven during the cleaning cycle.
 -   **Monitor** – Monitor the oven closely during cleaning cycles because sometimes a fire may start during the cycle. Though it is a rare situation.
 
-**[Related Article: Are Gotham steel pans oven safe?](http://kitchenexplored.com/are-gotham-steel-pans-oven-safe/)**
+**[Related Article: Are Gotham steel pans oven safe?](/posts/are-gotham-steel-pans-oven-safe/)**
 
 ## Common Problems with Self-Cleaning Ovens
 
@@ -93,7 +93,7 @@ A self-cleaning oven functions at very high temperatures in order to burn food r
 
 The length of a self-cleaning cycle varies from one model to another. The average time is between 3 to 4 hours to complete the process.
 
-**[Related Article: IS CORELLE AIR FRYER SAFE?](http://kitchenexplored.com/is-corelle-air-fryer-safe/)**
+**[Related Article: IS CORELLE AIR FRYER SAFE?](/posts/is-corelle-air-fryer-safe/)**
 
 **What should you do if you accidentally turn on the self-cleaning oven?**
 

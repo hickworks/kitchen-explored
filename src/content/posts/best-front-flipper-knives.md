@@ -49,7 +49,7 @@ The main feature that makes it applicable to this list is the front flipper mech
 
 The blade is costly, though it is worth it.
 
-[**Related Article: BEST NON TOXIC FLATWARE**](http://kitchenexplored.com/best-non-toxic-flatware/)
+[**Related Article: BEST NON TOXIC FLATWARE**](/posts/best-non-toxic-flatware/)
 
 * * *
 
@@ -133,7 +133,7 @@ As we finalize, the knife is also constructed with a carry pocket clip that is b
 
 A few people complain that the knife is a bit heavy.
 
-Related Article: [**Best utensils for stainless steel cookware**](http://kitchenexplored.com/best-utensils-for-stainless-steel-cookware/)
+Related Article: [**Best utensils for stainless steel cookware**](/posts/best-utensils-for-stainless-steel-cookware/)
 
 * * *
 
@@ -260,7 +260,7 @@ The following are some of the best flip knives
 -   Petrified fish Pocket Knife PFP07 Viking
 -   WE Knife Baloo 21033
 
-[**Related Article: 13 Best Blender for Making Flour**](http://kitchenexplored.com/best-blender-for-making-flour-2/)
+[**Related Article: 13 Best Blender for Making Flour**](/posts/best-blender-for-making-flour-2/)
 
 ## Conclusion “Front flip knife”
 

@@ -24,7 +24,7 @@ You will need the following products before starting any Frigidaire oven cleanin
 -   White vinegar
 -   Paper towel
 
-[**Related Article: How to keep pizza warm in oven?**](http://kitchenexplored.com/how-to-keep-pizza-warm-in-oven/)
+[**Related Article: How to keep pizza warm in oven?**](/posts/how-to-keep-pizza-warm-in-oven/)
 
 * * *
 
@@ -67,7 +67,7 @@ Follow the following steps to clean a Frigidaire oven:
 
 1.  The cleaning process can even be easier if it has a cleaning mode. It is good to read the manual instructions in order to know how to activate and run the cleaning cycles. A cleaning mode has a heating mode that makes the oven have a high temperature that can remove any residue easily. Once the cleaning cycle is done you can wipe away.
 
-**[Related Article: Best ovens for sublimation](http://kitchenexplored.com/best-ovens-for-sublimation/)**
+**[Related Article: Best ovens for sublimation](/posts/best-ovens-for-sublimation/)**
 
 * * *
 
@@ -132,7 +132,7 @@ The following are safety precautions you should consider before and during the c
 -   **Caution with self-cleaning function** – Some Frigidaire ovens are equipped with a self-cleaning function. Follow the manufacturer's manual and use a well-ventilated room to ensure a safe cleaning task.
 -   **Children and pets** – When cleaning, ensure you carry the operation away from children so that you prevent accidents and also the exposure of harmful agents for cleaning.
 
-[**Related Article: Best French door toaster oven**](http://kitchenexplored.com/best-french-door-toaster-oven/)
+[**Related Article: Best French door toaster oven**](/posts/best-french-door-toaster-oven/)
 
 * * *
 
@@ -150,7 +150,7 @@ To turn off self-clean on Frigidaire ensure you locate the “cancel” button o
 
 The duration taken by a self-cleaning cycle varies from one oven model to another and also the setting is activated. The average time taken by a Frigidaire can e around 2 to 4 hours. If you are unsure you can refer to the oven’s manual instructions.
 
-[**Related Article: Can you turn off self cleaning oven early?**](http://kitchenexplored.com/can-you-turn-off-self-cleaning-oven-early/)
+[**Related Article: Can you turn off self cleaning oven early?**](/posts/can-you-turn-off-self-cleaning-oven-early/)
 
 * * *
 

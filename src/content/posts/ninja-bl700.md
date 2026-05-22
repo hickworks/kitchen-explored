@@ -13,7 +13,7 @@ If you are looking for a blender that has the ability to crush ice and make silk
 
 Lets get started,
 
-**[Related Article: Why are Vitamix blenders so expensive?](http://kitchenexplored.com/why-are-vitamix-blenders-so-expensive/)**
+**[Related Article: Why are Vitamix blenders so expensive?](/posts/why-are-vitamix-blenders-so-expensive/)**
 
 ### **Features of the Ninja Bl700 Professional Blender**
 
@@ -43,7 +43,7 @@ Just like all appliances, there are some pros and cons to consider before you ma
 -   The 72-ounce pitcher is perfect for large batches though it can be bulky and difficult to store if you have limited counter space.
 -   The Ninja Bl700 also requires regular cleaning and maintenance to keep it running efficiently, just like other blenders.
 
-**[Related Article:Are vacuum blenders worth it?](http://kitchenexplored.com/are-vacuum-blenders-worth-it/)**
+**[Related Article:Are vacuum blenders worth it?](/posts/are-vacuum-blenders-worth-it/)**
 
 ## **Warranty and Care**
 
@@ -84,7 +84,7 @@ The Ninja bl700 Blender is a high-quality blender that has the ability make smoo
 -   The other factor to consider is the multiple settings and attachments that make the instrument versatile.
 -   Finally, consider your needs when determining if the Ninja BL700 Blender is worth the price. If you only need a blender for occasional use, then a less expensive model may be a great option. However, if you plan on using the blender frequently or for large batches of food, then the Ninja bl700 Blender may be worth the investment.
 
-**[Related Article: Are glass blenders better than plastic](http://kitchenexplored.com/are-glass-blenders-better-than-plastic/)**
+**[Related Article: Are glass blenders better than plastic](/posts/are-glass-blenders-better-than-plastic/)**
 
 **Conclusion**
 

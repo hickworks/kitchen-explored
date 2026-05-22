@@ -23,7 +23,7 @@ To carry out this operation you will need the following:
 -   Safety goggles
 -   Gloves
 
-[**Related Article: How to vent a kitchen sink under a window?**](http://kitchenexplored.com/how-to-vent-a-kitchen-sink-under-a-window/)
+[**Related Article: How to vent a kitchen sink under a window?**](/posts/how-to-vent-a-kitchen-sink-under-a-window/)
 
 ## Steps to tighten kitchen faucet nut under sink
 
@@ -62,7 +62,7 @@ There are many alternatives to a wrench that you can use depending on the task y
 -   **Duct tape:** Duct tape is also a great alternative that can be used to tighten sink nuts.
 -   **Zip Tie:** This is also a great substitute for a basin wrench.
 
-[**Related Article: What causes low water pressure in kitchen sink?**](http://kitchenexplored.com/what-causes-low-water-pressure-in-kitchen-sink/)
+[**Related Article: What causes low water pressure in kitchen sink?**](/posts/what-causes-low-water-pressure-in-kitchen-sink/)
 
 ## Frequently Asked Questions
 
@@ -74,4 +74,4 @@ A basin wrench is the most commonly used tool for tightening bolts under a sink.
 
 We can conclude by saying that tightening a kitchen faucet nut under the sink is a simple process that requires the right tools to carry out the task. As we have seen all you need is a basin wrench and the above steps to fix. This process can be carried out by a beginner because its easy. Tightening the nut will help you save a number of problems.
 
-[**Related Article: When is the best time to remodel kitchen?**](http://kitchenexplored.com/when-is-the-best-time-to-remodel-kitchen/)
+[**Related Article: When is the best time to remodel kitchen?**](/posts/when-is-the-best-time-to-remodel-kitchen/)

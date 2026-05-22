@@ -17,7 +17,7 @@ Can you use Vitamix to grind meat?
 
 **Yes, you can use Vitamix to grind meat. This operation is possible but the Vitamix is not the ideal appliance to carry out this job and using it can be a bit tricky. To carry out the operation, you will need the right technique and precautions to enable you to achieve great results. To add on top, you will require sharp blades and also ensure not to over blend which may lead to overheating or even damaging the blender.**
 
-[**Related Article: Can the magic bullet crush ice?**](http://kitchenexplored.com/can-magic-bullet-blend-ice/)
+[**Related Article: Can the magic bullet crush ice?**](/posts/can-magic-bullet-blend-ice/)
 
 ## Pros
 
@@ -45,7 +45,7 @@ The following is the process of grinding meat in a blender:
 6.  Once you are done grinding, you can use the meat immediately or store it in a freezer or refrigerator.
 7.  After completing the operation, clean the blender. It is important because it will prevent cross-contamination with other blends.
 
-**[Related Article: Can You Whip Egg Whites in A Blender?](http://kitchenexplored.com/can-you-whip-egg-whites-in-a-blender/)**
+**[Related Article: Can You Whip Egg Whites in A Blender?](/posts/can-you-whip-egg-whites-in-a-blender/)**
 
 ## Safety Precautions for Grinding Meat in a Vitamix
 
@@ -80,7 +80,7 @@ It is okay to grind meat in a blender though is not the best way for grinding me
 
 The main difference between a meat grinder and a blender is its design and functionality. Meat grinders are used to grind meat while blenders are used to blend in blending operations.
 
-**[Related Article: Can you shred chicken in a Ninja blender?](http://kitchenexplored.com/can-you-shred-chicken-in-a-ninja-blender/)**
+**[Related Article: Can you shred chicken in a Ninja blender?](/posts/can-you-shred-chicken-in-a-ninja-blender/)**
 
 ## Conclusion “Can you use Vitamix to grind meat”
 

@@ -44,7 +44,7 @@ Below are some of the major features of a portable infrared grill:
 
 The list also includes some of the best portable infrared gas grill.
 
-**Related Article: [Best speed oven](http://kitchenexplored.com/best-speed-oven/)**
+**Related Article: [Best speed oven](/posts/best-speed-oven/)**
 
 * * *
 
@@ -99,7 +99,7 @@ The gourmet series also has a disposable propane canister feature. Other feature
 
 -   Some people say its purchasing is price is a bit high. However, on our side it is worth the price.
 
-**Related Article: [Best French door toaster oven](http://kitchenexplored.com/best-french-door-toaster-oven/)**
+**Related Article: [Best French door toaster oven](/posts/best-french-door-toaster-oven/)**
 
 * * *
 
@@ -201,7 +201,7 @@ The special v-grate also enables you to achieve full flavor and also reduces fla
 
 -   The grill has a limited hood height.
 
-**Related Article: [Barrel House Cooker vs Pit Barrel Cooker](http://kitchenexplored.com/barrel-house-cooker-vs-pit-barrel-cooker/)**
+**Related Article: [Barrel House Cooker vs Pit Barrel Cooker](/posts/barrel-house-cooker-vs-pit-barrel-cooker/)**
 
 * * *
 

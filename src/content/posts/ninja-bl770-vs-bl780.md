@@ -15,7 +15,7 @@ What is the difference between ninja BL780 vs BL770?
 
 **The difference between the Ninja BL770 vs BL780 is the power of the motor. The Ninja BL770 has 1500 watts of motor power while the Ninja BL780 has 1200 watts of motor power. This means that the BL770 can blend tougher ingredients than the BL780.**
 
-**[Related Article: Ninja BL660 vs BL610](http://kitchenexplored.com/ninja-bl660-vs-bl610/)**
+**[Related Article: Ninja BL660 vs BL610](/posts/ninja-bl660-vs-bl610/)**
 
 * * *
 
@@ -100,7 +100,7 @@ The Ninja BL770 is also built with an exclusive power boost that enables you to 
 
 The Ninja BL770 can carry out the following tasks, chopping, dice, slicing and pureeing. This means that you will be able to create delicious sauces, soups, dips and more.
 
-**[Related Article: Ninja BL641 vs BL642](http://kitchenexplored.com/ninja-bl641-vs-bl642/)**
+**[Related Article: Ninja BL641 vs BL642](/posts/ninja-bl641-vs-bl642/)**
 
 ### Remarks regarding the Ninja BL770
 
@@ -172,7 +172,7 @@ The noise level produced by the Ninja BL780 is 72 decibels. This noise level is 
 
 The Ninja BL780 blender can handle a variety of tasks, including tougher ones due to its powerful motor. Its versatility enables the blender to carry a wide variety of tasks.
 
-**[Related Article: Ninja CE201 vs CE251](http://kitchenexplored.com/ninja-ce201-vs-ce251/)**
+**[Related Article: Ninja CE201 vs CE251](/posts/ninja-ce201-vs-ce251/)**
 
 * * *
 
@@ -206,7 +206,7 @@ The following are the differences between the Ninja BL770 and Bl780:
 2.  Function and frequency of use. If you use it frequently and also blend tough foods, then a high-end blender will be applicable. On the other hand, you can go for a less powered blender if you don't use it regularly or use it to blend tougher ingredients.
 3.  Cost - Blenders range from low-priced ones to high priced blenders. Choose one that fits your budget and also suits your needs.
 
-**[Related Article: Venturist vs ascent](http://kitchenexplored.com/vitamix-ascent-vs-venturist/)**
+**[Related Article: Venturist vs ascent](/posts/vitamix-ascent-vs-venturist/)**
 
 * * *
 

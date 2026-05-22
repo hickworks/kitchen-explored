@@ -13,7 +13,7 @@ Would you like to know whether ice can sharpen blender blades? If yes, this arti
 
 **No, ice cannot sharpen blender blades. Blending ice can only clean and remove debris materials from the blade. The blades are made from stainless steel and require a sharpener to effectively sharpen them**. **You can sharpen the blades well with a sharper and not ice.**
 
-**[Related Article: Does ice sharpen blender blades?](http://kitchenexplored.com/can-you-grind-cinnamon-sticks-in-a-blender/)**
+**[Related Article: Does ice sharpen blender blades?](/posts/can-you-grind-cinnamon-sticks-in-a-blender/)**
 
 ## Benefits sharp blender blades
 
@@ -41,7 +41,7 @@ The following is a simple process of carrying out process of sharpening blender 
 5.  Once you are done and satisfied, you can assemble back the blade assembly and then the blender.
 6.  If you are not sure what to do, consult the services of a professional.
 
-**[Related Article: Do eggshells sharpen blender blades?](http://kitchenexplored.com/do-eggshells-sharpen-blender-blades/)**
+**[Related Article: Do eggshells sharpen blender blades?](/posts/do-eggshells-sharpen-blender-blades/)**
 
 ## The potential effects of using ice on blender blades
 
@@ -83,7 +83,7 @@ No, it is not recommed because ice can dull the blender blades.
 
 Egg shell cannot sharpen blender blades. The egges can also dull the blender blades.
 
-**[Related Article: Can you shred chicken with a food processor?](http://kitchenexplored.com/can-you-shred-chicken-with-a-food-processor/)**
+**[Related Article: Can you shred chicken with a food processor?](/posts/can-you-shred-chicken-with-a-food-processor/)**
 
 ## Conclusion
 

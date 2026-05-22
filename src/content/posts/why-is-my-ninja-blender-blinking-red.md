@@ -13,7 +13,7 @@ Would you like to know why your blender is blinking red? If you own a blender, w
 
 **A ninja blender blinking red may occur indicating that there is a faulty or problem with the blender. Some of the reasons for the blender blinking red are overheating, power issues, the pitcher improperly installed, blade obstruction, dirt and finally faulty motor.**
 
-[**Related Article: Ninja SS351 vs BN801**](http://kitchenexplored.com/ninja-ss351-vs-bn801/)
+[**Related Article: Ninja SS351 vs BN801**](/posts/ninja-ss351-vs-bn801/)
 
 ## Reasons why Ninja blenders blink red
 
@@ -41,7 +41,7 @@ If you have tried solving using the above methods, then it well be important to 
 -   You can also seek customer support when the blender requires replacement parts. After checking the issue, you can find that cord or any part is damaged, such parts will need replacements.
 -   Customer service support has the ability to solve this problem from happening again.
 
-[**Related Article: Ninja BL910 vs BL770**](http://kitchenexplored.com/ninja-bl910-vs-bl770/)
+[**Related Article: Ninja BL910 vs BL770**](/posts/ninja-bl910-vs-bl770/)
 
 ## Frequently Asked Questions
 
@@ -67,4 +67,4 @@ We can conclude by saying the Ninja blender blinking red is an important safety 
 
 To add on top of this, clean your blender frequently after use and also follow the manufactures guide to prevent future problems. If you care and maintain the Ninja blender, it will offer you many years of excellent performance. Hope this article has been helpful to you.
 
-[**Related Article: Ninja bl610 vs bl710**](http://kitchenexplored.com/ninja-bl610-vs-bl710/)
+[**Related Article: Ninja bl610 vs bl710**](/posts/ninja-bl610-vs-bl710/)

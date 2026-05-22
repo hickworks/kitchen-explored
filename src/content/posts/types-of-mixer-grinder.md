@@ -20,7 +20,7 @@ There are two main types of mixer grinders:
 -   **Stand mixers**: These are larger mixers that are mounted on a stand. They are often used for mixing larger quantities of ingredients, and some models come with attachments for grinding, blending, and other food preparation tasks.
 -   **Traditional mixers:** This kind of mixer grinders have the ability to grind and mix ingredients thereby enabling you to achieve a smooth and also a fine paste. They are the most used mixer grinders, can be found in most households.
 
-[**Related Article: What are the different types of juicers?**](http://kitchenexplored.com/different-types-of-juicers/)
+[**Related Article: What are the different types of juicers?**](/posts/different-types-of-juicers/)
 
 ## Different Types of Mixers Grinders
 
@@ -41,7 +41,7 @@ There are several types of mixers and grinders, each designed for a specific pur
 5.  **Whipping blades**: These blades are used for whipping and aerating ingredients, such as cream and eggs. They are typically made of stainless steel and have a curved, slotted design that allows them to create a vortex in the ingredients and incorporate air into them.
 6.  **Pounding Blade**: This is a dry grinding blade where the edges of the blade are thick and blunt. It ensures the pounding effect on dry masala powders.
 
-**[Related Article: Different types of blender blades](http://kitchenexplored.com/types-of-blender-blades/)**
+**[Related Article: Different types of blender blades](/posts/types-of-blender-blades/)**
 
 ## How to Choose the Right Mixer Grinder for Yourself?
 
@@ -57,7 +57,7 @@ When choosing a mixer grinder for yourself, there are several factors to conside
 
 **Your personal preferences**: Ultimately, the right mixer grinder for you will be one that meets your specific needs and preferences. Consider the factors above, and choose a mixer grinder that you feel will be the best fit for your needs.
 
-**[Related Article: Best Blender for Making Flour](http://kitchenexplored.com/best-blender-for-making-flour-2/)**
+**[Related Article: Best Blender for Making Flour](/posts/best-blender-for-making-flour-2/)**
 
 ## Conclusion
 

@@ -15,7 +15,7 @@ Can I grind coffee beans in a Vitamix?
 
 **Yes, you can use your Vitamix to grind whole coffee beans into freshly ground coffee. All you have to do is put the coffee beans into the Vitamix and pulse until you achieve ground coffee beans to your preference. This is possible because Vitamix is equipped with powerful motors and blades that has the ability to grind coffee beans to fine and consistent textures.**
 
-[**Related Article: Can the nutribullet blend frozen fruit?**](http://kitchenexplored.com/can-nutribullet-blend-frozen-fruit/)
+[**Related Article: Can the nutribullet blend frozen fruit?**](/posts/can-nutribullet-blend-frozen-fruit/)
 
 From the above statement, now we know that the Vitamix has the ability to grind coffee beans. The big question now is which Vitamix is the best for this task. It is wise to keep in mind the Vitamix has a wide variety of instruments which differ from size, price as well as functionality. Below is a small list of the best 2 Vitamix blenders that are suitable for grinding coffee beans.
 
@@ -57,7 +57,7 @@ Vitamix are very powerful instruments that have the ability to deliver great res
 -   **Cost** - It’s expensive to buy a Vitamix just for grinding coffee beans (although it’s worth it if you’re also going to use it for other things).
 -   **Beans** - You need to have enough beans to fill the container, otherwise the blades won’t be able to do their job properly (and this could damage your machine).
 
-**[Related Article: Is naked juice healthy?](http://kitchenexplored.com/is-naked-juice-healthy/)**
+**[Related Article: Is naked juice healthy?](/posts/is-naked-juice-healthy/)**
 
 ## Benefits of Coffee
 
@@ -77,4 +77,4 @@ It is not recommended to grind coffee beans in using a wet container, because th
 
 The answer is yes, although it may not be the ideal way to grind coffee beans, it is definitely possible to get the job done in a pinch. Just make sure to use the pulse function and start with slow speed so that you don't overdo it.
 
-**[Related Article: What Is the Right Wattage for A Blender to Crush Ice?](http://kitchenexplored.com/how-many-watts-does-a-blender-need-to-crush-ice/)**
+**[Related Article: What Is the Right Wattage for A Blender to Crush Ice?](/posts/how-many-watts-does-a-blender-need-to-crush-ice/)**

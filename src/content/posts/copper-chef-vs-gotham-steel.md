@@ -13,7 +13,7 @@ Would you like to know the difference between the copper chef vs Gotham Steel? I
 
 **The main difference between copper chef and Gotham steel is the material. Gotham features a titanium ceramic coating while Copper Chef has a ceramic coating.**
 
-[**Related Article: Demeyere vs All Clad**](http://kitchenexplored.com/demeyere-vs-all-clad/)
+[**Related Article: Demeyere vs All Clad**](/posts/demeyere-vs-all-clad/)
 
 * * *
 
@@ -68,7 +68,7 @@ Finally, Gotham can be used in an oven up to 500 degrees Fahrenheit or 260 degre
 
 -   The cost of purchasing them is quite high, though it is worth the price.
 
-[**Related Article: All clad ns1 vs b1**](http://kitchenexplored.com/all-clad-ns1-vs-b1/)
+[**Related Article: All clad ns1 vs b1**](/posts/all-clad-ns1-vs-b1/)
 
 * * *
 
@@ -111,7 +111,7 @@ Yes, you can bake in a Gotham steel pan. These pans are oven safe up to 260 degr
 
 Gotham steel pans can be used in deep frying. Gotham steel pans are advertised as non-stick pans that can carry out a variety of cooking operations, this includes frying, boiling, baking and more. So, you are rest assured that you will be able to carry a convenient deep-frying operation.
 
-[**Related Article: Corelle Vs Mikasa**](http://kitchenexplored.com/corelle-vs-mikasa/)
+[**Related Article: Corelle Vs Mikasa**](/posts/corelle-vs-mikasa/)
 
 * * *
 

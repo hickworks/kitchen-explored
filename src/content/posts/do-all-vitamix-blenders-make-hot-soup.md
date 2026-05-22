@@ -17,7 +17,7 @@ Do all Vitamix blenders make hot soup?
 
 If you're looking for a Vitamix that can make soup, we recommend the **Vitamix Professional Series 750**. The Vitamix professional Series 750 comes with a Soup Maker Program that has the capability of heating and also stirs your soup to perfection. To add on top, the instrument comes with a self-cleaning function so you don't have to worry about cleaning it by hand.
 
-**[Related Article: What blender does Starbucks use?](http://kitchenexplored.com/what-blenders-do-starbucks-use/)**
+**[Related Article: What blender does Starbucks use?](/posts/what-blenders-do-starbucks-use/)**
 
 ## How does Vitamix make hot soup?
 
@@ -54,7 +54,7 @@ Finally, here are some general tips for making great soup in your Vitamix:
 -   Do not overfill the Vitamix blender. Soup usually expands while it's being blended, so leave some significant room at the top of the pitcher for soup expansion .
 -   To make it very quick, you can start with a warm liquid to speed up the speed of heating up the soup.
 
-**[Related Article: Why are Vitamix blenders so expensive?](http://kitchenexplored.com/why-are-vitamix-blenders-so-expensive/)**
+**[Related Article: Why are Vitamix blenders so expensive?](/posts/why-are-vitamix-blenders-so-expensive/)**
 
 ## How To Find the Right Vitamix blender for hot soup?
 
@@ -84,7 +84,7 @@ Here are some alternative blenders that are great for making soup:
 -   The Nutribullet RX N17-1001 is another great option for making soup. It built with a 30-ounce and 1700 watts of power. It can definitely handle anything you throw its way.
 -   If you're looking for something a bit more budget-friendly, the Hamilton Beach Wave Crusher Blender is a great option. It has a 40-ounce jar and 700 watts of power, so it's not as powerful as some of the other options on this list but it's still more than capable of making delicious soup.
 
-**[Related Article: Are vacuum blenders worth it?](http://kitchenexplored.com/are-vacuum-blenders-worth-it/)**
+**[Related Article: Are vacuum blenders worth it?](/posts/are-vacuum-blenders-worth-it/)**
 
 ## Conclusion “  Do all Vitamix blenders make hot soup”
 

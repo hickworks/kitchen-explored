@@ -13,7 +13,7 @@ Would you like to know whether it is safe to pour boiling water down kitchen sin
 
 **Yes, it is safe to pour boiling water down kitchen sink. Boiling water is very effective to remove accumulated grease, fats and other substances that clog the sink and even the drainage system. However, it is also important to consider the material of your sink as we as drainage pipes because boiling water can damage them if they are unable withstand high heat.**
 
-**[Related Article: How to keep brushed nickel faucets from spotting?](http://kitchenexplored.com/how-to-keep-brushed-nickel-faucets-from-spotting/)**
+**[Related Article: How to keep brushed nickel faucets from spotting?](/posts/how-to-keep-brushed-nickel-faucets-from-spotting/)**
 
 * * *
 
@@ -51,7 +51,7 @@ Here are the effects of boiled water on composite sinks:
 -   **Color discoloration** – When exposed to boiled water for a long time they may end up fading slightly. Following the manufactures instructions will help you maintain the color and appearance of the sink.
 -   **Resin** – Composite sinks heavily rely on resin to hold their natural properties. Boiled water is very safe to the sink but excess heat can adversely affect the resin life span. To retain the sink's strength, it is good to avoid putting hot pots as well as pan directly onto the surface of the sink. You can use a trivet and even heat-resistant pads to protect the sink.
 
-[**Related Article: Can you replace a kitchen sink without replacing the countertop?**](http://kitchenexplored.com/can-you-replace-a-kitchen-sink-without-replacing-the-countertop/)
+[**Related Article: Can you replace a kitchen sink without replacing the countertop?**](/posts/can-you-replace-a-kitchen-sink-without-replacing-the-countertop/)
 
 * * *
 
@@ -108,7 +108,7 @@ The time taken to unclog the drain highly relies on the nature of the clog. Boil
 
 Pouring boiled water down a drainage can help unclog minor clogs such as grease and soap scum. The boiled water melts the substances which enables them to flow easily down the drainage. It is also important to know that this process may not be effective on complex clogs.
 
-**[Related Article: Why is my kitchen sink backing up?](http://kitchenexplored.com/why-is-my-kitchen-sink-backing-up/)**
+**[Related Article: Why is my kitchen sink backing up?](/posts/why-is-my-kitchen-sink-backing-up/)**
 
 * * *
 

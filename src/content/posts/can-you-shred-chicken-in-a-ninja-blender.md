@@ -15,7 +15,7 @@ Can you shred chicken in a Ninja blender?
 
 Chopping up some chicken is usually a time-consuming task that takes quite a lot of time and effort. With your busy schedule, you probably don't have the time to spend on this. But thanks to the Ninja blender, you can now do this with minimal effort.
 
-**[Related Article: What Happens When You Put Soda in A Blender?](http://kitchenexplored.com/can-you-put-soda-in-a-blender/)**
+**[Related Article: What Happens When You Put Soda in A Blender?](/posts/can-you-put-soda-in-a-blender/)**
 
 ## Can I shred chicken in a blender?
 
@@ -72,7 +72,7 @@ There are a lot of different factors to consider when purchasing a blender. One 
 -   It can be costly.
 -   Can be expensive to purchase one.
 
-**[Related Article: Can You Make Pesto in a Blender?](http://kitchenexplored.com/can-you-make-pesto-in-a-blender/)**
+**[Related Article: Can You Make Pesto in a Blender?](/posts/can-you-make-pesto-in-a-blender/)**
 
 ## The following are easy ways to shred chicken.
 
@@ -102,7 +102,7 @@ Another way to add flavor to your chicken is by marinating it before cooking. Th
 
 Finally, if you want to add some extra texture and crunch to your dish, consider breading and frying your chicken. This gives it a crispy exterior that pairs perfectly with the juicy interior of the chicken. If you're feeling really adventurous, you could even try deep-frying your chicken for an ultra-crispy result.
 
-**[Related Article: Can You Grind Coffee Beans in a Vitamix?](http://kitchenexplored.com/can-you-grind-coffee-beans-in-a-vitamix/)**
+**[Related Article: Can You Grind Coffee Beans in a Vitamix?](/posts/can-you-grind-coffee-beans-in-a-vitamix/)**
 
 ## Conclusion “Can you shred chicken in a ninja blender”.
 

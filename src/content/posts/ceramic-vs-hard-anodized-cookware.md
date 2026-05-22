@@ -15,7 +15,7 @@ Let’s get started,
 
 **The main difference between Ceramic and anodized cookware is the material construction and also process. Ceramic cookware is made of kaolin clay that is fired at very high temperatures while hard anodized cookware is made of aluminum that is well treated with an electrolytic process.**
 
-[**Related Article: Copper Chef vs Gotham Steel**](http://kitchenexplored.com/copper-chef-vs-gotham-steel/)
+[**Related Article: Copper Chef vs Gotham Steel**](/posts/copper-chef-vs-gotham-steel/)
 
 * * *
 
@@ -75,7 +75,7 @@ The following are ways to maintain and care for ceramic cookware:
 
 Ceramic is a perfect option for anyone looking for non-stick cookware that is durable and has the ability to provide a convenient cooking operation.
 
-[**Related Article: Demeyere vs All Clad**](http://kitchenexplored.com/demeyere-vs-all-clad/)
+[**Related Article: Demeyere vs All Clad**](/posts/demeyere-vs-all-clad/)
 
 * * *
 
@@ -118,7 +118,7 @@ Hard anodized cookware is made from aluminum which acts as a soft meta. The alum
 -   **Oven safe** – Ceramic cookware can be used in ovens and microwaves because they are oven safe while Hard anodized is not safe in the oven.
 -   **Weight** – Hard anodized cookware is heavier than ceramic cookware.
 
-[**Related Article: All clad ns1 vs b1**](http://kitchenexplored.com/all-clad-ns1-vs-b1/)
+[**Related Article: All clad ns1 vs b1**](/posts/all-clad-ns1-vs-b1/)
 
 * * *
 

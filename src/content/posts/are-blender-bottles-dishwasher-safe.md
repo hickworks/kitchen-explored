@@ -13,7 +13,7 @@ Would you like to know whether blender bottles are dishwasher safe? If you are a
 
 **Yes, most blender bottles are dishwasher safe. However, it is very important to check the manufactures manual or instructions to check whether the bottle is dishwasher safe. This is because some bottles may not be dishwasher safe hence they may get damaged when washed in the dishwasher. To add on top, when cleaning blender bottles in a dishwasher, some components are supposed to be removed such as blender ball and more.**
 
-[**Related Article: Why is my ninja blender blinking red?**](http://kitchenexplored.com/why-is-my-ninja-blender-blinking-red/)
+[**Related Article: Why is my ninja blender blinking red?**](/posts/why-is-my-ninja-blender-blinking-red/)
 
 ## Process of cleaning Blender bottles in a dishwasher
 
@@ -38,7 +38,7 @@ Would you like to know whether blender bottles are dishwasher safe? If you are a
 -   They have a compact design hence unable to accommodate large batches.
 -   They also have limited functionality.
 
-[**Related Article: Best blender for acai bowls**](http://kitchenexplored.com/best-blender-for-acai-bowls/)
+[**Related Article: Best blender for acai bowls**](/posts/best-blender-for-acai-bowls/)
 
 ## **Non-Dishwasher-Safe** **Blender Bottles**
 
@@ -73,7 +73,7 @@ Yes, most blender bottles are machine-washer safe. However, it is very important
 
 You can wash a plastic blender bottle with a handwash or a dishwasher. The method to be applied heavily depends on the material of the blender bottle. If the material is not dishwasher safe, then handwashing will be the perfect option.
 
-[**Related Article: Best Immersion Blender For Soap Making**](http://kitchenexplored.com/best-immersion-blender-for-soap-making/)
+[**Related Article: Best Immersion Blender For Soap Making**](/posts/best-immersion-blender-for-soap-making/)
 
 ## Conclusion
 

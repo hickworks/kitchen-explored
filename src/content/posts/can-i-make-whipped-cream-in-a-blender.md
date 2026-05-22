@@ -13,7 +13,7 @@ We all love the creamy, fluffy texture produced by whipped cream. The big questi
 
 **Yes, you can make whipped cream using a blender. The process is very simple, all you need is cream, sugar and vanilla extract. Put all these ingredients into the blender and use the high setting for 30 seconds. It is also recommended to start with slow speed settings as you increase. If the texture does not please you, you can repeat the process again until you achieve your desired results.**
 
-**[Related Article: Can You Make Coffee in A Magic Bullet?](http://kitchenexplored.com/can-you-grind-coffee-in-a-magic-bullet/)**
+**[Related Article: Can You Make Coffee in A Magic Bullet?](/posts/can-you-grind-coffee-in-a-magic-bullet/)**
 
 ## Introduction to Making Whipped Cream
 
@@ -47,7 +47,7 @@ The following are some of the benefits of using a blender to make whipped cream.
 -   The process is simple and fast.
 -   Saves time.
 
-**[Related Article: Can You Use a Blender as A Food Processor?](http://kitchenexplored.com/can-you-use-a-blender-as-a-food-processor/)**
+**[Related Article: Can You Use a Blender as A Food Processor?](/posts/can-you-use-a-blender-as-a-food-processor/)**
 
 ## Cons of Making Whipped Cream in a Blender
 
@@ -74,7 +74,7 @@ They include:
 -   **Electric and hand whisker** - These 2 methods are very simple to carry. All you need is heavy whipping cream and sugar. You will start off by pouring ingredients into the bowl. The next step is to turn on the electric mixer or start whisking until you achieve your desired texture. For hand whisking the process depends on your strength and speed. The process produces airy fluffy textures that can be used on cakes and more.
 -   Food processor - A food processor is also another alternative. The process is simple, fast and time-saving.
 
-**[Related Article: Can you grind Coffee in a Nutribullet?](http://kitchenexplored.com/can-nutribullet-grind-coffee/)**
+**[Related Article: Can you grind Coffee in a Nutribullet?](/posts/can-nutribullet-grind-coffee/)**
 
 ## Conclusion
 

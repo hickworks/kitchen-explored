@@ -13,7 +13,7 @@ Would you like to know the difference between the Vitamix E320 vs 750? If yes, t
 
 **The difference between the Vitamix E320 and the Vitamix 750 is pre-programmable settings. The Vitamix 750 has pre-programmed settings while the Vitamix E320 is not equipped with pre-programmable settings.**
 
-**[_Related Article: Vitamix 750 vs A3500_](http://kitchenexplored.com/vitamix-750-vs-a3500/)**
+**[_Related Article: Vitamix 750 vs A3500_](/posts/vitamix-750-vs-a3500/)**
 
 * * *
 
@@ -47,7 +47,7 @@ To clean the Vitamix explorian E320 is easy to clean because it comes with an in
 
 This blender is perfect for any person who wants a high-performance blender that has the capability to carry out a variety of blending operations.
 
-**[_Related Article: Vitamix E320 Vs. E520_](http://kitchenexplored.com/vitamix-e320-vs-e520/)**
+**[_Related Article: Vitamix E320 Vs. E520_](/posts/vitamix-e320-vs-e520/)**
 
 * * *
 
@@ -102,7 +102,7 @@ Unlike the Vitamix E320, the Vitamix 750 with preprogrammed settings which are s
 2.  **Price** – This Vitamix E320 is slightly cheaper with a price tag o $406 compared to the Vitamix 750 which is a bit with a price tag of $537.
 3.  **Noise** – The noise level produced by the Vitamix 750 is higher than the Vitamix E320.
 
-**_[Related Article: Vitamix 750 vs Vitamix 1200](http://kitchenexplored.com/vitamix-750-vs-v1200/)_**
+**_[Related Article: Vitamix 750 vs Vitamix 1200](/posts/vitamix-750-vs-v1200/)_**
 
 * * *
 

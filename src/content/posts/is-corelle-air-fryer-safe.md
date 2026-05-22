@@ -15,7 +15,7 @@ Is the Corelle Air Fryer Safe to Use?
 
 **Corelle air fryers are safe to use in an air fryer. You can use Corelle can withstand temperatures of up to temperatures of 176 degrees Celsius. It is also important to check whether your Corelle cookware is suitable for an air fryer because some are not.**
 
-**[Related Articles: IS PYROCERAM TOXIC](http://kitchenexplored.com/is-pyroceram-toxic/)**?
+**[Related Articles: IS PYROCERAM TOXIC](/posts/is-pyroceram-toxic/)**?
 
 ## ****Introduction****
 
@@ -96,7 +96,7 @@ Once done cleaning, you can store it in a clean and dry place with the lid open 
 
 In case cleaning is a bit hard for you, you can refer to the manual for help in cleaning the instrument.
 
-**[Related Article: Is naked juice healthy?](http://kitchenexplored.com/is-naked-juice-healthy/)**
+**[Related Article: Is naked juice healthy?](/posts/is-naked-juice-healthy/)**
 
 ## Alternatives to the Corelle Air Fryer
 

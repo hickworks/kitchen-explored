@@ -20,7 +20,7 @@ Let’s get started,
 -   **Mason Jar**
 -   **Coffee Grinder**
 
-**[Related Article: Can you make hummus in a ninja blender?](http://kitchenexplored.com/can-you-make-hummus-in-a-ninja-blender/)**
+**[Related Article: Can you make hummus in a ninja blender?](/posts/can-you-make-hummus-in-a-ninja-blender/)**
 
 ## What is Bulletproof Coffee?
 
@@ -40,7 +40,7 @@ The other process for making a Bulletproof Coffee without a blender is a handmix
 
 During this step you can also add your favorite ingredients. Finally, use a hand mixer (or a whisk if you don't have one) to froth the coffee until it's light and fluffy. Enjoy.
 
-**[Related Article: Can you use Vitamix to grind meat?](http://kitchenexplored.com/can-you-grind-meat-in-a-vitamix/)**
+**[Related Article: Can you use Vitamix to grind meat?](/posts/can-you-grind-meat-in-a-vitamix/)**
 
 **Mason Jar**
 
@@ -79,7 +79,7 @@ If you're looking for an alternative for bulletproof coffee, there are several o
 
 Some people prefer to avoid dairy, so they may use vegan alternatives like coconut milk or almond milk. Others may prefer to avoid caffeine, so they may use decaffeinated coffee or tea.
 
-**[Related Article: What is a blender and what can it do?](http://kitchenexplored.com/can-you-whip-egg-whites-in-a-blender/)**
+**[Related Article: What is a blender and what can it do?](/posts/can-you-whip-egg-whites-in-a-blender/)**
 
 ## Conclusion
 

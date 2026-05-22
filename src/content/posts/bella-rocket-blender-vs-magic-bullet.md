@@ -11,7 +11,7 @@ Would you like to know the difference between the Bella rocket blender vs magic 
 
 **The main difference between the Bella rocker blender and the magic bullet is the power of their motors. The Bella rocker has models for a 240 and 285-watt motor. On the other, the magic bullet has models for 200 and 250-watt motors. This shows us that the Bella rocket blenders are more powerful hence can handle tougher ingredients than the magic bullet.**
 
-**[Related Article: Vitamix v1200 vs a2300](http://kitchenexplored.com/vitamix-v1200-vs-a2300/)**
+**[Related Article: Vitamix v1200 vs a2300](/posts/vitamix-v1200-vs-a2300/)**
 
 * * *
 
@@ -71,7 +71,7 @@ Include:
 -   1x lip ring Blade
 -   Manual and recipe guide
 
-**[Related Article: Can You Make Coffee in A Magic Bullet?](http://kitchenexplored.com/can-you-grind-coffee-in-a-magic-bullet/)**
+**[Related Article: Can You Make Coffee in A Magic Bullet?](/posts/can-you-grind-coffee-in-a-magic-bullet/)**
 
 ### Pros of magic bullet
 
@@ -121,7 +121,7 @@ The following are the differences between the Bella rocket blender vs magic bull
 -   **Brand**: The Bella rocket is manufactured by Bella company while the Magic bullet is manufactured by Nutribullet.
 -   **Maximum speed**: Magic bullet has a high RPM of 21,400 while the Bella rocket has 18,900 RPM.
 
-**[Related Article: Vitamix 750 vs E320](http://kitchenexplored.com/vitamix-e320-vs-750/)**
+**[Related Article: Vitamix 750 vs E320](/posts/vitamix-e320-vs-750/)**
 
 * * *
 

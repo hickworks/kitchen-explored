@@ -17,7 +17,7 @@ This is a question that has been disturbing many people whether or not you can u
 
 The Ninja Blenders are versatile kitchen appliances that can be used to make a variety of foods and beverages. In this article, we will be talking about the Ninja Blender to make hummus.
 
-**[Related Article: Can you make hummus in a ninja blender?](http://kitchenexplored.com/how-to-blend-without-a-blender/)**
+**[Related Article: Can you make hummus in a ninja blender?](/posts/how-to-blend-without-a-blender/)**
 
 ## What is Hummus?
 
@@ -49,7 +49,7 @@ Yes, you can make hummus in a Ninja Blender. The process is fairly simple and do
 
 5\. Serve with pita bread or crackers.
 
-**[Related Article: Can you use Vitamix to grind meat?](http://kitchenexplored.com/can-you-grind-meat-in-a-vitamix/)**
+**[Related Article: Can you use Vitamix to grind meat?](/posts/can-you-grind-meat-in-a-vitamix/)**
 
 ## Benefits of Hummus
 
@@ -75,7 +75,7 @@ The Ninja Mega Kitchen
 
 **Peel chickpeas** – This will be great if you want a super smooth hummus.
 
-**[Related Article: Can the magic bullet crush ice?](http://kitchenexplored.com/can-magic-bullet-blend-ice/)**
+**[Related Article: Can the magic bullet crush ice?](/posts/can-magic-bullet-blend-ice/)**
 
 ## Conclusion “Can you make hummus in a ninja blender?”
 

@@ -13,7 +13,7 @@ Nowadays a blender has become an essential kitchen appliance and choosing the ri
 
 **The main difference between the Vitamix A2500 and E320 is the power of the motor. The Vitamix A2500 has a 1440-watt motor while the Vitamix E320 has a 1200-watt motor. This means that the A2500 has more capabilities to blend tougher ingredients than the E320.**
 
-[**Related Article: Vitamix e520 vs 7500**](http://kitchenexplored.com/vitamix-e520-vs-7500-2/)
+[**Related Article: Vitamix e520 vs 7500**](/posts/vitamix-e520-vs-7500-2/)
 
 * * *
 
@@ -40,7 +40,7 @@ The Vitamix A2500 comes with a 64-ounce pitcher or container which is suitable f
 
 -   The blender can be noisy in some operations.
 
-[**Related Article: Best blender for acai bowls**](http://kitchenexplored.com/best-blender-for-acai-bowls/)
+[**Related Article: Best blender for acai bowls**](/posts/best-blender-for-acai-bowls/)
 
 * * *
 
@@ -74,7 +74,7 @@ Included components:
 
 -   The Vitamix E320 is not suitable for small counter space.
 
-[**Related Article: 13 Best Blender for Making Flour**](http://kitchenexplored.com/best-blender-for-making-flour-2/)
+[**Related Article: 13 Best Blender for Making Flour**](/posts/best-blender-for-making-flour-2/)
 
 * * *
 
@@ -105,7 +105,7 @@ Included components:
 -   **Weight** – The E320 has a weight of 13 pounds while the A2500 has a weight of 11 pounds. The E320 is heavier than the A2500.
 -   **Noise level** – The A2500 has a noise level of 95.9 dB while the E320 has a noise level of 97.9 dB. This shows us that the E320 is louder than the A2500.
 
-[**Related Article: Best Immersion Blender For Soap Making**](http://kitchenexplored.com/best-immersion-blender-for-soap-making/)
+[**Related Article: Best Immersion Blender For Soap Making**](/posts/best-immersion-blender-for-soap-making/)
 
 * * *
 

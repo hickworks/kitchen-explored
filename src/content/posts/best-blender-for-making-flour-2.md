@@ -27,7 +27,7 @@ The following are some of the best blenders for making flour:
 12.  **Vitamix A2500**
 13.  **Kitchen Aid**
 
-[**Related Article: Best blender for acai bowls**](http://kitchenexplored.com/best-blender-for-acai-bowls/)
+[**Related Article: Best blender for acai bowls**](/posts/best-blender-for-acai-bowls/)
 
 * * *
 
@@ -147,7 +147,7 @@ To add on top, it is constructed with a stainless steel blade that has the capab
 -   A few people have a problem operating the blender.
 -   Just like other blenders, the blender can be quite noisy.
 
-[**Related Article: Best Immersion Blender For Soap Making**](http://kitchenexplored.com/best-immersion-blender-for-soap-making/)
+[**Related Article: Best Immersion Blender For Soap Making**](/posts/best-immersion-blender-for-soap-making/)
 
 * * *
 
@@ -253,7 +253,7 @@ Finally, this blender comes with a 2-year warranty. This means that in case of a
 -   The purchasing price is quite high though it is worth the price.
 -   Not suitable for small kitchen counter spaces.
 
-**[Related Article: Bella rocket blender vs magic bullet](http://kitchenexplored.com/bella-rocket-blender-vs-magic-bullet/)**
+**[Related Article: Bella rocket blender vs magic bullet](/posts/bella-rocket-blender-vs-magic-bullet/)**
 
 * * *
 

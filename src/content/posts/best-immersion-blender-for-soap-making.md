@@ -17,7 +17,7 @@ It is very easy to use because all you have to do is submerge the blade into the
 
 The following are some of the best immersion blender for soap making:
 
-[**Related article:Bella rocket blender vs magic bullet**](http://kitchenexplored.com/bella-rocket-blender-vs-magic-bullet/)
+[**Related article:Bella rocket blender vs magic bullet**](/posts/bella-rocket-blender-vs-magic-bullet/)
 
 * * *
 
@@ -103,7 +103,7 @@ Additionally, the blender is equipped with detachable accessories that can be cl
 
 -   The blender can be quite loud when carrying out some operations.
 
-[**Related Article:Vitamix v1200 vs A2300**](http://kitchenexplored.com/vitamix-v1200-vs-a2300/)
+[**Related Article:Vitamix v1200 vs A2300**](/posts/vitamix-v1200-vs-a2300/)
 
 * * *
 
@@ -187,7 +187,7 @@ Finally, its ergonomic design enables you to experience a comfortable and smooth
 
 The blender can be quite loud.
 
-[**Related Article:Can You Grind Coffee in a Magic Bullet?**](http://kitchenexplored.com/can-you-grind-coffee-in-a-magic-bullet/)
+[**Related Article:Can You Grind Coffee in a Magic Bullet?**](/posts/can-you-grind-coffee-in-a-magic-bullet/)
 
 * * *
 
@@ -269,7 +269,7 @@ Finally, the blender comes with a 1-year warranty.
 
 -   The blender can be quite noisy during some operations.
 
-[**Related Article: Vitamix E320 vs 750**](http://kitchenexplored.com/vitamix-e320-vs-750/)
+[**Related Article: Vitamix E320 vs 750**](/posts/vitamix-e320-vs-750/)
 
 * * *
 

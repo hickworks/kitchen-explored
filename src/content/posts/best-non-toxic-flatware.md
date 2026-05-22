@@ -25,7 +25,7 @@ The following are some of the non toxic flatware available on the market:
 
 We have listed some of the top 10 best non-toxic flatware available on the market. This has been listed from well-conducted research, consolation from qualified personnel to reviews from trusted sources. We listed starting from the bottom to the top, e.g., 10 – 1.
 
-**[Related Article: Best utensils for stainless steel cookware](http://kitchenexplored.com/best-utensils-for-stainless-steel-cookware/)**
+**[Related Article: Best utensils for stainless steel cookware](/posts/best-utensils-for-stainless-steel-cookware/)**
 
 * * *
 
@@ -135,7 +135,7 @@ Additionally, lianyu also has a silver finish that offers an elegant and stylish
 -   A small percentage of consumers complain that lianyu dulls over time when used regularly.
 -   Requires proper care to last for a long time.
 
-**[Related Article: Ironstone dinnerware](http://kitchenexplored.com/what-is-ironstone-dinnerware/)**
+**[Related Article: Ironstone dinnerware](/posts/what-is-ironstone-dinnerware/)**
 
 * * *
 
@@ -285,7 +285,7 @@ Finally, the sets are equipped with an ergonomic handle that enhances comfort wh
 
 Uniformity - This product is hammered by hand; each piece will have slight variations from one another which can detract from its uniformity when placed on a table.
 
-**[Related Article:Is the green pan oven safe?](http://kitchenexplored.com/are-green-pans-oven-safe/)**
+**[Related Article:Is the green pan oven safe?](/posts/are-green-pans-oven-safe/)**
 
 * * *
 

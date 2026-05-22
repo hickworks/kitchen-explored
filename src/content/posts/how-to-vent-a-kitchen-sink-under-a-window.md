@@ -13,7 +13,7 @@ Would you like to know how to vent a kitchen sink under a window? If you are pla
 
 This guide will help you to take the steps that are required in constructing an effective and efficient vent. We have also discussed the types of vents that can be used, tools as well as materials required to carry out the task. Whether you are a beginner, intermediate or DIYer, then this guide is meant for you.
 
-[**Related Articel: What causes low water pressure in kitchen sink?**](http://kitchenexplored.com/what-causes-low-water-pressure-in-kitchen-sink/)
+[**Related Articel: What causes low water pressure in kitchen sink?**](/posts/what-causes-low-water-pressure-in-kitchen-sink/)
 
 ## Step-by-step guide for installing a ventilation system for a sink under a window
 
@@ -146,7 +146,7 @@ A sink and a vent should be close enough to the trap. The distance should not be
 
 Yes, you can vent a sink through a wall. It is known as a wall vent. In a vertical vent, the vent pipes are set vertically and go through the wall.
 
-**[Related Article: What does blinking red light mean on Ninja?](http://kitchenexplored.com/why-is-my-ninja-blender-blinking-red/)**
+**[Related Article: What does blinking red light mean on Ninja?](/posts/why-is-my-ninja-blender-blinking-red/)**
 
 ## **Conclusion**
 

@@ -15,7 +15,7 @@ Would you like to know whether you can whip egg whites in a blender? If yes, the
 
 Over-blending can lead to the egg whites into watery textures. This means it's very important to pay maximum attention and stop the blending process immediately after the egg whites reach your desired consistency. When you achieve fluffy and airy egg whites, this shows your blending operation has been convenient and effective.
 
-**[Related Article: Can you shred chicken in a Ninja blender?](http://kitchenexplored.com/can-you-shred-chicken-in-a-ninja-blender/)**
+**[Related Article: Can you shred chicken in a Ninja blender?](/posts/can-you-shred-chicken-in-a-ninja-blender/)**
 
 ## The Science of Whipping Egg Whites
 
@@ -65,7 +65,7 @@ The following are stages of whipping egg whites:
 -   **Stiff peak**: This is the last stage or also known as the final peak. This is the stage the egg whites are stiffer when you tilt the bowl.
 -   **Overbeaten**: This is also called an overdose stage which delivers unwanted results.
 
-**[Related Article: What Happens When You Put Soda in A Blender?](http://kitchenexplored.com/can-you-put-soda-in-a-blender/)**
+**[Related Article: What Happens When You Put Soda in A Blender?](/posts/can-you-put-soda-in-a-blender/)**
 
 ## Alternative methods of whipping egg whites
 
@@ -83,7 +83,7 @@ Other processes you can use include:
 -   Fork
 -   Ballon Whisk
 
-**[Related Article: Can You Make Pesto in a Blender?](http://kitchenexplored.com/can-you-make-pesto-in-a-blender/)**
+**[Related Article: Can You Make Pesto in a Blender?](/posts/can-you-make-pesto-in-a-blender/)**
 
 ## Frequently asked Questions
 
@@ -117,7 +117,7 @@ You will be unable to achieve a fluffy texture because of the following:
 -   Overbeat: An over-whipped white egg will not be fluffy.
 -   Dirt: Use a clean instrument, a dirty instrument can also affect the process.
 
-[**Related Article: Can You Grind Coffee Beans in a Vitamix?**](http://kitchenexplored.com/can-you-grind-coffee-beans-in-a-vitamix/)
+[**Related Article: Can You Grind Coffee Beans in a Vitamix?**](/posts/can-you-grind-coffee-beans-in-a-vitamix/)
 
 ## Conclusion
 

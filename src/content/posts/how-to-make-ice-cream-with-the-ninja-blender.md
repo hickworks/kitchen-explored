@@ -13,7 +13,7 @@ Would you like to know how to make ice cream with the Ninja Blender? You should 
 
 The Ninja blender is a versatile kitchen that has the capability to create smoothies, soups and even crush ice with minimal effort. Apart from this, the Ninja blender will also allow you to create homemade ice cream with ease. The Ninja blender is equipped with a powerful motor and also with an elegant design. With the Ninja blender, you will be able to create an easy, efficient and satisfying homemade ice creams.
 
-[**Related Article: Can Nutribullet grind Coffee?**](http://kitchenexplored.com/can-nutribullet-grind-coffee/)
+[**Related Article: Can Nutribullet grind Coffee?**](/posts/can-nutribullet-grind-coffee/)
 
 ## Ingredients and Equipment
 
@@ -44,7 +44,7 @@ Creating ice cream using a Ninja blender you will need ingredients that will all
 -   **Step 9 –** Once you are done and satisfied with the texture, transfer the blend into a freezer-safe container. Once you complete pouring secure the container with a lid to ensure the mixture does not experience freeze burn.
 -   **Step 10 –** The final step is to put the container into the freezer and let the ice cream stay there for several hours or even a night. The freezing time will highly depend on the type of recipe and also your preferred preference. It is also important to check regularly and stir the ice cream so that you are able to prevent ice crystals from being formed.
 
-[**Related Article: Can you grind cinnamon sticks in a blender?**](http://kitchenexplored.com/can-you-grind-cinnamon-sticks-in-a-blender/)
+[**Related Article: Can you grind cinnamon sticks in a blender?**](/posts/can-you-grind-cinnamon-sticks-in-a-blender/)
 
 ## Pros of using Ninja Blender
 
@@ -77,7 +77,7 @@ The blender is powerful.
 -   Store in containers that have wrap barriers.
 -   Avoid temperature fluctuations.
 
-[Related Article: Which is the quietest Ninja Blender?](http://kitchenexplored.com/which-is-the-quietest-ninja-blender/)
+[Related Article: Which is the quietest Ninja Blender?](/posts/which-is-the-quietest-ninja-blender/)
 
 ## Conclusion
 

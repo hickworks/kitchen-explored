@@ -13,7 +13,7 @@ Would you like to know if you can use a Ninja Blender as a food processor? If ye
 
 **Yes, you can use a ninja blender as a food processor. Some models of the ninja blenders come with attachments that allow them to be used as food processors. The blenders also have well designed blades and disks for tasks such as chopping, grinding, and pureeing. However, it is important to note that not all ninja blenders have these attachments, so it is best to check the specific model you have or are considering to purchase.**
 
-**[Related Article: Ninja BN701 vs BL610](http://kitchenexplored.com/ninja-bn701-vs-bl610/)**
+**[Related Article: Ninja BN701 vs BL610](/posts/ninja-bn701-vs-bl610/)**
 
 ## What is a food processor?
 
@@ -46,7 +46,7 @@ A ninja blender can be used to process a wide range of foods, including fruits, 
 
 Overall, the specific foods that you can process in a ninja blender will highly depend on the model you have and the attachments that come with it. Some ninja blenders may be better suited to certain tasks than others, so it is best to check the instructions for your specific model to see what it can handle.
 
-**[Related Article: Which is the quietest Ninja Blender?](http://kitchenexplored.com/which-is-the-quietest-ninja-blender/)**
+**[Related Article: Which is the quietest Ninja Blender?](/posts/which-is-the-quietest-ninja-blender/)**
 
 ## What are the pros of using a ninja blender as a food processor?
 

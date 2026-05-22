@@ -17,7 +17,7 @@ If you’re like most people, you probably don’t think about cleaning your ble
 
 It is important to clean your Nutribullet blender pitcher on a regular basis to ensure that it continues to work properly and doesn’t develop any bacteria. Here are some simple steps on how to clean your Nutribullet blender pitcher:
 
-**[Related Article: Can You Put Hot Liquid in A Ninja Blender?](http://kitchenexplored.com/can-you-put-hot-liquid-in-a-ninja-blender/)**
+**[Related Article: Can You Put Hot Liquid in A Ninja Blender?](/posts/can-you-put-hot-liquid-in-a-ninja-blender/)**
 
 ## How to Clean the Nutribullet blender?
 
@@ -54,7 +54,7 @@ Do not dissemble blade assembly.
 
 If you follow these simple tips, your Nutribullet blender pitcher will stay clean and last for many years to come.
 
-**[Related Article: Can you make hummus in a ninja blender?](http://kitchenexplored.com/can-you-make-hummus-in-a-ninja-blender/)**
+**[Related Article: Can you make hummus in a ninja blender?](/posts/can-you-make-hummus-in-a-ninja-blender/)**
 
 ## Parts of the Nutribullet
 
@@ -86,7 +86,7 @@ Another alternative is to use distilled white vinegar instead of water when maki
 
 If you find that your blender pitcher is still not coming clean, you can try soaking it in a solution of equal parts water and vinegar for 30 minutes. This should help loosen any stubborn buildup so that you can easily scrub it away. Be sure to rinse the pitcher thoroughly afterward to remove any lingering vinegar taste.
 
-**[Related Article: How to blend without a blender?](http://kitchenexplored.com/how-to-blend-without-a-blender/)**
+**[Related Article: How to blend without a blender?](/posts/how-to-blend-without-a-blender/)**
 
 ## Conclusion “How to clean nutribullet blender pitcher?”
 

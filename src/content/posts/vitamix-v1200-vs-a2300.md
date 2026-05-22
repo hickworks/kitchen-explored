@@ -13,7 +13,7 @@ Are you looking for a high-quality blender on the market? We are very sure that 
 
 **The difference between the Vitamix V1200 and A2300 is the motor power. The Vitamix A2300 has a 1640 watt motor while the Vitamix V1200 has 1440 watts of motor power. This shows that the Vitamix A2300 has more power and hence can blend tougher ingredients than the Vitamix V1200.**
 
-[**Related Article: Vitamix 750 vs E320**](http://kitchenexplored.com/vitamix-e320-vs-750/)
+[**Related Article: Vitamix 750 vs E320**](/posts/vitamix-e320-vs-750/)
 
 * * *
 
@@ -68,7 +68,7 @@ This blender is suitable for creating smoothies, soups, sauces, nut butter, froz
 -   Manufacture – Vitamix
 -   Location – Cleveland, Ohio USA.
 
-**[Related Article: Vitamix 750 vs Vitamix 1200](http://kitchenexplored.com/vitamix-750-vs-v1200/)**
+**[Related Article: Vitamix 750 vs Vitamix 1200](/posts/vitamix-750-vs-v1200/)**
 
 ### **Pros and Cons**
 
@@ -110,7 +110,7 @@ This blender is suitable for creating smoothies, soups, sauces, nut butter, froz
 4.  Dimensions – The Vitamix v1200 has dimensions of 10.5 x 8 x 17 inches while the Vitamix a2300 has 11 x 8 x17.
 5.  **Weight** – The Vitamix v1200 has a weight of 12 pounds while the A2300 has a weight of 11.7 pounds.
 
-[Related Article: Ninja SS351 vs BN801](http://kitchenexplored.com/ninja-ss351-vs-bn801/)
+[Related Article: Ninja SS351 vs BN801](/posts/ninja-ss351-vs-bn801/)
 
 * * *
 

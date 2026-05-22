@@ -15,7 +15,7 @@ Would you like to know whether blending a banana is unhealthy? If yes, then you 
 
  However, the blending process exposes the blended banana to air and oxygen.
 
-**[Related article: Can you grind chicken bones in a blender?](http://kitchenexplored.com/can-you-grind-chicken-bones-in-a-blender/)**
+**[Related article: Can you grind chicken bones in a blender?](/posts/can-you-grind-chicken-bones-in-a-blender/)**
 
 ## Nutritional Profile of Bananas
 
@@ -63,7 +63,7 @@ On the other hand, blending only breaks down the banana structure into a smooth 
 
 If you are too concerned, then using low glycemic ingredients will be a great option since it will offer well-balanced protein, fiber and fat levels. This will enable you to mitigate the blood sugar content.
 
-[**Related Article: Can I make whipped cream in a blender?**](http://kitchenexplored.com/can-i-make-whipped-cream-in-a-blender/)
+[**Related Article: Can I make whipped cream in a blender?**](/posts/can-i-make-whipped-cream-in-a-blender/)
 
 ## Antioxidant Activity
 
@@ -99,7 +99,7 @@ No, blending a banana does not destroy potassium. Infarct, blending a banana lea
 
 Yes, nutrients can be lost if you over-blend. Overbending leads to the generation of heat which burns nutrients in the banana. If you don’t over-blend, the nutrients will not be lost.
 
-[**Related Article: Can You Grind Coffee in a Magic Bullet?**](http://kitchenexplored.com/can-you-grind-coffee-in-a-magic-bullet/)
+[**Related Article: Can You Grind Coffee in a Magic Bullet?**](/posts/can-you-grind-coffee-in-a-magic-bullet/)
 
 ## **Conclusion**                                                          
 

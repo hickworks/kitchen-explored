@@ -22,7 +22,7 @@ Would you like to know how to keep your pizza warm in an oven? Pizza is one of t
 
 It is also important that preheating pizza enables an even cooking that results in the pizza having a crispy crust as well as melted cheese.
 
-[**Related Article: Best ovens for sublimation**](http://kitchenexplored.com/best-ovens-for-sublimation/)
+[**Related Article: Best ovens for sublimation**](/posts/best-ovens-for-sublimation/)
 
 * * *
 
@@ -49,7 +49,7 @@ There are several cookware models and serving dishes that can be used to maintai
 -   **Insulated pizza pan** – Insulated pizza pans are well-designed with many layers that can retain heat well. They are built with an insulated core and a metal layer. This ensures that the pizza can be warmer for a longer time.
 -   **Pizza Box** – This is one of the cheapest and most readily available solutions to retain heat. After making a pizza order, let the pizza remain in the box. Though it can retain heat it is not as effective as other methods in our list.
 
-[**Related Article: Best French door toaster oven**](http://kitchenexplored.com/best-french-door-toaster-oven/)
+[**Related Article: Best French door toaster oven**](/posts/best-french-door-toaster-oven/)
 
 * * *
 
@@ -83,7 +83,7 @@ Here is how an oven works:
 -   **Safety –** Knowing the safety requirements of your oven can help you prevent any accidents hence having a safer environment.
 -   **Energy efficiency –** Understanding your oven features can help you to save or reduce energy consumption hence reducing your utility bill.
 
-[**Related Article: Best French door toaster oven**](http://kitchenexplored.com/best-french-door-toaster-oven/)
+[**Related Article: Best French door toaster oven**](/posts/best-french-door-toaster-oven/)
 
 * * *
 
@@ -117,7 +117,7 @@ No, a pizza box should not be put in an oven. This is because a pizza box is con
 
 You can keep the pizza in an oven for 30 mins to 1 hour which highly depends on the temperature and thickness of the pizza. Before you start the warming process, check the pizza requirement to avoid overcooking or drying outTop of FormBottom of Form
 
-[**Related Article: Can you turn off self cleaning oven early?**](http://kitchenexplored.com/can-you-turn-off-self-cleaning-oven-early/)
+[**Related Article: Can you turn off self cleaning oven early?**](/posts/can-you-turn-off-self-cleaning-oven-early/)
 
 * * *
 

@@ -13,7 +13,7 @@ What is the difference between the Ninja BL910 vs BL770? The Ninja BL910 and the
 
 **The difference between the Ninj BL910 and the Ninja BL770 is the motor power. The Ninja BL770 has a higher motor power of 1500 watts while the Ninja BL910 is equipped with a 1200 watts motor. This vividly shows us that the Ninja BL770 has more power and can handle tougher blending operations compared to the Ninja BL910.**
 
-**[Related Article: Ninja bl610 vs bl710](http://kitchenexplored.com/ninja-bl610-vs-bl710/)**
+**[Related Article: Ninja bl610 vs bl710](/posts/ninja-bl610-vs-bl710/)**
 
 * * *
 
@@ -68,7 +68,7 @@ Lastly, the Ninja BL770 has a built-in food processor that makes it very easy to
 -   Functions – ice crush, smoothie
 -   Overload protection - Yes
 
-**[Related Article: Ninja Bn801 vs BL770](http://kitchenexplored.com/ninja-bl770-vs-bn801/)**
+**[Related Article: Ninja Bn801 vs BL770](/posts/ninja-bl770-vs-bn801/)**
 
 ## Pros and Cons of the Ninja BL770
 
@@ -115,7 +115,7 @@ The following are the differences between the Ninja BL910 vs BL770
 -   **Cord length** – The Ninja BL770 has a cord length of 34.8 inches while the Ninja BL910 has 30 inches.
 -   **Noise level** – The Ninja BL770 has a noise level of up to 97 dBA while the Ninja BL910 has 88 dBA.
 
-**[Related Article: Ninja BL660 vs BL610.](http://kitchenexplored.com/ninja-bl660-vs-bl610/)**
+**[Related Article: Ninja BL660 vs BL610.](/posts/ninja-bl660-vs-bl610/)**
 
 * * *
 

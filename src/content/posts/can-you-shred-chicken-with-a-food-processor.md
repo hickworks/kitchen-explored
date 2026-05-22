@@ -15,7 +15,7 @@ Can you use a food processor to shred chicken?
 
 **Yes, you can use a food processor to shred chicken. To do this, first cook the chicken until it is tender. Allow it to cool slightly, and then cut it into small pieces that will fit easily into the food processor.**
 
-**[Related Article: Can a ninja blender be used as a food processor?](http://kitchenexplored.com/can-i-use-a-ninja-blender-as-a-food-processor/)**
+**[Related Article: Can a ninja blender be used as a food processor?](/posts/can-i-use-a-ninja-blender-as-a-food-processor/)**
 
 ## What is a food processor?
 
@@ -54,7 +54,7 @@ If you don't have a food processor or don't want to use it to shred chicken, the
 
 Finally, you can also use **a knife** to shred the chicken. Cook and cool the chicken as described above, and then use a **sharp knife** to cut the meat into thin strips. This method will produce shredded chicken that is similar in texture to that produced by a food processor, but it will take longer and may require more skill and precision.
 
-**[Related Article: Which is the quietest Ninja Blender?](http://kitchenexplored.com/which-is-the-quietest-ninja-blender/)**
+**[Related Article: Which is the quietest Ninja Blender?](/posts/which-is-the-quietest-ninja-blender/)**
 
 ## The Difference Between Shredding and Chopping
 
