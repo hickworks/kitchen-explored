@@ -5,7 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/11/Ninja-bn701-3.jpg"
 imageAlt: "Ninja BN701 blender"
-description: "The Ninja BN701 is a 1000-watt Professional Plus Blender with Auto-iQ, a 72-oz Total Crushing Pitcher, and included single-serve cups — a capable mid-range blender for daily use."
+description: "The Ninja BN701 packs a 1000-watt motor, Auto-iQ programs, a 72-oz Total Crushing Pitcher, and single-serve cups — a solid mid-range blender for daily use."
 ---
 
 ## Ninja BN701 Review: Is It Worth Buying?

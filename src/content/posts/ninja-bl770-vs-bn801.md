@@ -5,7 +5,7 @@ category: blenders
 featured: false
 image: "/uploads/2022/12/bn801-vs-bl770-e1671882474468.jpg"
 imageAlt: "Ninja BL770 vs BN801"
-description: "The Ninja BL770 has a more powerful 1500-watt motor and a dedicated food processor bowl, while the BN801 offers 5 Auto-iQ programs and included single-serve cups."
+description: "The BL770 has a 1500-watt motor and food processor bowl; the BN801 offers 5 Auto-iQ programs and single-serve cups. Here's how they compare."
 ---
 
 ## Ninja BL770 vs BN801: Which Should You Buy?
