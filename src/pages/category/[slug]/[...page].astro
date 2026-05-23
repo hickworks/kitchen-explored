@@ -13,6 +13,15 @@ const LABELS: Record<string, string> = {
   'pressure-cooker': 'Pressure Cookers',
 };
 
+const DESCRIPTIONS: Record<string, string> = {
+  blenders: 'Browse in-depth blender comparisons and reviews. We test Vitamix, Ninja, NutriBullet, and more to help you find the right blender for your kitchen and budget.',
+  cookware: 'Compare cookware brands and materials — stainless steel, nonstick, cast iron, and more. Find the best pots and pans for your cooking style and budget.',
+  faucet: 'Compare kitchen faucets by style, finish, and functionality. Our reviews cover pull-down, pull-out, and touchless models to help you find the right fit.',
+  ovens: 'Compare toaster ovens, convection ovens, and countertop ovens. Our reviews cover performance, capacity, and value to help you choose the right oven.',
+  knives: 'Compare kitchen knives, chef\'s knives, and knife sets. Our reviews cover blade quality, handle comfort, and edge retention to help you cook better.',
+  'pressure-cooker': 'Compare electric pressure cookers and Instant Pots. Our reviews cover capacity, programs, safety features, and value for every type of home cook.',
+};
+
 export async function getStaticPaths({ paginate }: { paginate: Function }) {
   const allPosts = await getCollection('posts');
   const slugs = ['blenders', 'cookware', 'faucet', 'ovens', 'knives', 'pressure-cooker'];
@@ -43,7 +52,9 @@ const categories = [
 
 <BaseLayout
   title={page.currentPage > 1 ? `${label} — Page ${page.currentPage}` : label}
-  description={`${label} product comparisons and reviews.`}
+  description={page.currentPage > 1
+    ? `${DESCRIPTIONS[slug] ?? `${label} product comparisons and reviews.`} — Page ${page.currentPage} of ${page.lastPage}.`
+    : (DESCRIPTIONS[slug] ?? `${label} product comparisons and reviews.`)}
   activeCategory={slug}
 >
 
