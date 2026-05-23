@@ -24,6 +24,6 @@ pnpm-debug.log*
 .idea/
 
 # WordPress export files and unprocessed media
-uploads/
+/uploads/
 /*.xml
 /*.png
