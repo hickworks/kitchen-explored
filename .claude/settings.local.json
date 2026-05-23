@@ -66,7 +66,9 @@
       "Bash(grep -n \"navy\" tailwind.config.*)",
       "Bash(grep -n \"navy\" tailwind.config.mjs)",
       "Bash(xargs ls -la)",
-      "Bash(awk '{print $5, $9}')"
+      "Bash(awk '{print $5, $9}')",
+      "WebFetch(domain:recglasses.com)",
+      "Bash(xargs sed -i 's/max-w-\\\\[1344px\\\\]/max-w-\\\\[1440px\\\\]/g')"
     ]
   }
 }
