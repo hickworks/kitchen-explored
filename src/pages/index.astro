@@ -131,6 +131,7 @@ const toDate  = (d: Date)   => d.toLocaleDateString('en-US', { month: 'short', d
                 ))}
                 <a
                   href={heroPost ? `/category/${heroPost.data.category}/` : '/'}
+                  aria-label={heroPost ? `Read all ${toLabel(heroPost.data.category)} posts` : 'Read all posts'}
                   class="mt-4 flex items-center justify-center h-10 rounded-lg border border-gray-200 text-sm font-medium text-gray-700 hover:border-navy hover:text-navy transition-colors"
                 >
                   Read All Posts
@@ -234,6 +235,7 @@ const toDate  = (d: Date)   => d.toLocaleDateString('en-US', { month: 'short', d
                       ))}
                       <a
                         href={`/category/${section.slug}/`}
+                        aria-label={`Read all ${section.label} posts`}
                         class="mt-4 flex items-center justify-center h-10 rounded-lg border border-gray-200 text-sm font-medium text-gray-700 hover:border-navy hover:text-navy transition-colors"
                       >
                         Read All Posts
@@ -277,7 +279,7 @@ const toDate  = (d: Date)   => d.toLocaleDateString('en-US', { month: 'short', d
                       >
                         <div class="w-12 h-12 rounded-lg overflow-hidden shrink-0 bg-gray-200">
                           {post.data.image && (
-                            <img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} class="w-full h-full object-cover" />
+                            <img src={post.data.image} alt="" class="w-full h-full object-cover" />
                           )}
                         </div>
                         <p class="flex-1 min-w-0 text-sm font-semibold text-gray-900 group-hover:text-navy transition-colors line-clamp-2 leading-snug">{post.data.title}</p>
