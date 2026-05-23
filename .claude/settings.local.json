@@ -64,7 +64,9 @@
       "Bash(python3 *)",
       "Bash(curl *)",
       "Bash(grep -n \"navy\" tailwind.config.*)",
-      "Bash(grep -n \"navy\" tailwind.config.mjs)"
+      "Bash(grep -n \"navy\" tailwind.config.mjs)",
+      "Bash(xargs ls -la)",
+      "Bash(awk '{print $5, $9}')"
     ]
   }
 }
