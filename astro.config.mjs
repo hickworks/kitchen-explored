@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
-  site: 'https://kitchenexplored.com',
+  site: 'https://www.kitchenexplored.com',
   output: 'static',
   integrations: [mdx(), sitemap()],
   markdown: {
