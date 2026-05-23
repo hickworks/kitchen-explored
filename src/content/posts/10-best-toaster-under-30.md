@@ -259,7 +259,7 @@ The other visible feature is its extra-wide slots that have the capability to ho
 
 * * *
 
-## **[1\. Elite Gourmet ECT118B](<http://Elite Gourmet ECT118B>)**
+## **1. Elite Gourmet ECT118B**
 
 **Special features:** Drop-down crumb tray
 
