@@ -265,6 +265,7 @@ const toDate  = (d: Date)   => d.toLocaleDateString('en-US', { month: 'short', d
                     </h2>
                     <a
                       href={`/category/${section.slug}/`}
+                      aria-label={`Read more ${section.label}`}
                       class="shrink-0 ml-4 px-3 py-1.5 rounded-lg border border-gray-300 text-xs font-medium text-gray-700 hover:border-navy hover:text-navy transition-colors"
                     >
                       Read More
