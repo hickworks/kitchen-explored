@@ -1,5 +1,5 @@
 ---
-title: "Can you replace a kitchen sink without replacing the countertop?"
+title: "New Kitchen Sink Without Replacing the Countertop"
 pubDate: 2023-05-26
 category: faucet
 featured: false

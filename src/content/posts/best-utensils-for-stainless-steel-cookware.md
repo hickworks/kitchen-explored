@@ -1,5 +1,5 @@
 ---
-title: "<strong>Best utensils for stainless steel cookware</strong>"
+title: "Best Utensils for Stainless Steel Cookware"
 pubDate: 2023-04-05
 category: cookware
 featured: false

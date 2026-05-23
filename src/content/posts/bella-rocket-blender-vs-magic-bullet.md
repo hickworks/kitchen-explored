@@ -1,5 +1,5 @@
 ---
-title: "<strong>Bella rocket blender vs magic bullet</strong>"
+title: "Bella Rocket Blender vs Magic Bullet"
 pubDate: 2023-04-03
 category: blenders
 featured: false
