@@ -277,7 +277,7 @@ const toDate  = (d: Date)   => d.toLocaleDateString('en-US', { month: 'short', d
                       >
                         <div class="w-12 h-12 rounded-lg overflow-hidden shrink-0 bg-gray-200">
                           {post.data.image && (
-                            <img src={post.data.image} alt="" class="w-full h-full object-cover" />
+                            <img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} class="w-full h-full object-cover" />
                           )}
                         </div>
                         <p class="flex-1 min-w-0 text-sm font-semibold text-gray-900 group-hover:text-navy transition-colors line-clamp-2 leading-snug">{post.data.title}</p>
