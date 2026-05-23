@@ -85,10 +85,10 @@ const categories = [
           <a
             href={`/category/${cat.slug}/`}
             class:list={[
-              'px-3 py-1.5 rounded-md text-sm whitespace-nowrap transition-colors',
+              'px-3.5 py-1.5 rounded-md text-sm font-medium whitespace-nowrap transition-colors',
               cat.slug === slug
                 ? 'bg-navy text-white font-semibold'
-                : 'text-gray-600 hover:text-navy hover:bg-gray-50',
+                : 'text-gray-600 hover:bg-gray-100 hover:text-navy',
             ]}
           >
             {cat.label}
