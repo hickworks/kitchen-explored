@@ -1,6 +1,6 @@
 ---
 title: "Are glass blenders better than plastic?"
-pubDate: 2022-11-08
+pubDate: 2022-12-08
 category: blenders
 featured: false
 image: "/uploads/2022/11/711rlNbZmkL._AC_SL1500_-e1667922968324.jpg"

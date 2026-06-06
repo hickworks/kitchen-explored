@@ -1,6 +1,6 @@
 ---
 title: "Is naked juice healthy?"
-pubDate: 2022-11-18
+pubDate: 2022-12-18
 category: blenders
 featured: false
 image: "/uploads/2022/11/Naked-Juice-3-e1668713695386.jpg"

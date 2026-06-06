@@ -1,6 +1,6 @@
 ---
 title: "Can You Grind Coffee in a Magic Bullet?"
-pubDate: 2023-02-03
+pubDate: 2023-03-03
 category: blenders
 featured: false
 image: "/uploads/2023/02/Magic-bullet-blender-e1675373801208.jpg"

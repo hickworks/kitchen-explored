@@ -1,6 +1,6 @@
 ---
 title: "Can I make whipped cream in a blender?"
-pubDate: 2023-02-10
+pubDate: 2023-03-10
 category: blenders
 featured: false
 image: "/uploads/2023/02/whipped-cream-e1676032670986.jpg"

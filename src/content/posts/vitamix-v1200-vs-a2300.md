@@ -1,6 +1,6 @@
 ---
 title: "Vitamix v1200 vs A2300"
-pubDate: 2023-03-23
+pubDate: 2023-04-23
 category: blenders
 featured: false
 image: "/uploads/2023/03/a2300-scaled-e1679523775758.jpg"

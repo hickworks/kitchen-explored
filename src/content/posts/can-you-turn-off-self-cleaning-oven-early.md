@@ -1,6 +1,6 @@
 ---
 title: "Can you turn off self cleaning oven early?"
-pubDate: 2023-03-22
+pubDate: 2023-04-22
 category: ovens
 featured: false
 image: "/uploads/2023/03/self-cleaning-oven-2.jpg"

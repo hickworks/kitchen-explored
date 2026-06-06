@@ -1,6 +1,6 @@
 ---
 title: "Can You Use a Blender as A Food Processor?"
-pubDate: 2023-01-10
+pubDate: 2023-02-10
 category: blenders
 featured: false
 image: "/uploads/2023/01/food-processor-vs-blender-e1673305244861.png"

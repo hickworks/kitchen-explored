@@ -1,6 +1,6 @@
 ---
 title: "Why is my kitchen sink gurgling?"
-pubDate: 2023-07-04
+pubDate: 2023-08-04
 category: faucet
 featured: false
 image: "/uploads/2023/07/71lWIu0Sz9L._AC_SL1500_-e1688411739948.jpg"

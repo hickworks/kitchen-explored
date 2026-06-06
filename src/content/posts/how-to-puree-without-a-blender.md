@@ -1,6 +1,6 @@
 ---
 title: "How to puree without a blender?"
-pubDate: 2023-06-06
+pubDate: 2023-07-06
 category: blenders
 featured: false
 image: "/uploads/2023/06/Grater-e1686002133258.jpg"

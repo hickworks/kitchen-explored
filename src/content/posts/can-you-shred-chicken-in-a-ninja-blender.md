@@ -1,6 +1,6 @@
 ---
 title: "CAN YOU SHRED CHICKEN IN A NINJA BLENDER?"
-pubDate: 2022-11-19
+pubDate: 2022-12-19
 category: blenders
 featured: false
 image: "/uploads/2022/11/Ninja-Blender-e1668849558340.jpg"

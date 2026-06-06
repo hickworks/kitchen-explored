@@ -1,6 +1,6 @@
 ---
 title: "All clad D5 VS D7"
-pubDate: 2023-02-06
+pubDate: 2023-03-06
 category: cookware
 featured: false
 image: "/uploads/2023/02/All-clad-D5-VS-D7-e1675634343936.jpg"

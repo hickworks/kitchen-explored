@@ -1,6 +1,6 @@
 ---
 title: "Ninja BN701 Review"
-pubDate: 2022-11-30
+pubDate: 2022-12-30
 category: blenders
 featured: false
 image: "/uploads/2022/11/Ninja-bn701-3.jpg"

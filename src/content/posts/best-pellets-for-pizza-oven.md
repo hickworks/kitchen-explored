@@ -1,6 +1,6 @@
 ---
 title: "Best pellets for pizza oven"
-pubDate: 2023-07-17
+pubDate: 2023-08-17
 category: ovens
 featured: false
 image: "/uploads/2023/07/Traeger-Grills-Signature-Blend-100-e1689536371280.jpg"

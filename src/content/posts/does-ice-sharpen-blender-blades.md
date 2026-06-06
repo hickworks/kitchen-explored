@@ -1,6 +1,6 @@
 ---
 title: "Does ice sharpen blender blades?"
-pubDate: 2022-12-24
+pubDate: 2023-01-24
 category: blenders
 featured: false
 image: "/uploads/2022/12/ice-e1671872937410.jpg"

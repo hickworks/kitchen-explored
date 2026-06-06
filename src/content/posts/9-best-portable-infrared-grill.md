@@ -1,6 +1,6 @@
 ---
 title: "9 Best portable infrared grill"
-pubDate: 2023-07-23
+pubDate: 2023-08-23
 category: ovens
 featured: false
 image: "/uploads/2023/07/Newport-II-Infrared-Gourmet-Series-Gas-Grill-e1690099300169.jpg"

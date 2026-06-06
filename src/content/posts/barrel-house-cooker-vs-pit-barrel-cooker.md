@@ -1,6 +1,6 @@
 ---
 title: "Barrel House Cooker vs Pit Barrel Cooker"
-pubDate: 2023-05-27
+pubDate: 2023-06-27
 category: cookware
 featured: false
 image: "/uploads/2023/05/1-7-scaled-e1685190675984.jpg"

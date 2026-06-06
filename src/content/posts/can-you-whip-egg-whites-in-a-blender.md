@@ -1,6 +1,6 @@
 ---
 title: "Can you Whip Egg Whites in a Blender?"
-pubDate: 2022-11-22
+pubDate: 2022-12-22
 category: blenders
 featured: false
 image: "/uploads/2022/11/egg-whites-1-e1669060744866.jpg"

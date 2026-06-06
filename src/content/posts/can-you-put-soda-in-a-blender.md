@@ -1,6 +1,6 @@
 ---
 title: "Can you Put Soda in a Blender?"
-pubDate: 2022-11-18
+pubDate: 2022-12-18
 category: blenders
 featured: false
 image: "/uploads/2022/11/vitamix-blender-2-e1668723363444.jpg"

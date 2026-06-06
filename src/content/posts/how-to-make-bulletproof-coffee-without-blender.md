@@ -1,6 +1,6 @@
 ---
 title: "How To Make Bulletproof Coffee without Blender?"
-pubDate: 2022-11-29
+pubDate: 2022-12-29
 category: blenders
 featured: false
 image: "/uploads/2022/11/Bullet-proof-coffee-1-e1669726983519.jpg"

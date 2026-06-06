@@ -1,6 +1,6 @@
 ---
 title: "Ninja SS351 vs BN801"
-pubDate: 2023-01-20
+pubDate: 2023-02-20
 category: blenders
 featured: false
 image: "/uploads/2023/01/Ninja-SS351-vs-BN801-e1674171159279.jpg"

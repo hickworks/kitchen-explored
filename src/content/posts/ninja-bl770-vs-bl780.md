@@ -1,6 +1,6 @@
 ---
 title: "Ninja BL770 Vs BL780"
-pubDate: 2022-12-24
+pubDate: 2023-01-24
 category: blenders
 featured: false
 image: "/uploads/2022/12/Ninja-BL770-Vs-BL780.jpg"

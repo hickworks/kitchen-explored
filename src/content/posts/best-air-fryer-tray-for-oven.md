@@ -1,6 +1,6 @@
 ---
 title: "Best air fryer tray for oven"
-pubDate: 2023-07-16
+pubDate: 2023-08-16
 category: ovens
 featured: false
 image: "/uploads/2023/07/EaZy-MealZ-Crisping-Basket-Tray-Set-e1689510678715.jpg"

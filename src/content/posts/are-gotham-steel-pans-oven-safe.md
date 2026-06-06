@@ -1,6 +1,6 @@
 ---
 title: "Are Gotham steel pans oven safe?"
-pubDate: 2023-03-21
+pubDate: 2023-04-21
 category: ovens
 featured: false
 image: "/uploads/2023/03/Gotham-Steel-Nonstick-e1679348120270.jpg"

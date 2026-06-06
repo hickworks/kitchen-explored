@@ -1,6 +1,6 @@
 ---
 title: "Are blender bottles dishwasher safe?"
-pubDate: 2023-06-02
+pubDate: 2023-07-02
 category: blenders
 featured: false
 image: "/uploads/2023/06/Are-blender-bottl-e1685648708274.jpg"

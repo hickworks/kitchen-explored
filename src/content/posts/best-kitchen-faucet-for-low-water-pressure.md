@@ -1,6 +1,6 @@
 ---
 title: "Best kitchen faucet for low water pressure"
-pubDate: 2023-04-23
+pubDate: 2023-05-23
 category: faucet
 featured: false
 image: "/uploads/2023/04/OWOFAN-Kitchen-Faucet-1.jpg"

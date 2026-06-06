@@ -1,6 +1,6 @@
 ---
 title: "How to tighten kitchen faucet nut under sink?"
-pubDate: 2023-05-17
+pubDate: 2023-06-17
 category: faucet
 featured: false
 image: "/uploads/2023/05/How-to-tighten-kitchen-faucet-nut-u.jpg"

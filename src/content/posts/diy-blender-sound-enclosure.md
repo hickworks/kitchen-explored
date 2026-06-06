@@ -1,6 +1,6 @@
 ---
 title: "DIY Blender sound enclosure"
-pubDate: 2022-11-25
+pubDate: 2022-12-25
 category: blenders
 featured: false
 image: "/uploads/2022/11/DIY-Blender-sound-enclosure-1.jpg"

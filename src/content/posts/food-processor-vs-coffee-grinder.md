@@ -1,6 +1,6 @@
 ---
 title: "Food processor vs Coffee grinder"
-pubDate: 2022-11-25
+pubDate: 2022-12-25
 category: blenders
 featured: false
 image: "/uploads/2022/11/coffee-grinder-2-e1669382624485.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "7 Best toaster oven for powder coating"
-pubDate: 2023-07-23
+pubDate: 2023-08-23
 category: ovens
 featured: false
 image: "/uploads/2023/07/Toaster-Oven-e1690103397655.jpg"

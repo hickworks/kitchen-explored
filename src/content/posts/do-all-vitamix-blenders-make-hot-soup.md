@@ -1,6 +1,6 @@
 ---
 title: "Do all Vitamix blenders make hot soup?"
-pubDate: 2022-11-12
+pubDate: 2022-12-12
 category: blenders
 featured: false
 image: "/uploads/2022/11/Vitamix-5200-e1668205061838.jpg"

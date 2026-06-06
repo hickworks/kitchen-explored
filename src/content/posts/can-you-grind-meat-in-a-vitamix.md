@@ -1,6 +1,6 @@
 ---
 title: "Can you grind meat in a Vitamix?"
-pubDate: 2022-11-25
+pubDate: 2022-12-25
 category: blenders
 featured: false
 image: "/uploads/2022/11/vitamix-blender-4-e1669374999756.jpg"

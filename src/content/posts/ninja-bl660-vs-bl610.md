@@ -1,6 +1,6 @@
 ---
 title: "Ninja BL660 vs BL610"
-pubDate: 2022-12-23
+pubDate: 2023-01-23
 category: blenders
 featured: false
 image: "/uploads/2022/12/Ninja-BL660-3.jpg"

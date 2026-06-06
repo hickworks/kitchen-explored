@@ -1,6 +1,6 @@
 ---
 title: "<strong>13 Best Blender for Making Flour</strong>"
-pubDate: 2022-12-15
+pubDate: 2023-01-15
 category: blenders
 featured: false
 image: "/uploads/2022/12/Ninja-BL770.jpg"

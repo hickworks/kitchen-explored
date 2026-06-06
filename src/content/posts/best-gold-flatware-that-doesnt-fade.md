@@ -1,6 +1,6 @@
 ---
 title: "Best gold flatware that doesn't fade"
-pubDate: 2023-04-18
+pubDate: 2023-05-18
 category: cookware
 featured: false
 image: "/uploads/2023/04/Gold-Silverware-Set-e1681757529755.jpg"

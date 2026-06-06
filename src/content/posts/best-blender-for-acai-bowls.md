@@ -1,6 +1,6 @@
 ---
 title: "Best blender for acai bowls"
-pubDate: 2023-04-24
+pubDate: 2023-05-24
 category: blenders
 featured: false
 image: "/uploads/2023/04/Ninja-BL770-Mega-Kitchen-System-blender-e1682306862522.jpg"

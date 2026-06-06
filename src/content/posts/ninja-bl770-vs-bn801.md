@@ -1,6 +1,6 @@
 ---
 title: "Ninja BL770 vs BN801"
-pubDate: 2022-12-24
+pubDate: 2023-01-24
 category: blenders
 featured: false
 image: "/uploads/2022/12/bn801-vs-bl770-e1671882474468.jpg"

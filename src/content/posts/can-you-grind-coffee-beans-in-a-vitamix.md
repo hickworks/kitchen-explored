@@ -1,6 +1,6 @@
 ---
 title: "Can You Grind Coffee Beans in a Vitamix?"
-pubDate: 2022-11-18
+pubDate: 2022-12-18
 category: blenders
 featured: false
 image: "/uploads/2022/11/Vitamix-A3500-e1668717147919.jpg"

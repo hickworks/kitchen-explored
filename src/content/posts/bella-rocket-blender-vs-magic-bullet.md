@@ -1,6 +1,6 @@
 ---
 title: "Bella Rocket Blender vs Magic Bullet"
-pubDate: 2023-04-03
+pubDate: 2023-05-03
 category: blenders
 featured: false
 image: "/uploads/2023/04/Bella-rocket-blender-vs-magic-bullet-scaled-e1680476804879.jpg"

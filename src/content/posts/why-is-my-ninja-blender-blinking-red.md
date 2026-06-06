@@ -1,6 +1,6 @@
 ---
 title: "Why is my ninja blender blinking red?"
-pubDate: 2023-05-04
+pubDate: 2023-06-04
 category: blenders
 featured: false
 image: "/uploads/2023/01/Ninja-BL910-1-e1683157324379.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Ninja BL641 vs BL642"
-pubDate: 2022-12-23
+pubDate: 2023-01-23
 category: blenders
 featured: false
 image: "/uploads/2022/12/Ninja-BL642-2.jpg"
