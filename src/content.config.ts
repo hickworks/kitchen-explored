@@ -12,6 +12,10 @@ const posts = defineCollection({
     featured: z.boolean().default(false),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
+    vsImage: z.object({
+      left: z.object({ src: z.string(), label: z.string(), alt: z.string().optional() }),
+      right: z.object({ src: z.string(), label: z.string(), alt: z.string().optional() }),
+    }).optional(),
   }),
 });
 
